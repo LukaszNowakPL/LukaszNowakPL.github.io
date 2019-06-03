@@ -272,6 +272,30 @@
         }
       ]
     },
+    "kairouan": {
+      "lat": 35.672552,
+      "lon": 10.099297,
+      "name": "Kairouan",
+      "country": "tunezja",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/C14Q8xOkzXyk7g5o1",
+          "tittle": "Kairouan"
+        }
+      ]
+    },
+    "el-jem": {
+      "lat": 35.297014,
+      "lon": 10.70695,
+      "name": "El Jem",
+      "country": "tunezja",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/iWKTwfggqLvjWkkp2",
+          "tittle": "El Jem"
+        }
+      ]
+    },
     "chott_el-jerid": {
       "lat": 33.910999,
       "lon": 8.137665,
@@ -3112,7 +3136,7 @@
     "grabarka": {
       "lat": 52.416733,
       "lon": 23.004681,
-      "name": "Góra Grabarks",
+      "name": "Góra Grabarka",
       "country": "polska"
     },
     "siemiatycze": {

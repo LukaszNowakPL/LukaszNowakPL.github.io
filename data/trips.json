@@ -2719,7 +2719,14 @@
           "tittle": "Pierwszy kontakt z czarnym lądem"
         }
       ],
-      "places": ["sousse", "monastir", "chott_el-jerid", "matmata"],
+      "places": [
+        "sousse",
+        "monastir",
+        "chott_el-jerid",
+        "matmata",
+        "kairouan",
+        "el-jem"
+      ],
       "routes": [
         {
           "dep": "wro",
