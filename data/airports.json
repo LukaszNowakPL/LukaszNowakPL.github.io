@@ -1,0 +1,800 @@
+{
+  "airports": {
+    "sxf": {
+      "lat": 52.380776,
+      "lon": 13.522525,
+      "name": "Berlin Schönefeld, SXF, Niemcy",
+      "country": "niemcy"
+    },
+    "ltn": {
+      "lat": 51.879826,
+      "lon": -0.375427,
+      "name": "Londyn Luton, LTN, Wielka Brytania",
+      "country": "wielka-brytania"
+    },
+    "wro": {
+      "lat": 51.102864,
+      "lon": 16.886573,
+      "name": "Wrocław, WRO, Polska",
+      "country": "polska"
+    },
+    "dub": {
+      "lat": 53.426256,
+      "lon": -6.238865,
+      "name": "Dublin, DUB, Irlandia",
+      "country": "irlandia",
+      "sleepingGuide": true
+    },
+    "lgw": {
+      "lat": 51.14918,
+      "lon": -0.183878,
+      "name": "Londyn Gatwick, LGW, Wielka Brytania",
+      "country": "wielka-brytania"
+    },
+    "stn": {
+      "lat": 51.887554,
+      "lon": 0.240054,
+      "name": "Londyn Stansted, STN, Wielka Brytania",
+      "country": "wielka-brytania",
+      "sleepingGuide": true
+    },
+    "tfn": {
+      "lat": 28.486738,
+      "lon": -16.344248,
+      "name": "Teneryfa - Los Rodeos, TFN, Hiszpania (Teneryfa)",
+      "country": "hiszpania"
+    },
+    "brs": {
+      "lat": 51.385787,
+      "lon": -2.716137,
+      "name": "Brystol, BRS, Wielka Brytania",
+      "country": "wielka-brytania",
+      "sleepingGuide": true
+    },
+    "mir": {
+      "lat": 35.758068,
+      "lon": 10.754707,
+      "name": "Monastir, MIR, Tunezja",
+      "country": "tunezja"
+    },
+    "nrn": {
+      "lat": 51.599438,
+      "lon": 6.150302,
+      "name": "Düsseldorf Weeze, NRN, Niemcy",
+      "country": "niemcy",
+      "sleepingGuide": true
+    },
+    "hhn": {
+      "lat": 49.946219,
+      "lon": 7.268139,
+      "name": "Frankfurt Hahn, HHN, Niemcy",
+      "country": "niemcy",
+      "sleepingGuide": true
+    },
+    "bgy": {
+      "lat": 45.665523,
+      "lon": 9.700345,
+      "name": "Mediolan Bergamo, BGY, Włochy",
+      "country": "wlochy",
+      "sleepingGuide": true,
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2010/08/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ]
+    },
+    "gro": {
+      "lat": 41.898303,
+      "lon": 2.765965,
+      "name": "Barcelona Girona, GRO, Hiszpania",
+      "country": "hiszpania",
+      "sleepingGuide": true,
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2011/04/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ]
+    },
+    "mad": {
+      "lat": 40.468603,
+      "lon": -3.567667,
+      "name": "Madryt, MAD, Hiszpania",
+      "country": "hiszpania",
+      "sleepingGuide": true
+    },
+    "sdr": {
+      "lat": 43.423343,
+      "lon": -3.823782,
+      "name": "Santander, SDR, Hiszpania",
+      "country": "hiszpania",
+      "sleepingGuide": true
+    },
+    "reu": {
+      "lat": 41.146242,
+      "lon": 1.153257,
+      "name": "Barcelona Reus, REU, Hiszpania",
+      "country": "hiszpania",
+      "sleepingGuide": true
+    },
+    "nyo": {
+      "lat": 58.783755,
+      "lon": 16.922693,
+      "name": "Sztokholm Skavsta, NYO, Szwecja",
+      "country": "szwecja"
+    },
+    "crl": {
+      "lat": 50.461736,
+      "lon": 4.454974,
+      "name": "Bruksela Charleroi, CRL, Belgia",
+      "country": "belgia",
+      "sleepingGuide": true
+    },
+    "cag": {
+      "lat": 39.252714,
+      "lon": 9.058127,
+      "name": "Cagliari, CAG, Włochy (Sardynia)",
+      "country": "wlochy",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2009/09/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ]
+    },
+    "alc": {
+      "lat": 38.284466,
+      "lon": -0.557399,
+      "name": "Alicante, ALC, Hiszpania",
+      "country": "hiszpania",
+      "sleepingGuide": true,
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2010/06/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ]
+    },
+    "scq": {
+      "lat": 42.899157,
+      "lon": -8.416486,
+      "name": "Santiago de Compostela, SCQ, Hiszpania",
+      "country": "hiszpania",
+      "sleepingGuide": true,
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2010/01/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ]
+    },
+    "opo": {
+      "lat": 41.248125,
+      "lon": -8.681349,
+      "name": "Porto, OPO, Portugalia",
+      "country": "portugalia",
+      "sleepingGuide": true,
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2010/05/spostrzezenia-wasne-przewodnik-po-porto.html"
+        }
+      ]
+    },
+    "trf": {
+      "lat": 59.181636,
+      "lon": 10.25126,
+      "name": "Oslo Torp, TRF, Norwegia",
+      "country": "norwegia",
+      "sleepingGuide": true
+    },
+    "dtm": {
+      "lat": 51.518889,
+      "lon": 7.61202,
+      "name": "Dortmund, DTM, Niemcy",
+      "country": "niemcy",
+      "sleepingGuide": true,
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2010/04/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ]
+    },
+    "cia": {
+      "lat": 41.80142,
+      "lon": 12.593633,
+      "name": "Rzym Ciampino, CIA, Włochy",
+      "country": "wlochy"
+    },
+    "ibz": {
+      "lat": 38.874289,
+      "lon": 1.372983,
+      "name": "Ibiza, IBZ, Hiszpania (Ibiza)",
+      "country": "hiszpania",
+      "sleepingGuide": true
+    },
+    "bcn": {
+      "lat": 41.300688,
+      "lon": 2.079921,
+      "name": "Barcelona El-Prat, BCN, Hiszpania",
+      "country": "hiszpania",
+      "sleepingGuide": true
+    },
+    "pmi": {
+      "lat": 39.549509,
+      "lon": 2.731891,
+      "name": "Palma de Mallorca, PMI, Hiszpania (Majorka)",
+      "country": "hiszpania",
+      "sleepingGuide": true
+    },
+    "tsf": {
+      "lat": 45.651026,
+      "lon": 12.20305,
+      "name": "Treviso, TSF, Włochy",
+      "country": "wlochy",
+      "sleepingGuide": true
+    },
+    "bva": {
+      "lat": 49.459104,
+      "lon": 2.11391,
+      "name": "Beauvais, BVA, Francja",
+      "country": "francja",
+      "sleepingGuide": true
+    },
+    "waw": {
+      "lat": 52.173963,
+      "lon": 20.967894,
+      "name": "Warszawa, WAW, Polska",
+      "country": "polska"
+    },
+    "oud": {
+      "lat": 34.78669,
+      "lon": -1.940217,
+      "name": "Oujda, OUD, Maroko",
+      "country": "maroko",
+      "sleepingGuide": true,
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2011/10/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ]
+    },
+    "lpl": {
+      "lat": 53.337295,
+      "lon": -2.853971,
+      "name": "Liverpool, LPL, Wielka Brytania",
+      "country": "wielka-brytania",
+      "sleepingGuide": true
+    },
+    "ork": {
+      "lat": 51.848838,
+      "lon": -8.489099,
+      "name": "Cork, ORK, Irlandia",
+      "country": "irlandia",
+      "sleepingGuide": true
+    },
+    "blq": {
+      "lat": 44.529574,
+      "lon": 11.293244,
+      "name": "Bologna, BLQ, Włochy",
+      "country": "wlochy",
+      "sleepingGuide": true
+    },
+    "frl": {
+      "lat": 44.197116,
+      "lon": 12.071214,
+      "name": "Forli, FRL, Włochy",
+      "country": "wlochy",
+      "sleepingGuide": true,
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2011/07/spostrzezenia-wasne-przewodnik-po-forli.html"
+        }
+      ]
+    },
+    "rix": {
+      "lat": 56.921559,
+      "lon": 23.979006,
+      "name": "Ryga, RIX, Łotwa",
+      "country": "lotwa",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2011/08/spostrzezenia-wasne-przewodnik-po-rydze.html"
+        }
+      ]
+    },
+    "tbs": {
+      "lat": 41.67154,
+      "lon": 44.959288,
+      "name": "Tbilisi, TBS, Gruzja",
+      "country": "gruzja",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2012/03/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ]
+    },
+    "fez": {
+      "lat": 33.92926,
+      "lon": -4.981402,
+      "name": "Fez, FEZ, Maroko",
+      "country": "maroko",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2012/09/spostrzezenia-wasne-przewodnik-po-fezie.html"
+        }
+      ]
+    },
+    "ist": {
+      "lat": 40.976853,
+      "lon": 28.815923,
+      "name": "Istambuł, IST, Turcja",
+      "country": "turcja"
+    },
+    "tfs": {
+      "lat": 28.047061,
+      "lon": -16.578898,
+      "name": "Teneryfa - Tenerife Sur, TFS, Hiszpania (Teneryfa)",
+      "country": "hiszpania"
+    },
+    "krk": {
+      "lat": 50.072042,
+      "lon": 19.801733,
+      "name": "Kraków, KRK, Polska",
+      "country": "polska"
+    },
+    "mmx": {
+      "lat": 55.540579,
+      "lon": 13.367429,
+      "name": "Malmö, MMX, Szwecja",
+      "country": "szwecja",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2012/10/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ]
+    },
+    "ein": {
+      "lat": 51.447053,
+      "lon": 5.388765,
+      "name": "Eindhoven, EIN, Holandia",
+      "country": "holandia"
+    },
+    "poz": {
+      "lat": 52.419473,
+      "lon": 16.82912,
+      "name": "Poznań, POZ, Polska",
+      "country": "polska"
+    },
+    "rak": {
+      "lat": 31.601858,
+      "lon": -8.0269,
+      "name": "Marrakesz, RAK, Maroko",
+      "country": "maroko"
+    },
+    "bud": {
+      "lat": 47.438611,
+      "lon": 19.252274,
+      "name": "Budapeszt, BUD, Węgry",
+      "country": "wegry"
+    },
+    "fra": {
+      "lat": 50.037953,
+      "lon": 8.56213,
+      "name": "Frankfurt, FRA, Niemcy",
+      "country": "niemcy"
+    },
+    "hel": {
+      "lat": 60.321042,
+      "lon": 24.95286,
+      "name": "Helsinki, HEL, Finlandia",
+      "country": "finlandia"
+    },
+    "muc": {
+      "lat": 48.353648,
+      "lon": 11.775049,
+      "name": "Monachium, MUC, Niemcy",
+      "country": "niemcy"
+    },
+    "lis": {
+      "lat": 38.775594,
+      "lon": -9.135367,
+      "name": "Lizbona, LIS, Portugalia",
+      "country": "portugalia"
+    },
+    "fnc": {
+      "lat": 32.695816,
+      "lon": -16.775884,
+      "name": "Funchal, FNC, Portugalia (Madera)",
+      "country": "portugalia"
+    },
+    "gva": {
+      "lat": 46.237025,
+      "lon": 6.109146,
+      "name": "Genewa, GVA, Szwajcaria",
+      "country": "szwajcaria"
+    },
+    "wmi": {
+      "lat": 52.449284,
+      "lon": 20.651237,
+      "name": "Modlin, WMI, Polska",
+      "country": "polska"
+    },
+    "ryg": {
+      "lat": 59.378385,
+      "lon": 10.784197,
+      "name": "Rygge, RYG, Norwegia",
+      "country": "norwegia"
+    },
+    "osl": {
+      "lat": 60.197561,
+      "lon": 11.100405,
+      "name": "Oslo, OSL, Norwegia",
+      "country": "norwegia"
+    },
+    "lyr": {
+      "lat": 78.246086,
+      "lon": 15.465541,
+      "name": "Longyearbyen, LYR, Norwegia (Spitsbergen)",
+      "country": "norwegia"
+    },
+    "lcj": {
+      "lat": 51.719725,
+      "lon": 19.390798,
+      "name": "Łódź, LCJ, Polska",
+      "country": "polska"
+    },
+    "xry": {
+      "lat": 36.745311,
+      "lon": -6.060889,
+      "name": "Jerez de la Frontera, XRY, Hiszpania",
+      "country": "hiszpania"
+    },
+    "svq": {
+      "lat": 37.420167,
+      "lon": -5.893071,
+      "name": "Sewilla, SVQ, Hiszpania",
+      "country": "hiszpania"
+    },
+    "mah": {
+      "lat": 39.865389,
+      "lon": 4.225691,
+      "name": "Minorka, MAH, Hiszpania (Minorka)",
+      "country": "hiszpania"
+    },
+    "dsa": {
+      "lat": 53.479149,
+      "lon": -1.002021,
+      "name": "Doncaster, DSA, Wielka Brytania",
+      "country": "wielka-brytania"
+    },
+    "gdn": {
+      "lat": 54.378812,
+      "lon": 18.468086,
+      "name": "Gdańsk, GDN, Polska",
+      "country": "polska"
+    },
+    "szz": {
+      "lat": 53.585839,
+      "lon": 14.902792,
+      "name": "Szczecin, SZZ, Polska",
+      "country": "polska"
+    },
+    "prg": {
+      "lat": 50.101722,
+      "lon": 14.26316,
+      "name": "Praga, PRG, Czechy",
+      "country": "czechy"
+    },
+    "bri": {
+      "lat": 41.137161,
+      "lon": 16.765191,
+      "name": "Bari, BRI, Włochy",
+      "country": "wlochy"
+    },
+    "flr": {
+      "lat": 43.808049,
+      "lon": 11.201525,
+      "name": "Florencja, FLR, Włochy",
+      "country": "wlochy"
+    },
+    "goa": {
+      "lat": 44.413755,
+      "lon": 8.846731,
+      "name": "Genua, GOA, Włochy",
+      "country": "wlochy"
+    },
+    "trd": {
+      "lat": 63.458183,
+      "lon": 10.92261,
+      "name": "Trondheim, TRD, Norwegia",
+      "country": "norwegia"
+    },
+    "cdg": {
+      "lat": 49.00323,
+      "lon": 2.569886,
+      "name": "Paryż Charles de Gaulle, CDG, Francja",
+      "country": "francja"
+    },
+    "ory": {
+      "lat": 48.72688,
+      "lon": 2.366953,
+      "name": "Paryż Orly, ORY, Francja",
+      "country": "francja"
+    },
+    "biq": {
+      "lat": 43.471814,
+      "lon": -1.53134,
+      "name": "Biarritz, BIQ, Francja",
+      "country": "francja",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/04/spostrzezenia-wasne-przewodnik-po-kraju_25.html"
+        }
+      ]
+    },
+    "bio": {
+      "lat": 43.302307,
+      "lon": -2.911073,
+      "name": "Bilbao, BIO, Hiszpania",
+      "country": "hiszpania",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/04/spostrzezenia-wasne-przewodnik-po-kraju_25.html"
+        }
+      ]
+    },
+    "skg": {
+      "lat": 40.520292,
+      "lon": 22.971644,
+      "name": "Saloniki, SKG, Grecja",
+      "country": "grecja"
+    },
+    "skp": {
+      "lat": 41.960756,
+      "lon": 21.627256,
+      "name": "Skopje, SKP, Macedonia",
+      "country": "macedonia"
+    },
+    "ath": {
+      "lat": 37.935477,
+      "lon": 23.94848,
+      "name": "Ateny, ATH, Grecja",
+      "country": "grecja"
+    },
+    "kiv": {
+      "lat": 46.935517,
+      "lon": 28.934506,
+      "name": "Kiszyniów, KIV, Moładawia",
+      "country": "moldawia"
+    },
+    "tzl": {
+      "lat": 44.458673,
+      "lon": 18.724941,
+      "name": "Tuzla, TZL, Bośnia i Hercegowina",
+      "country": "bosnia-i-hercegowina"
+    },
+    "szy": {
+      "lat": 53.480186,
+      "lon": 20.936614,
+      "name": "Olsztyn-Szymany, SZY, Polska",
+      "country": "polska"
+    },
+    "rdo": {
+      "lat": 51.393004,
+      "lon": 21.200392,
+      "name": "Radom, RDO, Polska",
+      "country": "polska"
+    },
+    "cgn": {
+      "lat": 50.870033,
+      "lon": 7.139704,
+      "name": "Kolonia-Bonn, CGN, Niemcy",
+      "country": "niemcy"
+    },
+    "trs": {
+      "lat": 45.826368,
+      "lon": 13.467946,
+      "name": "Triest, TRS, Włochy",
+      "country": "wlochy"
+    },
+    "tps": {
+      "lat": 37.908798,
+      "lon": 12.492287,
+      "name": "Trapani, TPS, Włochy",
+      "country": "wlochy"
+    },
+    "cta": {
+      "lat": 37.466623,
+      "lon": 15.064766,
+      "name": "Katania, CTA, Włochy",
+      "country": "wlochy"
+    },
+    "rze": {
+      "lat": 50.110888,
+      "lon": 22.025084,
+      "name": "Rzeszów, RZE, Polska",
+      "country": "polska"
+    },
+    "ams": {
+      "lat": 52.310558,
+      "lon": 4.768779,
+      "name": "Amsterdam, AMS, Holandia",
+      "country": "holandia"
+    },
+    "mex": {
+      "lat": 19.436187,
+      "lon": -99.071222,
+      "name": "Mexico City, MEX, Meksyk",
+      "country": "meksyk"
+    },
+    "hav": {
+      "lat": 22.991612,
+      "lon": -82.409506,
+      "name": "Hawana, HAV, Kuba",
+      "country": "kuba",
+      "guides": [
+        {
+          "link": "https://tambylstwo.blogspot.com/2017/10/pierwsze-chwile-na-kubie-problemy-z.html"
+        },
+        {
+          "link": "https://tambylstwo.blogspot.com/2017/10/pierwsze-chwile-na-kubie-dojazd-z.html"
+        },
+        {
+          "link": "https://tambylstwo.blogspot.com/2017/10/pierwsze-chwile-na-kubie-spanie-na.html"
+        }
+      ]
+    },
+    "lju": {
+      "lat": 46.225973,
+      "lon": 14.456301,
+      "name": "Ljubljana, LJU, Słowenia",
+      "country": "slowenia"
+    },
+    "plq": {
+      "lat": 55.973044,
+      "lon": 21.093632,
+      "name": "Palanga, PLQ, Litwa",
+      "country": "litwa"
+    },
+    "otp": {
+      "lat": 44.570731,
+      "lon": 26.08438,
+      "name": "Bukareszt-Otopeni, OTP, Rumunia",
+      "country": "rumunia"
+    },
+    "clj": {
+      "lat": 46.782441,
+      "lon": 23.688046,
+      "name": "Cluj-Napoca, CLJ, Rumunia",
+      "country": "rumunia"
+    },
+    "bts": {
+      "lat": 48.170306,
+      "lon": 17.210502,
+      "name": "Bratysława, BTS, Słowacja",
+      "country": "slowacja"
+    },
+    "nce": {
+      "lat": 43.659738,
+      "lon": 7.214864,
+      "name": "Nicea, NCE, Francja",
+      "country": "francja"
+    },
+    "vda": {
+      "lat": 29.95214,
+      "lon": 34.934162,
+      "name": "Ejlat-Ovda, VDA, Izrael",
+      "country": "izrael"
+    },
+    "fmm": {
+      "lat": 47.987389,
+      "lon": 10.23408,
+      "name": "Memmingen, FMM, Niemcy",
+      "country": "niemcy"
+    },
+    "kef": {
+      "lat": 63.978608,
+      "lon": -22.635111,
+      "name": "Keflavik, KEF, Islandia",
+      "country": "islandia"
+    },
+    "ktw": {
+      "lat": 50.472822,
+      "lon": 19.076064,
+      "name": "Katowice, KTW, Polska",
+      "country": "polska"
+    },
+    "tse": {
+      "lat": 51.027544,
+      "lon": 71.466328,
+      "name": "Astana, TSE, Kazachstan",
+      "country": "kazachstan"
+    },
+    "ala": {
+      "lat": 43.34995,
+      "lon": 77.025182,
+      "name": "Ałmaty, ALA, Kazachstan",
+      "country": "kazachstan"
+    },
+    "iev": {
+      "lat": 50.412186,
+      "lon": 30.44311,
+      "name": "Kijów-Żulany, IEV, Ukraina",
+      "country": "ukraina"
+    },
+    "vlc": {
+      "lat": 39.489274,
+      "lon": -0.478058,
+      "name": "Valencia, VLC, Hiszpania",
+      "country": "hiszpania"
+    },
+    "pek": {
+      "lat": 40.080393,
+      "lon": 116.60355,
+      "name": "Pekin, PEK, Chiny",
+      "country": "chiny"
+    },
+    "han": {
+      "lat": 21.218485,
+      "lon": 105.804266,
+      "name": "Hanoi, HAN, Wietnam",
+      "country": "wietnam"
+    },
+    "hph": {
+      "lat": 20.822552,
+      "lon": 106.724575,
+      "name": "Hajfong, HPH, Wietnam",
+      "country": "wietnam"
+    },
+    "dad": {
+      "lat": 16.056191,
+      "lon": 108.202507,
+      "name": "Da Nang, DAD, Wietnam",
+      "country": "wietnam"
+    },
+    "vca": {
+      "lat": 10.081012,
+      "lon": 105.711774,
+      "name": "Can Tho, VCA, Wietnam",
+      "country": "wietnam"
+    },
+    "sgn": {
+      "lat": 10.818546,
+      "lon": 106.659037,
+      "name": "Ho Chi Minh, SGN, Wietnam",
+      "country": "wietnam"
+    },
+    "tll": {
+      "lat": 59.414193,
+      "lon": 24.832954,
+      "name": "Tallinn, TLL, Estonia",
+      "country": "estonia"
+    },
+    "doh": {
+      "lat": 25.265,
+      "lon": 51.560003,
+      "name": "Doha, DOH, Katar",
+      "country": "katar"
+    },
+    "ktm": {
+      "lat": 27.698223,
+      "lon": 85.35946,
+      "name": "Kathmandu, KTM, Nepal",
+      "country": "nepal"
+    },
+    "pkr": {
+      "lat": 28.199338,
+      "lon": 83.978544,
+      "name": "Pokhara, PKR, Nepal",
+      "country": "nepal"
+    },
+    "bhr": {
+      "lat": 27.678038,
+      "lon": 84.429326,
+      "name": "Bharatpur, BHR, Nepal",
+      "country": "nepal"
+    },
+    "boo": {
+      "lat": 67.26836,
+      "lon": 14.362248,
+      "name": "Bodo, BOO, Norwegia",
+      "country": "norwegia"
+    }
+  }
+}

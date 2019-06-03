@@ -1,0 +1,9 @@
+{
+  "short_name": "Mapa wyjazdów",
+  "name": "Mapa wyjazdów - tambylstwo.blogspot.com",
+  "icons": [],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#ffffff",
+  "background_color": "#000000"
+}

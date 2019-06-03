@@ -1,0 +1,79 @@
+{
+  "airlines": {
+    "fr": {
+      "name": "Ryanair"
+    },
+    "w6": {
+      "name": "Wizz Air"
+    },
+    "vy": {
+      "name": "Vueling"
+    },
+    "u2": {
+      "name": "EasyJet"
+    },
+    "dy": {
+      "name": "Norwegian Air Shuttle"
+    },
+    "c0": {
+      "name": "Centralwings"
+    },
+    "lo": {
+      "name": "PLL Lot"
+    },
+    "k2": {
+      "name": "Eurolot"
+    },
+    "p8": {
+      "name": "Sprint Air"
+    },
+    "lh": {
+      "name": "Lufthansa"
+    },
+    "tp": {
+      "name": "TAP Portugal"
+    },
+    "af": {
+      "name": "Air France"
+    },
+    "kl": {
+      "name": "KLM"
+    },
+    "ok": {
+      "name": "CSA Czech Airlines"
+    },
+    "am": {
+      "name": "Aeromexico"
+    },
+    "o2": {
+      "name": "OLT Express"
+    },
+    "e4": {
+      "name": "Enter Air"
+    },
+    "bj": {
+      "name": "Nouvelair"
+    },
+    "ro": {
+      "name": "Tarom"
+    },
+    "kc": {
+      "name": "Air Astana"
+    },
+    "ca": {
+      "name": "Air China"
+    },
+    "vj": {
+      "name": "VietJet Air"
+    },
+    "bt": {
+      "name": "airBaltic"
+    },
+    "qr": {
+      "name": "Qatar"
+    },
+    "u4": {
+      "name": "Buddha Air"
+    }
+  }
+}

@@ -1,0 +1,405 @@
+{
+  "countries": {
+    "polska": {
+      "name": "Polska",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/sgsDUhVfnok4HYHRA",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "gruzja": {
+      "name": "Gruzja",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/ZgSJ7WKAYJJX9UWM8",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "dania": {
+      "name": "Dania",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/am8iqmpjksVrQ2AP9",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "san-marino": {
+      "name": "San Marino",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/6qhhRC8FuvCWKeCL9",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "portugalia": {
+      "name": "Portugalia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/nxoBXTCscoHJ7E5y7",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "hiszpania": {
+      "name": "Hiszpania",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/NMw9JoWEhd5T5Lg59",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "francja": {
+      "name": "Francja",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/4HX84VLKZQY2aNgv7",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "irlandia": {
+      "name": "Irlandia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/uUZR8xPtbvyctBYi7",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "wielka-brytania": {
+      "name": "Wielka Brytania",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/cS2A2asmVkbc3nU39",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "belgia": {
+      "name": "Belgia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/js5PXs2zrp2NVGbB9",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "holandia": {
+      "name": "Holandia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/EsyVK1LemvApGYs87",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "niemcy": {
+      "name": "Niemcy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/oa7RuJxSYUuvsG4D8",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "czechy": {
+      "name": "Czechy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/3ZsfDkZkx9L2yaRL8",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "szwajcaria": {
+      "name": "Szwajcaria",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/WdMSmZX2erT1vCRR7",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "wlochy": {
+      "name": "Włochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/vXzPVM7Y1nzSLxbx8",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "watykan": {
+      "name": "Watykan",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/k4sNLNXond3PaLgN8",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "norwegia": {
+      "name": "Norwegia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/n9VSwaXCMs9dtGcR7",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "szwecja": {
+      "name": "Szwecja",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/edjgAuMnq5Pz2rSq5",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "finlandia": {
+      "name": "Finlandia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/St2GhSTTsPTEv4BcA",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "lotwa": {
+      "name": "Łotwa",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/KEFc5zcFFZchZUAU9",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "moldawia": {
+      "name": "Mołdawia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/4cYCosa6zhWzwQrT6",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "turcja": {
+      "name": "Turcja",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/BJ6pmAs1GdBQ1tdw7",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "macedonia": {
+      "name": "Macedonia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/HZ6QTzXSK1SVt9we8",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "bosnia-i-hercegowina": {
+      "name": "Bośnia i Hercegowina",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/RgL8w41ScK2TiEbP9",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "grecja": {
+      "name": "Grecja",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/3wy5zCbaXU8Mqrpq5",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "tunezja": {
+      "name": "Tunezja",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/ojBFnV2qoXA9OKUg2",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "maroko": {
+      "name": "Maroko",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/7dJabwC1KKGbyW8s8",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "wegry": {
+      "name": "Węgry"
+    },
+    "kuba": {
+      "name": "Kuba",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/tbjUSoU15kSBzdbk6",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "meksyk": {
+      "name": "Meksyk",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/5N6hn5d7vnTMCmme8",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "slowenia": {
+      "name": "Słowenia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/hxRvBu4ofyFg31GF8",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "chorwacja": {
+      "name": "Chorwacja"
+    },
+    "litwa": {
+      "name": "Litwa",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Lwh1J7ALZNiVqNiz2",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "rumunia": {
+      "name": "Rumunia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/ZuqDo59Yn3xDbXGu2",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "slowacja": {
+      "name": "Słowacja",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/0wYNGEOZEIK034Rz2",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "monako": {
+      "name": "Monako",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/vQ2moBr44MNSZn9i1",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "izrael": {
+      "name": "Izrael",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/ifcCKdk4wMOBH1c82",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "islandia": {
+      "name": "Islandia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/z3RGwnqo0OwGRZvH3",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "kazachstan": {
+      "name": "Kazachstan",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/lFLodVjiNo60J4Wo2",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "ukraina": {
+      "name": "Ukraina"
+    },
+    "chiny": {
+      "name": "Chiny"
+    },
+    "wietnam": {
+      "name": "Wietnam"
+    },
+    "estonia": {
+      "name": "Estonia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/tsCxM1LfEkCmScVE7",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "katar": {
+      "name": "Katar"
+    },
+    "nepal": {
+      "name": "Nepal"
+    }
+  }
+}

@@ -1,0 +1,3456 @@
+{
+  "trips": [
+    {
+      "name": "Lofoty - podejście n-te",
+      "date": ["2019-06-26", "2019-07-03"],
+
+      "places": ["bodo", "a"],
+      "routes": [
+        {
+          "dep": "gdn",
+          "arr": "boo",
+          "airline": "w6"
+        },
+        {
+          "dep": "boo",
+          "arr": "gdn",
+          "airline": "w6"
+        }
+      ]
+    },
+    {
+      "name": "Poddasze świata",
+      "date": ["2019-04-20", "2019-05-08"],
+
+      "places": [
+        "praga",
+        "kathmandu",
+        "bhaktapur",
+        "pharping",
+        "pokhara",
+        "park_narodowy_annapurna",
+        "poon_hill",
+        "sauraha",
+        "park_narodowy_citwan"
+      ],
+      "routes": [
+        {
+          "dep": "prg",
+          "arr": "doh",
+          "airline": "qr",
+          "type": "b787"
+        },
+        {
+          "dep": "doh",
+          "arr": "ktm",
+          "airline": "qr",
+          "type": "a320"
+        },
+        {
+          "dep": "pkr",
+          "arr": "bhr",
+          "airline": "u4",
+          "type": "1900"
+        },
+        {
+          "dep": "ktm",
+          "arr": "doh",
+          "airline": "qr",
+          "type": "a320"
+        },
+        {
+          "dep": "doh",
+          "arr": "prg",
+          "airline": "qr",
+          "type": "a320"
+        }
+      ]
+    },
+    {
+      "name": "Frontcon",
+      "date": ["2019-04-03", "2019-04-08"],
+      "description": "Kolejna konferencja programistyczna, która przy okazji stała się powodem weekendowej wizyty w Tallinnie.",
+      "places": ["ryga", "tallinn"],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "rix",
+          "airline": "lo",
+          "type": "cr9"
+        },
+        {
+          "dep": "rix",
+          "arr": "tll",
+          "airline": "ab",
+          "type": "dh8"
+        },
+        {
+          "dep": "tll",
+          "arr": "waw",
+          "airline": "lo",
+          "type": "cr9"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/i3uju3wzXWmAK18T7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Wietnammmm",
+      "date": ["2018-11-14", "2018-12-03"],
+      "description": "Po udanym dalekim urlopie na Kubie, następny długi wypoczynek postanowiliśmy spędzić w Azji. Trafiło na Wietnam, który bardzo pozytywnie nastroił do skośnookiej części kontynentu.",
+      "places": [
+        "pekin",
+        "wielki_mur_chinski",
+        "hanoi",
+        "sapa",
+        "cat_ba",
+        "hajfong",
+        "hoi_an",
+        "hue",
+        "da_nang",
+        "can_tho",
+        "ho_chi_minh"
+      ],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "pek",
+          "airline": "ca",
+          "type": "a330"
+        },
+        {
+          "dep": "pek",
+          "arr": "han",
+          "airline": "ac",
+          "type": "b737"
+        },
+        {
+          "dep": "hph",
+          "arr": "dad",
+          "airline": "vj",
+          "type": "a320"
+        },
+        {
+          "dep": "dad",
+          "arr": "vca",
+          "airline": "vj",
+          "type": "a321"
+        },
+        {
+          "dep": "sgn",
+          "arr": "pek",
+          "airline": "ac",
+          "type": "b737"
+        },
+        {
+          "dep": "pek",
+          "arr": "waw",
+          "airline": "ca",
+          "type": "a330"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/JsjsV7VAYeM6v3C98",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "React Alicante",
+      "date": ["2018-09-12", "2018-09-18"],
+      "description": "Kombinować trzeba umieć. React Alicante to konferencja programistów. Trwała dwa dni. Jednak dzięki kombinacjom pracy zdalnej/nadgodzinach, niekorzystnych dniach lotów itp. spowodowało, że kosztem jednego dnia urlopowego w moim ulubionym kraju znalazłem się na niemal sześć dni. Oczywiście w większości na koszt pracodawcy :-) ",
+      "places": ["alicante", "benidorm", "tabarca", "walencja"],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "bcn",
+          "airline": "vy",
+          "type": "a320"
+        },
+        {
+          "dep": "bcn",
+          "arr": "alc",
+          "airline": "vy",
+          "type": "a320"
+        },
+        {
+          "dep": "vlc",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/y2kmVaiN35FmBts29",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Ukraina po raz pierwszy",
+      "date": ["2018-07-05", "2018-07-08"],
+      "places": ["kijow"],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "iev",
+          "airline": "wr",
+          "type": "a320"
+        },
+        {
+          "dep": "iev",
+          "arr": "waw",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ]
+    },
+    {
+      "name": "Azja po raz pierwszy",
+      "date": ["2018-04-27", "2018-05-06"],
+      "description": "Majówki na pokładzie PLL Lot stały się niemal tradycją. Tym razem w ramach szalonej środy znaleźliśmy Kazachstan. Przy wcześniejszych nieśmiałych otarciach o kontynent azjatycki (Gruzja, niedaleki przejazd przez Most Bosforski w Stambule, Izrael na weekend), ta wizyta stała się pierwszą pełnoprawną podróżą do Azji.",
+      "places": [
+        "almaty",
+        "kaindy",
+        "kolsai",
+        "saty",
+        "kanion_szarynski",
+        "astana"
+      ],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "tse",
+          "airline": "lo",
+          "type": "b737"
+        },
+        {
+          "dep": "tse",
+          "arr": "ala",
+          "airline": "kc",
+          "type": "a320"
+        },
+        {
+          "dep": "ala",
+          "arr": "tse",
+          "airline": "kc",
+          "type": "b767"
+        },
+        {
+          "dep": "tse",
+          "arr": "waw",
+          "airline": "lo",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/yu2ShxmNoOcgFA893",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Islandia zimą",
+      "date": ["2018-01-18", "2018-01-22"],
+      "places": [
+        "keflavik",
+        "hafnir",
+        "grindavik",
+        "thingvallavatn",
+        "geysir",
+        "gullfoss",
+        "reykjavik"
+      ],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "kef",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "kef",
+          "arr": "ktw",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "ktw",
+          "arr": "waw",
+          "airline": "k2",
+          "type": "dh8"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/1pj4WPi2kH1A2mso2",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Lecimy na loty",
+      "date": ["2017-12-29", "2018-01-02"],
+      "description": "Szybka reakcja na informację o tanich biletach zaowocowała pierwszym Sylwestrem spędzonym zagranicą. Przy okazji byliśmy na pierwszych zawodach Turnieju Czterech Skoczni w sezonie. Kamilowi Stochowi tak mocno dmuchaliśmy pod narty, że wygrał ten i następne cztery turnieje serii.",
+      "places": ["ottobeuren", "schwangau", "oberstdorf", "kempten"],
+      "routes": [
+        {
+          "dep": "wmi",
+          "arr": "fmm",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "fmm",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/jXQL40lgS1hpVkIa2",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Ostatnia opalenizna w roku",
+      "date": ["2017-12-16", "2017-12-17"],
+      "description": "Świąteczny peak w rozkładach sprawił, że powstała okazja na wylot do Izraela w sobotę rano i powrót w niedzielę późnym wieczorem. Dopłaty tamtejszego rządu do ściąganych turystów owocowały niskimi cenami biletów. W ten sposób pojawił się pomysł, aby polecieć bezurlopowo na weekend nad Morze Czerwone w cenie niższej, niż jak byśmy mieli jechać pociągiem nad Bałtyk. Zdziwienie u znajomych i rodziny, którzy o wyjeździe dowiedzieli się z internetu już w jego trakcie - bezcenne. A jeszcze bardziej bezcenne było 27 stopni w cieniu na tydzień przed świętami.",
+      "places": ["ejlat"],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "vda",
+          "airline": "w6",
+          "type": "a321"
+        },
+        {
+          "dep": "vda",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/tJ3THRiLoVFNzoTu2",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Lazurowe wybrzeże",
+      "date": ["2017-11-24", "2017-11-27"],
+
+      "places": ["nicea", "monako", "antibes", "cannes"],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "nce",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "nce",
+          "arr": "waw",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/9EfoSsC1JSAxAL912",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Transylwania",
+      "date": ["2017-09-17", "2017-09-27"],
+      "places": [
+        "bukareszt",
+        "rimetea",
+        "alba_iulia",
+        "ghelari",
+        "hunedoara",
+        "sybin",
+        "trasa_transfogaraska",
+        "braszow",
+        "busteni",
+        "sinaia",
+        "sighisoara",
+        "targu_mures",
+        "cluj-napoca",
+        "bratyslawa"
+      ],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "otp",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "otp",
+          "arr": "clj",
+          "airline": "ro",
+          "type": "a318"
+        },
+        {
+          "dep": "clj",
+          "arr": "bts",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "bts",
+          "arr": "waw",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Zm9EXIi8zi42qCmt2",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Olsztyn pod namiotem",
+      "date": ["2017-08-04", "2017-08-06"],
+
+      "places": ["ilawa", "olsztyn"],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/6UqHFcHM4Ux5hF6y9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Nad Bałtykiem, litewskim morzem",
+      "date": ["2017-07-07", "2017-07-10"],
+
+      "descriptionComming": "Wylot w piątek późnym wieczorem, powrót w poniedziałek wczesnym rankiem, do tego niewielkie ceny biletów dzięki Szalonej środzie. Czego chcieć więcej?",
+      "places": ["palanga", "klaipeda"],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "plq",
+          "airline": "k2",
+          "type": "dh8"
+        },
+        {
+          "dep": "plq",
+          "arr": "waw",
+          "airline": "k2",
+          "type": "dh8"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/sg5I5fQtAVHWt2nl2",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Polowanie na Trolle 2",
+      "date": ["2017-06-02", "2017-06-04"],
+      "description": "Początkowy plan kierował nas w stronę wzgórz pomiędzy Larvik i Porsgrunn. Jednak zawieszone w wyniku remontu połączenie kolejowe i słaba prognoza pogody przekierowała nas do Gapahuków na półwyspach w okolicy Sandefjord. Koniec końców pogoda nie była tak zła, jakkolwiek na słoneczne klimaty nie mieliśmy co liczyć.",
+      "places": ["sandefjord"],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "gdn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "gdn",
+          "arr": "trf",
+          "airline": "w6",
+          "type": "a321"
+        },
+        {
+          "dep": "trf",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/MSraJbjbcFJHQj9r8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Majówka nad Adriatykiem",
+      "date": ["2017-04-29", "2017-05-07"],
+
+      "descriptionComming": "Szalone środy PLL LOT to dobra okazja na majówkowe wypady. Tym razem za punkt startowy obraliśmy Ljubljanę, docelowo z tygodniowym krążeniem po Słowenii i północnej Chorwacji.",
+      "places": [
+        "celje",
+        "ptuj",
+        "maribor",
+        "velika_planina",
+        "kranj",
+        "skofja_loka",
+        "wodospad_sum",
+        "bled",
+        "vodnikov_razglednik",
+        "mostnica",
+        "wodospad_kozjak",
+        "skocjan_cave",
+        "piran",
+        "koper",
+        "ljubljana"
+      ],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "lju",
+          "airline": "lo",
+          "type": "emb170"
+        },
+        {
+          "dep": "lju",
+          "arr": "waw",
+          "airline": "lo",
+          "type": "emb170"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/EuXFL5CY9dESNf7s9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Kuba, póki jeszcze nie zniknęła",
+      "date": ["2017-03-04", "2017-03-21"],
+      "description": "Kuba to był plan świadomy. Musieliśmy odwiedzić ją w tym roku, ponieważ w następnym sezonie zostanie zadeptana przez Amerykanów, rok później natomiast przez Europejczyków. Efekt był mieszany. Z jednej strony tamtejsza rzeczywistość mocno challengowała nasz sposób życia. Z drugiej natomiast bardzo ciężko było się wyrwać z turystycznej bańki. Trochę autentyzmu doświadczyliśmy, jednak szczerze wróciłem z pewnym poczuciem niesmaku. Atutem dodatkowym była za to pierwsza hopka za kałużę, oraz szybkie zwiedzanie Mexico City i Amsterdamu.",
+      "descriptionComming": "To już ostatni dzwonek aby zobaczyć Kubę taką, jaka była dotąd. Dlatego od dawna uznaliśmy, że wyspa ta będzie naszym bodaj najważniejszym priorytetem na rok 2017. Z pomocą przybyła Aeromexico na pokładzie której odbędę swój debiutancki skok przez kałużę. W bonusie mamy prawie cały dzień na zwiedzanie Mexico City.",
+      "places": [
+        "havana",
+        "vinales",
+        "playa_cayo_jutias",
+        "cienfuegos",
+        "el_nicho",
+        "trinidad",
+        "topes_de_collantes",
+        "mexico",
+        "amsterdam"
+      ],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "ams",
+          "airline": "kl",
+          "type": "emb190"
+        },
+        {
+          "dep": "ams",
+          "arr": "mex",
+          "airline": "am",
+          "type": "b787"
+        },
+        {
+          "dep": "mex",
+          "arr": "hav",
+          "airline": "am",
+          "type": "b737"
+        },
+        {
+          "dep": "hav",
+          "arr": "mex",
+          "airline": "am",
+          "type": "b737"
+        },
+        {
+          "dep": "mex",
+          "arr": "ams",
+          "airline": "am",
+          "type": "b787"
+        },
+        {
+          "dep": "ams",
+          "arr": "waw",
+          "airline": "kl",
+          "type": "emb190"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/zmtdFSKDetxRBUMW6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Firmowy zlot",
+      "description": "Przez lata z wielką zazdrością czytałem na forach historie, w których pracownicy korzystali z uroków rozmaitych lotniczych delegacji. Moja aktualna praca wciąż opiera się na aktywności w biurze, jednak działający w części kontynentu i świata pracodawca co roku stara się zorganizować spotkanie wszystkich swoich pracowników. Pierwsza podróż imponująca może nie była - raptem wyczarterowany rejs Enter Air do Berlina. Niemniej od czegoś trzeba zacząć.",
+      "date": ["2017-01-12", "2017-01-14"],
+      "places": ["berlin"],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "sxf",
+          "airline": "e4",
+          "type": "b737"
+        },
+        {
+          "dep": "sxf",
+          "arr": "waw",
+          "airline": "e4",
+          "type": "b737"
+        }
+      ]
+    },
+    {
+      "name": "Pierwszy raz na nartach",
+      "date": ["2017-01-06", "2017-01-08"],
+      "description": "Przez całe życie nie miałem okazji zmierzenia się z szusowaniem po stokach narciarskich. Pierwsze lekcje w Krynicy chyba nie wypadły fatalnie. Wróciłem bowiem zmęczony, obolały, ale mimo wszystko w jednym kawałku. Co ważniejsze, chyba złapałem bakcyla i na pierwszej lekcji się nie skończy.",
+      "places": ["krynica"]
+    },
+    {
+      "name": "Pożegnanie Rygge",
+      "date": ["2016-10-22", "2016-10-23"],
+      "description": "Krótki wypad, którego w zasadzie jedynym celem było odwiedzenie lotniska Rygge-Moss ostatni raz, jeszcze przed jego zamknięcie. Przy okazji wypadu zrobiłem swoją życiówkę, w postaci 34.kilometrowego spaceru po okolicach. Następnego dnia, obolały i zmęczony, po kilkunastu latach wróciłem do biegania :D",
+      "places": ["moss"],
+      "routes": [
+        {
+          "dep": "wmi",
+          "arr": "ryg",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "ryg",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ]
+    },
+    {
+      "name": "Włoska eskapada",
+      "date": ["2016-09-23", "2016-10-09"],
+      "description": "Bardzo intensywny, różnorodny i ciekawy urlop. W trakcie ponad dwóch tygodni zwiedziliśmy zarówno zjawiskową Wenecję, jak też niewielkie miasteczka zachodniej Sycylii. Chodziliśmy po miastach, wzgórzach, jeździliśmy na rowerze, pływaliśmy promami, wspinaliśmy się na Wulkan. Czas spędzaliśmy intensywnie, w mieście, w drodze, czasami też na plaży.",
+      "places": [
+        "triest",
+        "wenecja",
+        "padwa",
+        "treviso",
+        "trapani",
+        "marsala",
+        "erice",
+        "palermo",
+        "catania",
+        "syrakuzy",
+        "etna",
+        "taormina"
+      ],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "stn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "stn",
+          "arr": "trs",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "tsf",
+          "arr": "tps",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "cta",
+          "arr": "bgy",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "bgy",
+          "arr": "waw",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "waw",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/u3ZUCi9NAiGaKgp17",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "German break",
+      "date": ["2016-09-09", "2016-09-11"],
+      "description": "Krótka wizyta w Kolonii i Bonn. Powodem był atrakcyjny układ lotów, który nie wymagał składania wniosków urlopowych. Raczej spacerowo i leniwie - żeby cieszyć się kończącym się latem i odpocząć od wysiłków związanych z remontem mieszkania.",
+      "places": ["kolonia", "bonn"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "cgn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "cgn",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/k8QzBqyx7zQ8v4YU7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Mazury Air Show",
+      "date": ["2016-08-05", "2016-08-08"],
+      "description": "Do ostatniej chwili ukrywana niespodzianka od Doroty. O kolejnych etapach wycieczki dowiadywałem się na dwie godziny przed ich rozpoczęciem. Punktem finalnym okazało się być mazurskie Giżycko i tamtejszy Air Show z przelotami m.in. wojskowego myśliwca MIG-29.",
+      "places": ["gizycko"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/i4NLZ9i42HyFA1pFA",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Goa Dupa Open Air",
+      "date": ["2016-07-22", "2016-07-26"],
+      "description": "Imprezowy weekend w postaci wyjazdu na posthippisowski festiwal z psychodeliczną elektroniką. Powrót do korzeni, kiedy to animowałem malutką wtedy scenę krajową. Jednocześnie okazja do spotkania wielu znanych sprzed lat twarzy, oraz posłuchania kilku naprawdę dobrych nazw, które na scenie obecne są ponad 20 lat. Przy okazji wykorzystanie bodaj jedynej okazji na odwiedziny lotniska w Radomiu, oraz lot na niecodziennej trasie z Wrocławia.",
+      "places": ["baligrod"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "rdo",
+          "airline": "p8",
+          "type": "sf3"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/1X93LS2dMvUzum5Q8",
+          "source": "Google Photos"
+        }
+      ],
+      "reports": [
+        {
+          "link": "https://tambylstwo.blogspot.com/2016/08/return-to-source-relacja-z-festiwalu.html",
+          "tittle": "Return to the Source - relacja z festiwalu Goa Dupa Open Air"
+        }
+      ]
+    },
+    {
+      "name": "Szaleństwo regionalnych lotnisk",
+      "date": ["2016-06-24", "2016-06-27"],
+      "description": "Wykorzystanie okazji w postaci uruchomienia weekendowych lotów z Wrocławia do Szyman. Dzięki temu dwie mazurskie noce spędziliśmy pod namiotem i zobaczyliśmy pozytywnie zaskakujący nas Olsztyn.",
+      "reports": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/06/pathfinder-przecieranie-szlakow-na.html",
+          "tittle": "Pathfinder - Przecieranie szlaków na lotnisku Olsztyn-Szymany"
+        }
+      ],
+      "places": ["olsztyn"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "szy",
+          "airline": "p8",
+          "type": "sf3"
+        },
+        {
+          "dep": "szy",
+          "arr": "wro",
+          "airline": "p8",
+          "type": "sf3"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/LgdmmthDphAsj3699",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Polowanie na Trole",
+      "date": ["2016-06-17", "2016-06-19"],
+      "description": "Próba generalna z nocowaniem w norweskim plenerze. Tym razem w gapahuku nad malowniczym brzegiem jeziora w okolicach Sandefjord.",
+      "reports": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/06/projekt-gupol-czesc-3-nocleg-w-gapahuku.html",
+          "tittle": "Projekt guuupol część 3 - nocleg w Gapahuku"
+        }
+      ],
+      "places": ["sandefjord"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "waw",
+          "arr": "trf",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "trf",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/AZacAAmw6EfVNccG6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Bośnia i Hercegowina + Szwecja",
+      "date": ["2016-05-25", "2016-05-29"],
+      "description": "Niepozorny wyjazd, który stał się powodem do wielu obserwacji i późniejszych głębokich przemyśleń. Zwłaszcza wizyta w Sarajewie, który jest kwintesencją bałkańskiego tzw. pierdolnika. Kolorowego, multikulturowego, klimatycznego, mającego places na których warto zawiesić oko i nad którymi można podumać.",
+      "places": ["nykoping", "tuzla", "sarajewo", "mostar"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "waw",
+          "arr": "nyo",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "nyo",
+          "arr": "tzl",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "tzl",
+          "arr": "nyo",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "nyo",
+          "arr": "krk",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/AZacAAmw6EfVNccG6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Mołdawia i separatystyczne Naddniestrze",
+      "date": ["2016-04-29", "2016-05-08"],
+      "description": "Korzystne połączenie szalonej środy w PLL LOT i oszczędności urlopowej z okazji przedłużonego weekendu. Wyjazd nietypeowy, dający do myślenia (Naddniestrze), pozwalający zdobyć doświadczenia kempingowe i pokazujący problemy transformacji ustrojowej z jakimi borykaliśmy się w latach 90.",
+      "reports": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/07/gdzies-pomiedzy-moldawia-intro.html",
+          "tittle": "Gdzieś pomiędzy - Intro"
+        },
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/07/gdzies-pomiedzy-modawia-kiszyniow.html",
+          "tittle": "Kiszyniów"
+        },
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/07/gdzies-pomiedzy-modawia-camping-na.html",
+          "tittle": "Camping na prowincji"
+        },
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/07/gdzies-pomiedzy-modawia-naddniestrze.html",
+          "tittle": "Naddniestrze"
+        },
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/07/gdzies-pomiedzy-modawia-na-rowerach-do.html",
+          "tittle": "Na rowerach do winnicy"
+        },
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/07/gdzien-pomiedzy-modawia-podsumowanie.html",
+          "tittle": "Podsumowanie"
+        }
+      ],
+      "places": [
+        "kiszyniow",
+        "stary_orgiejow",
+        "saharna",
+        "bendery",
+        "tyraspol"
+      ],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "waw",
+          "arr": "kiv",
+          "airline": "k2",
+          "type": "dh8"
+        },
+        {
+          "dep": "kiv",
+          "arr": "waw",
+          "airline": "k2",
+          "type": "dh8"
+        },
+        {
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/M1JFJWtmeBYrd82n6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Ateny",
+      "date": ["2016-01-28", "2016-01-31"],
+      "description": "Drugi etap zimowego rajdu po podstawach starożytności. Ateny dały dużo do myślenia w temacie dzisiejszej Grecji. Dodatkowo znów była okazja zobaczyć rzeczy o których czytało się od pierwszych klas podstawówki.",
+      "places": ["ateny", "pireus"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "ath",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "ath",
+          "arr": "sxf",
+          "airline": "u2",
+          "type": "a319"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/2akP7rURheiyYnKU6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Tam gdzie prowadzą wszystkie drogi",
+      "date": ["2015-12-11", "2015-12-14"],
+      "description": "Hu hu ha, zima zła. Podczas gdy w Polsce zaczynało być mroźno, my cieszyliśmy się pełnią słońca, możliwością chodzenia nawet w koszulkach i włoskimi lodami. Poza tym potwierdziliśmy panującą w internecie teorię, że Rzym odhaczyć trzeba. Wszystkie te places, o których czyta się w szkołach zobaczyć warto, jednak kolokwialnie rzecz ujmując - dupska to nie urywa ;)",
+      "places": ["rzym", "watykan"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "cia",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "cia",
+          "arr": "sxf",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/h3kdTnErGN4m9TbMA",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Macedonia",
+      "date": ["2015-10-14", "2015-10-26"],
+      "description": "Wreszcie pierwszy wypad na Bałkany. Trafiło na Macedonię - kraj, oraz region w Grecji. Sporo fajnych doświadczeń. Zapaść w Grecji i lekkie zacofanie, ale z ogromnym parciem wprzód w Macedonii. Klimat Polski z połowy lat 90-tych nad Ochrydą i dążenia do przesadnego wręcz monumentalizmu Skopje. Ciekawość i otwartość na przyjezdnych, ale zarazem tolerancja i niechęć do sąsiadów innych narodowości. Wyjazd mocno dający do myślenia.",
+      "places": [
+        "saloniki",
+        "florina",
+        "bitola",
+        "ochryda",
+        "skopje",
+        "kanion_matka",
+        "bergamo",
+        "warszawa"
+      ],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "skg",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "skp",
+          "arr": "bgy",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "bgy",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "poz",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/CweRkqs7iTfTfzKM9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Od dawna planowany Kraj Basków",
+      "date": ["2015-09-05", "2015-09-21"],
+      "description": "Planów było dużo. Początkowo miał być Paryż i Korsyka, potem Madryt, Asturias i Octoberfest, w końcu trafiło na Kraj Basków ze stopami w Warszawie, Paryżu i Pradze. Wyjazd nawiązujący do doskonałego urlopu w Hiszpanii sprzed roku. Znów miało być długo, dużo zwiedzania i jeżdżenia. Koniec końców było dużo wrażeń, spora różnorodność i ciekawych miejsc. Jednak jakby nieco za długo.",
+      "places": [
+        "warszawa",
+        "paryz",
+        "biarritz",
+        "san_sebastian",
+        "irun",
+        "pampeluna",
+        "logrono",
+        "vitoria",
+        "bilbao",
+        "guernika",
+        "praga"
+      ],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "k2",
+          "type": "dh8"
+        },
+        {
+          "dep": "waw",
+          "arr": "cdg",
+          "airline": "af",
+          "type": "a318"
+        },
+        {
+          "dep": "ory",
+          "arr": "biq",
+          "airline": "af",
+          "type": "a319"
+        },
+        {
+          "dep": "bio",
+          "arr": "prg",
+          "airline": "ok",
+          "type": "a319"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/UYsB8WbxH6ZDUqcQA",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Gdańsk weekendowo",
+      "date": ["2015-08-01", "2015-08-03"],
+      "description": "Letni weekendowy wypad na bazie tanich krajówek Ryanair.",
+      "places": ["gdansk", "gdynia"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "gdn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "gdn",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/MZ2VyeRcSto7Vtvq8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Pierwszy raz w dzicz",
+      "date": ["2015-07-08", "2015-07-12"],
+      "description": "Wyjazd będący totalnym zaprzeczeniem mojej definicji podróżowania sprzed kilku lat. Plecaczek (mały bagaż podręczny zgodnie ze standardami Wizz Air) a w nim śpiwór, materac, ciuchy i prawie pełne wyżywienie na cztery dni. Nocleg na lotnisku, pod chmurką (w śpiworze, bez żadnego namiotu) i w pociągu. Świetny kontakt z przyrodą, niesamowita baza doświadczalna i załapany bakcyl na surwiwal w dziczy. Bonus pierwszy, zdobyta wiedza przygotowująca do wypadu na Islandię. Bonus drugi, ubiłem świetny interes odstępując kanapę podczas nocki na lotnisku w Gdańsku",
+      "reports": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2015/11/due-north-na-ponoc.html",
+          "tittle": "Due North - Na północ"
+        }
+      ],
+      "places": ["trondheim", "porsgrunn"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "gdn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "gdn",
+          "arr": "trd",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "trf",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/gbT7vnoNJBu8RgmU6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Włochy na wzór Hiszpanii",
+      "date": ["2015-01-22", "2015-02-01"],
+      "description": "Założeniem wyjazdu było zobaczyć jak najwięcej. Niemal każdy dzień był więc w drodze. Chwila odpoczynku w jakimś mieście wynikała albo z wymogów technicznych, albo z powodu dużej ilości rzeczy do zobaczenia. Chociaż dużo rzeczy mi się tam podobało (muzea Florencji, Genua, Lecce], to jednak sam wyjazd bardzo mnie wymęczył. Wynikało to z nałożenia się nienajlepszej pogody, zbyt dużego upchania atrakcji w krótki termin, niespodzianek noclegowych na miejscu (zamykane na noc lotnisko we Florencji) oraz problemów zdrowotnych (chodzenie z pełnym plecakiem przerodziło się w kontuzję stopy).",
+      "places": [
+        "praga",
+        "bari",
+        "florencja",
+        "la_spezia",
+        "genua",
+        "matera",
+        "tarent",
+        "lecce",
+        "brindisi"
+      ],
+      "routes": [
+        {
+          "dep": "prg",
+          "arr": "bri",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "bri",
+          "arr": "flr",
+          "airline": "vy",
+          "type": "a320"
+        },
+        {
+          "dep": "goa",
+          "arr": "bri",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "bri",
+          "arr": "prg",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/3nupiAdPUcdxirss7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Szczecin, Świnoujście",
+      "date": ["2014-12-06", "2014-12-07"],
+      "description": "Ostatnie dwa odcinki bazowanej we Wrocławiu maszyny Wizz Air to Szczecin - Torp - Wrocław. Przy minimalnej stawce za bilet, oraz nocnym kursie Polskibus za 1PLN zafundowałem sobie kolejny weekend na Pomorzu bez konieczności brania urlopu.",
+      "places": ["szczecin", "miedzyzdroje", "swinoujscie"],
+      "routes": [
+        {
+          "dep": "szz",
+          "arr": "trf",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "trf",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/4uSXdn4oC1Q81jYz7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Gdańsk",
+      "date": ["2014-11-14", "2014-11-17"],
+      "description": "Proste, weekendowe wykorzystanie krajówek Ryanair z Modlina. Koniec końców z powodu czterogodzinnego opóźnienia zakończyło się utratą ostatniego odcinka, jednak mimo wszystko możliwość nawdychania się jodu za niewielkie pieniądze cieszyła.",
+      "places": ["gdansk", "sopot"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "gdn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "gdn",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/pecF2ccgGU7sHSTB9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Doncaster, Sheffield, Las Sherwood",
+      "date": ["2014-10-11", "2014-10-14"],
+      "description": "Zaliczenie ostatniego places z siatki połączeń Wizz Air z Wrocławia. Raczej bez fajerwerków z powodu słabej pogody. Wyjazd zrodził jednak myśl, że kiedyś trzeba by było tam wrócić, choćby ze względu na niezłe trasy rowerowe w okolicach Sheffield.",
+      "places": ["sheffield", "sherwood", "doncaster"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "dsa",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "dsa",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/uA7xS7eL8uawC1WUA",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Hiszpania idealna",
+      "date": ["2014-09-03", "2014-09-16"],
+      "description": "Pamiętam, gdy w Monachium czekałem na ostatni lot tego wyjazdu i zacząłem wspominać go po raz pierwszy w życiu, pomyślałem sobie: dobrze że już wracam. Nie żałuję niczego, brak mi niczego, nic bym nie dodawał, nic bym nie odejmował. Było idealnie, jak nigdy dotąd. Każdy dzień to była jakaś atrakcja. Świetny balans pomiędzy zwiedzaniem miasta, imprezowaniem, podróżowaniem aktywnym, wielkim miastem, prowincją i przyrodą. Za to właśnie kocham Hiszpanię.",
+      "places": [
+        "barcelona",
+        "jerez",
+        "kadyks",
+        "sewilla",
+        "mahon",
+        "ciutadella"
+      ],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "fra",
+          "airline": "lh",
+          "type": "b737"
+        },
+        {
+          "dep": "fra",
+          "arr": "bcn",
+          "airline": "lh",
+          "type": "a321"
+        },
+        {
+          "dep": "bcn",
+          "arr": "xry",
+          "airline": "vy",
+          "type": "a320"
+        },
+        {
+          "dep": "svq",
+          "arr": "mah",
+          "airline": "vy",
+          "type": "a320"
+        },
+        {
+          "dep": "mah",
+          "arr": "bcn",
+          "airline": "vy",
+          "type": "a320"
+        },
+        {
+          "dep": "bcn",
+          "arr": "muc",
+          "airline": "lh",
+          "type": "a319"
+        },
+        {
+          "dep": "muc",
+          "arr": "wro",
+          "airline": "lh",
+          "type": "cr9"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/eSoU8sMqCzJayNDn6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Osiąganie granic",
+      "date": ["2014-07-18", "2014-07-23"],
+      "description": "Wyjazd, który jest nie tyle istotny z powodu obecnych na miejscu widoków, co places, wydarzenia. Longyearbyen jest bowiem najbardziej na północ wysuniętą stałą osadą ludzką. Lotnisko jest najbardziej na północ położonym lotniskiem na świecie. Dalej nie ma już nic. Nieco ponad 1000 kilometrów dzieliło nas od bieguna północnego. Zakładam, że za kilkadziesiąt lat technologia będzie tak zaawansowana, że w ciagu kilku godzin będziemy w stanie dostać się do Australii. Nasze dzieci i wnuki będą prawdopodobnie podróżować w kosmosie. Jednak mimo tych osiągnięć, najprawdopodobniej nie znajdą się one bardziej na północ naszej planety, niż ja miałem okazję. Bo nawet jeśli ktoś zbuduje coś bardziej na północ, to po co lecieć na takie zadupie?",
+      "places": ["spitsbergen", "oslo"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "ryg",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "osl",
+          "arr": "lyr",
+          "airline": "dy",
+          "type": "b737"
+        },
+        {
+          "dep": "lyr",
+          "arr": "osl",
+          "airline": "dy",
+          "type": "b737"
+        },
+        {
+          "dep": "ryg",
+          "arr": "lcj",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/SYCvg7ATLhDyyKpw8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Wujkowanie w Warszawie",
+      "date": ["2014-07-04", "2014-07-06"],
+      "description": "Zupełnie niepozorny wyjazd, który stał się jednym z najważniejszych i najmilej wspominanych w życiu wypadów. Wszystko to za sprawą debiutu w samolocie mojej przyszywanej bratanicy. Wielkie wyzwanie w postaci opieki nad małym smrodem okazało się świetną zabawą, którą będzie się pamiętać jeszcze bardzo, bardzo długo.",
+      "places": ["warszawa"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/8cA2oHzDpbFGrPzN9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Madera, Lizbona",
+      "date": ["2014-03-18", "2014-03-27"],
+      "description": "W zasadzie pierwszy lot pozwalający świadomie spełnić hm... marzenia? Po bardzo pozytywnych wrażeniach z przesiadek i lotach na pokładzie Lufthansy postanowiłem zapłacić nieco więcej, ale wygodnie i szybko dostać się do Lizbony. Przy okazji wyjazd został rozszerzony o Maderę - jedno z miejsc będących na must see od bardzo bardzo dawna. Wrażenia były niesamowite. Wyspa zapierała dech w piersiach. Okazała się być fantastycznym miejscem do trekkingu, jeżdżenia po okolicach, jak również spokojnego odpoczynku. Do dziś pamiętam bardzo wyraziste barwy zielenii, ciemnego oceanu, oraz mocno brązowej ziemi.",
+      "places": ["funchal", "plw_sw_wawrzynca", "cabo_girao", "lizbona"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "muc",
+          "airline": "lh",
+          "type": "cr9"
+        },
+        {
+          "dep": "muc",
+          "arr": "lis",
+          "airline": "lh",
+          "type": "a321"
+        },
+        {
+          "dep": "lis",
+          "arr": "fnc",
+          "airline": "tp",
+          "type": "a320"
+        },
+        {
+          "dep": "fnc",
+          "arr": "lis",
+          "airline": "tp",
+          "type": "a320"
+        },
+        {
+          "dep": "lis",
+          "arr": "gva",
+          "airline": "tp",
+          "type": "a320"
+        },
+        {
+          "dep": "gva",
+          "arr": "muc",
+          "airline": "lh",
+          "type": "cr9"
+        },
+        {
+          "dep": "muc",
+          "arr": "wro",
+          "airline": "lh",
+          "type": "cr9"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/KNgdtTdojqK2py6k7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Finlandia",
+      "date": ["2014-02-27", "2014-03-03"],
+      "description": "Kolejny rekord, tym razem najbardziej na północ - na taką samą wysokość co południowe obrzeża Grenlandii. Wyjazd bardziej z ciekawości, ponieważ wcześniej ani nie interesowałem się jakoś specjalnie Finlandią, ani nie wiedziałem co jest do odwiedzenia w Helsinkach. Jedyne czego się spodziewałem, to soldne zmarznięcie. Niestety, ciepła zima na całym kontynencie sprawiła, że nawet tam mielićmy co najwyżej 3 stopnie mrozu.",
+      "places": ["helsinki", "suomelinna", "warszawa"],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "fra",
+          "airline": "lo",
+          "type": "emb170"
+        },
+        {
+          "dep": "fra",
+          "arr": "hel",
+          "airline": "lh",
+          "type": "a320"
+        },
+        {
+          "dep": "hel",
+          "arr": "muc",
+          "airline": "lh",
+          "type": "a321"
+        },
+        {
+          "dep": "muc",
+          "arr": "waw",
+          "airline": "lo",
+          "type": "emb190"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/R8ftMxM81xTUYrhs6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Irlandia",
+      "date": ["2013-11-29", "2013-12-04"],
+      "description": "Wyjazd będący małym sprzątaniem po emigracji na zielonej wyspie. Otóż Bank of Ireland poinformował, że od pewnego momentu zacznie pobierać opłatę za prowadzenie mojego konta osobistego. W ten sposób wyjazd celem zamknięcia konta (i wypłacenia sporej niespodzianki w postaci zwrotu podatków) stał się pośrednim powodem do odwiedzin starych śmieci i Belfastu.",
+      "places": ["belfast", "dublin"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "dub",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "dub",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/jz6N7Xujf2U8bK7T6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Holandia i Belgia",
+      "date": ["2013-11-01", "2013-11-04"],
+      "description": "Kolejna okazja na zwiedzenie Holandii za pośrednictwem najniższych cen w Wizz Air. Tym razem ze względu na ceny noclegów padło na Antwerpię. Po drodze kilka celowo wydłużonych przesiadek, dzięki czemu mogłem się zaskoczyć mniejszymi miastami Holandii typeu Tilburg czy Breda.",
+      "places": ["tilburg", "breda", "antwerpia", "mechelen"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "ein",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "ein",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/UC4RwWQfJRW2N3FMA",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Deszczowe Węgry",
+      "date": ["2013-09-16", "2013-09-23"],
+      "description": "Pierwszy raz w historii świadomie poleciałem dwukrotnie w to samo miejsce. Świadomie, czyli wybór dokonany po i na bazie pozytywnego wyjazdu do Budapesztu. Niestety plany mocno pokrzyżowała nam pogoda, przez co nie wypalił rowerowy Tour de Balaton. Budapeszt też w naszej pamięci pozostanie jako raczej chłodne i wietrzne miejsce. Cóż, nie zawsze się udaje.",
+      "places": [
+        "warszawa",
+        "szekesfehervar",
+        "balaton",
+        "budapeszt",
+        "szentendre"
+      ],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "bud",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "bud",
+          "arr": "waw",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ]
+    },
+    {
+      "name": "Upalny Budapeszt",
+      "date": ["2013-06-14", "2013-06-17"],
+      "description": "Pierwszy wypad po odejściu i krótkim epizodzie prawnym z nieuczciwym pracodawcą. Konkurencja na trasie do Budapesztu spowodowała niskie ceny, których nie można było nie wykorzystać. Wprawdzie wyjazd zamiast dolotu z Wrocławia wymagał dojazdu Polskimbusem ale dobre godziny zupełnie w tym nie przeszkadzały. Do tego była okazja, aby po roku znów pokręcić się po Warszawie i tym razem w ładnym słońcu zwiedzić to, co w zeszłym roku widziało się w trakcie deszczowej pogody.",
+      "places": ["budapeszt", "warszawa"],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "bud",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "bud",
+          "arr": "waw",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ]
+    },
+    {
+      "name": "Maroko po raz trzeci",
+      "date": ["2013-01-21", "2013-01-28"],
+      "description": "Maroko potrzebowało trzech szans żeby zachwycić. Prawdę powiedział ktoś twierdząc że kraj ten jest tak różnorodny, że każda, nieważne która wizyta pozwala zobaczyć coś nowego i niekiedy zaskakującego. Tym razem gwiazdą okazało się atlantyckie wybrzeże z jego mniej znanymi miastami El Jadida i Essaouira. Nie bez pamięci pozostało także samo wybrzeże, pełne niezapomnianych widoków przewijających się za oknami samochodu.",
+      "places": [
+        "marrakesh",
+        "casablanca",
+        "el_jadida",
+        "safi",
+        "wybrzeze_atlantyku",
+        "essaouira"
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/hwDTs2oJnLRTvpFf6",
+          "source": "Google Photos"
+        }
+      ],
+      "routes": [
+        {
+          "dep": "sxf",
+          "arr": "rak",
+          "airline": "u2",
+          "type": "a319"
+        },
+        {
+          "dep": "rak",
+          "arr": "sxf",
+          "airline": "u2",
+          "type": "a319"
+        }
+      ]
+    },
+    {
+      "name": "Ryga zimą",
+      "date": ["2012-12-08", "2012-12-11"],
+      "description": "Po wizycie w Rydze latem 2011 roku naszła mnie ochota aby zobaczyć to miasto również zimą. Pomysł udało się zrealizować nieco ponad rok później i choć w Polsce w tym czasie panowały srogie mrozy, to jakoś ta Łotewska zmarzlina bardziej mi się spodobała.",
+      "places": ["ryga", "jurmala"],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/yHd1ijB65Tj9k9zk8",
+          "source": "Google Photos"
+        }
+      ],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "trf",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "trf",
+          "arr": "rix",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "rix",
+          "arr": "trf",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "trf",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ]
+    },
+    {
+      "name": "Niespodziewany Eindhoven",
+      "date": ["2012-11-30", "2012-12-03"],
+      "description": "Gdy system rezerwacyjny pokazuje ciekawą cenę to czasami po prostu nie można się powstrzymać. To też było przyczynkiem do wyjazdu o kompletnym braku zaplanowania. Koniec końców podróżowanie polegało na 'zwiedzaniu' całkiem niezłej jakości hotelu oraz brykaniu tu i tam na rowerze. W grudniu!",
+      "reports": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2013/04/zwiedzanie-hotelu.html",
+          "tittle": "Zwiedzanie hotelu"
+        }
+      ],
+      "places": ["eindhoven"],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/WB3HoV7D4ggi5z5R8",
+          "source": "Google Photos"
+        }
+      ],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "ein",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "ein",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ]
+    },
+    {
+      "name": "Trzydziestka w Londynie",
+      "date": ["2012-10-11", "2012-10-16"],
+      "description": "Londyn przez długi czas był miejscem obecnym jako punkt na trasie przejazdu lub kilkugodzinnych zakupów. Kilkukrotne plany wizyty również nie wypalały pomimo kupionych biletów. Ale co się odwlecze, to wróci ze zdwojoną siłą. Pierwsza oficjalna podróż, jak nigdy wcześniej na zwiedzanie jednego miasta, trwała sześć dni. Co więcej, choć nigdy tego nie planowałem, to właśnie w Londynie stuknęła mi moja trzydziestka. Tyle tam jednak wrażeń że nadeszło to niemal poprzez zaskoczenie.",
+      "reports": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2012/11/z-wizyta-w-londynie.html",
+          "tittle": "Z wizytą w Londynie"
+        }
+      ],
+      "places": ["londyn"],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/ktbCTxEYHukAjE5q6",
+          "source": "Google Photos"
+        }
+      ],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "ltn",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "stn",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ]
+    },
+    {
+      "name": "Bałkański urlop we Wrocławiu",
+      "date": ["2012-09-15", "2012-09-25"],
+      "description": "Generalny plan zakładał Bałkany. W zależności od jego odmian miał być Belgrad, Sarajevo, Dubrownik, Czarnogóra, Skopje czy nawet Kosowo. Koniec końców przez formalności związane z kredytem hipotecznym trzeba było wyjazd skasować. Ale urlop chociaż częśćiowo został przeznaczony na zwiedzanie miasta rodzinnego.",
+      "places": ["wroclaw"],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/XnUZH6U6fGrf6zRAA",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Rowerowy Bornholm",
+      "date": ["2012-08-02", "2012-08-07"],
+      "description": "Skorzystanie z krótkich ciepłych miesięcy na północy kontynentu i rowerowa eksploracja tej najbliższej Polsce morskiej wyspy.",
+      "places": ["ystad", "ronne", "dueodde"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "mmx",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "mmx",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/NKMBiogbMrRXESFZ9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Powrót na Teneryfę",
+      "date": ["2012-01-21", "2012-01-25"],
+      "description": "Skorzystanie z okazji podczas uruchamiania przez easyJet rejsów z Berlina na Teneryfę. Swego rodzaju powrót do korzeni, gdyż z niedługo zamykanego lotniska Schonefeld miał miejsce mój pierwszy lot w życiu a Teneryfa była swego rodzaju przyczynkiem do Tambylstwa. Chociaż planowanie tego wyjazdu było koszmarem, to w efekcie końcowym nie żałowałem żadnego Euro ani żadnej minuty spędzonej na miejscu. Po raz kolejny okazało się że krótki wyjazd w styczniu na ciepłe południe potrafi bardzo mocno naładować wewnętrzne bateryjki.",
+      "places": [
+        "los_christianos",
+        "wulkan_el_teide",
+        "la_orotava",
+        "puerto_de_la_cruz",
+        "icod_de_los_vinos",
+        "los_gigantes"
+      ],
+      "routes": [
+        {
+          "dep": "sxf",
+          "arr": "tfs",
+          "airline": "u2",
+          "type": "a320"
+        },
+        {
+          "dep": "tfs",
+          "arr": "sxf",
+          "airline": "u2",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/tTNzi483eGaQuX5t8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Istambuł",
+      "date": ["2011-12-03", "2011-12-08"],
+      "description": "Drugi romans z First Minute w PLL LOT. Ostatecznie przerodził się w piekielnie męczący lecz do ostatniej sekundy wypełniony wrażeniami wyjazd. Pewnie dzięki temu że Turcja jest krajem bardziej zeuropeizowanym wrażenia były dużo bardziej pozytywne niż z islamskich krajów cieplejszej Afryki. Kiedyś będzie trzeba tam wrócić bo pięć pełnych dni to zdecydowanie za mało.",
+      "places": ["warszawa", "istambul"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "k2",
+          "type": "at7"
+        },
+        {
+          "dep": "waw",
+          "arr": "ist",
+          "airline": "lo",
+          "type": "b737"
+        },
+        {
+          "dep": "ist",
+          "arr": "waw",
+          "airline": "lo",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/eGL37ycQxC1msmhQ7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Wielki Fez",
+      "date": ["2011-10-06", "2011-10-11"],
+      "description": "Zaobserwowana bardzo dogodna przesiadka dająca 3,5 doby w Maroku, oraz cały dzień we Włoszech który można poświęcić na kręcenie się po Bolonii i zrobienie zimowych zapasów tamtejszych produktów. Było pewne zagrożenie że podobnie jak rok temu Wizz Air znów szybciej zrezygnuje z lotów na trasie Forlí-Wrocław, jednak koniec końców wszystko udało się bez najmniejszych problemów.",
+      "places": ["fes", "meknes", "bolonia"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "blq",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "blq",
+          "arr": "fez",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "fez",
+          "arr": "blq",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "frl",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/owFbXn2daN7AKGWR8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Gruzja",
+      "date": ["2011-08-31", "2011-09-08"],
+      "description": "Szybka decyzja przy okazji pierwszej fali biletów w ofercie First minute i urlop 2011 został skierowany w stronę Zakaukazia. Fantastyczna okazja do poznania tego jeszcze nieodkrytego kraju zanim napłynie do niego masowa turystyka. Wyjazd o dużej wartości wspomnieniowej przyczyniający się do pęknięcia serca. Jego zachodnia część nadal znajduje się w Hiszpanii, natomiast wschodnia pozostała w Gruzji.",
+      "reports": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2012/01/gaumardzios-w-sakartwelo-czyli-pekniete.html",
+          "tittle": "Gaumardzios w Sakartwelo czyli pęknięte serce w Gruzji"
+        }
+      ],
+      "places": ["tbilisi", "batumi", "mccheta", "david_gareja"],
+      "routes": [
+        {
+          "dep": "waw",
+          "arr": "tbs",
+          "airline": "lo",
+          "type": "emb170"
+        },
+        {
+          "dep": "tbs",
+          "arr": "waw",
+          "airline": "lo",
+          "type": "emb170"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/SvDksS17sbhUjYQ19",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Ryga i Jurmała",
+      "date": ["2011-07-02", "2011-07-05"],
+      "description": "Bazowana we Wrocławiu maszyna Wizz Air po przylocie na lotnisko w Sandefjord zamiast wracać do Polski wykonywała lot do Rygi. Pamiętając jak dogodne są przesiadki na tym lotnisku oraz jak tanie bywają bilety do Norwegii nie można było nie wykorzystać tej okazji. Tym bardziej że już raz Ryanair zrujnował plany Rygi kasując swoje routes. Ostatecznie wyszedł nam bardzo relaksacyjny i przyjemny wypad.",
+      "places": ["ryga", "jurmala"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "trf",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "trf",
+          "arr": "rix",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "rix",
+          "arr": "trf",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "trf",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/JZ9XDArxNhsPw6uVA",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Majówka we Włoszech - okolice regionu Emilia Romagna",
+      "date": ["2011-05-05", "2011-05-10"],
+      "description": "Wprawdzie miało byś stricte majówkowo, ale ceny na wszystkie routes w tych terminach przyprawiały o zawrót głowy. Lekkie przesunięcie terminu pozwoliło więc na tanie zwiedzenie wszelkich okolic Rimini. Trochę rowerowo, trochę pociągowo, trochę plażowo. Dla każdego coś miłego.",
+      "reports": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2011/05/nad-adriatykiem.html",
+          "tittle": "Nad Adriatykiem"
+        }
+      ],
+      "places": ["bolonia", "rimini", "san_marino", "ravenna", "forli"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "blq",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "frl",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/CMb52etVgZEaFYXn9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Irlandia tym razem turystycznie",
+      "date": ["2011-03-04", "2011-03-06"],
+      "description": "Niezłe przesiadki, ceny i czasy lotów (stricte weekendowo) sprawiły że również Irlandię postanowiłem zwiedzić w celach turystycznych. Oprócz zwiedzenia starych śmieci stało się to niezłą okazją na zakupy karmiące nowe hobby - kolekcjonerstwo whisky.",
+      "places": ["dublin", "cork"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "lpl",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "lpl",
+          "arr": "dub",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "ork",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ]
+    },
+    {
+      "name": "Druga szansa dla Afryki",
+      "date": ["2011-01-19", "2011-01-23"],
+      "description": "Niemiłe wspomnienia z urlopu w Tunezji sprawiły, że Afryka i świat arabski w ogóle długo nie dostawały swojej drugiej szansy. Jednak coraz większa liczba pozytywnych opinii znajomych z forów uruchomiły ciekawość a walka cenowa dwóch linii w Charleroi, oraz doskonałe godziny przesiadek sprawiły że nie było nad czym się zastanawiać. Ostatecznie świetny sprawdzian umiejętności i doświadczeń tambylczych. Jeśli tam przeżyliśmy załatwiając wszystko na miejscu na własną rękę, to duża część świata stanęła przed nami otworem.",
+      "reports": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2011/04/drugi-kontakt-z-czarnym-ladem.html",
+          "tittle": "Drugi kontakt z czarnym lądem"
+        }
+      ],
+      "places": ["oujda", "melilla", "nador"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "crl",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "crl",
+          "arr": "oud",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "oud",
+          "arr": "crl",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "crl",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Y8uZLGHdDuL8Ld1A8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Jezioro Como",
+      "date": ["2010-12-03", "2010-12-06"],
+      "description": "Nad Como chciałem się dostać od momentu gdy je zobaczyłem podczas pierwszego lotu Hahn - Bergamo. Błąd taryfowy i za 10 złotych od osoby we dwie strony byłem dużo bliżej Alp. Przy okazji chodzenia po górach można było zrobić zapasy włoskich produktów.",
+      "reports": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2011/01/odkrywanie-alpejskich-zakamarkow.html",
+          "tittle": "Odkrywanie alpejskich zakamarków"
+        }
+      ],
+      "places": ["varenna", "bellagio", "griante", "bergamo"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "bgy",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "bgy",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/uAAHBiZd2mRzBYHSA",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Wenecja",
+      "date": ["2010-11-21", "2010-11-23"],
+      "description": "Po przerwie wynikającej z braku pracy i serii nieudanych bookingów trzeba było załatwić coś na przełamanie złej passy. Króko i intensywnie, ale również przyjemnie.",
+      "places": ["treviso", "wenecja"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "crl",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "crl",
+          "arr": "tsf",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "tsf",
+          "arr": "bva",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "bva",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/udKg5LC1zzdo5PPq9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Południowo europejskie Mambo dżambo",
+      "date": ["2010-04-26", "2010-05-04"],
+      "description": "Zaczęło się od kupna kuponu zniżkowego na noclegi który w końcu należało wykorzystać. Do tego doszło rozwinięcie o zapowiadany tydzień muzeów we Włoszech, które zostało zamienione na Ibizę i Katalonię. Ostatecznie wyszło jedno z najbardziej rozbudowywanych i mile wspominanych mambo dżambo w dotychczasowej historii. Chciałoby się jeszcze powtórzyć kiedyś coś takiego.",
+      "places": [
+        "rzym",
+        "watykan",
+        "ibiza",
+        "tarragona",
+        "palma_de_mallorca",
+        "cala_pi",
+        "bergamo"
+      ],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "cia",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "cia",
+          "arr": "ibz",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "ibz",
+          "arr": "bcn",
+          "airline": "vy",
+          "type": "a320"
+        },
+        {
+          "dep": "reu",
+          "arr": "pmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "pmi",
+          "arr": "gro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "gro",
+          "arr": "bgy",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "bgy",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/wUSethFSuk5B7vAC6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Dortmund",
+      "date": ["2010-03-02", "2010-03-04"],
+      "places": ["dortmund", "holzwickede"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "dtm",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "dtm",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ]
+    },
+    {
+      "name": "Norwegia po raz pierwszy",
+      "date": ["2010-02-25", "2010-02-27"],
+      "description": "Efekt pięknej promocji otwierającego we Wrocławiu swoją bazę Wizz Air i debiut na pokładzie tej linii został nieco przyspieszony. Nic szczególnego, ale całodniowe chodzenie po krainie zasnutej śniegiem po horyzont to również miłe wspomnienia.",
+      "places": ["sandefjord", "tonsberg"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "trf",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "trf",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/ZY8i2qkgWBSNX8iu9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Alicante",
+      "date": ["2010-02-01", "2010-02-04"],
+      "description": "Planów rozwinięcia oraz co do składu osobowego tego wyjazdu było sporo. Ostatecznie zostało na wersji podstawowej we dwójkę. I dobrze, zaziębienie wypadu sprzed kilku dni dawało się jednak we znaki. Chwilowe lenistwo w cieplejszych promieniach słońca, jak też zakupowe szaleństwo również były w tym momencie wskazane.",
+      "reports": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2010/03/iberyjskie-mambo-dzambo-razy-dwa.html",
+          "tittle": "Iberyjskie mambo dżambo razy dwa"
+        }
+      ],
+      "places": ["alicante"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "alc",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "alc",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/gXRpaDQVasVVEPcEA",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Iberyjskie kółeczko",
+      "date": ["2010-01-25", "2010-01-28"],
+      "description": "Według założeń miało to być bardzo rozbudowane mambo dżambo po Hiszpanii i Portugalii. W wyniku wielkiego opóźnienia jednego samolotu plany uległy lekkim zmianom. Dało to trochę do myślenia jak łatwo można zostać na lodzie z dala od domu. Zresztą trzy places w trzy dni to jednak lekka przesada i opcja skrajnie wymęczająca.",
+      "reports": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2010/03/iberyjskie-mambo-dzambo-razy-dwa.html",
+          "tittle": "Iberyjskie mambo dżambo razy dwa"
+        }
+      ],
+      "places": ["porto", "madryt", "alicante"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "alc",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "alc",
+          "arr": "mad",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "mad",
+          "arr": "opo",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "opo",
+          "arr": "mad",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "mad",
+          "arr": "alc",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "alc",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Wq3TUyBC6bV7RfiH7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Santiago de Compostela",
+      "date": ["2009-11-23", "2009-11-26"],
+      "description": "Efekt wyczytania informacji o pierwszych tanich biletach do Alicante. Bardzo szybki zakup i późniejsze dalsze rozwinięcie do Santiago. Przy okazji kilka chwil w Madrycie i ostatnie w tamtym roku ciepłe promienie słoneczne przy terminalu w Alicante.",
+      "reports": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2010/01/na-prawie-krancu-europy.html",
+          "tittle": "Na (prawie) krańcu Europy"
+        }
+      ],
+      "places": ["santiago_de_compostela", "madryt"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "alc",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "alc",
+          "arr": "mad",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "mad",
+          "arr": "scq",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "scq",
+          "arr": "mad",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "mad",
+          "arr": "alc",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "alc",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/KKmvtK28gRFnWGiK6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Berlin",
+      "date": ["2009-10-05", "2009-10-07"],
+      "places": ["berlin"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "nrn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "nrn",
+          "arr": "sxf",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "sxf",
+          "arr": "hhn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "hhn",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ]
+    },
+    {
+      "name": "Sardynia - Pierwszy urlop na własną rękę",
+      "date": ["2009-09-02", "2009-09-07"],
+      "description": "W rok po niemiłej przygodzie z biurem podróży nadszedł czas na pierwszy urlop od początku organizowany na własną rękę. Pierwsza trochę bardziej skomplikowana trasa z krótkimi postojami na przesiadkach, pierwszy dłuższy pobyt w hostelu, prawdziwy odpoczynek i duża oszczędność (np. routes kosztowały 15 złotych od osoby). Bardzo pozytywne wrażenia spowodowały całkowite przekreślenie biur podróży.",
+      "reports": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2009/09/wakacje-na-wasna-reke-czyli-cztery-dni.html",
+          "tittle": "Wakacje na własną rękę, czyli cztery dni na Sardynii"
+        }
+      ],
+      "places": ["bergamo", "cagliari"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "crl",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "crl",
+          "arr": "bgy",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "bgy",
+          "arr": "cag",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "cag",
+          "arr": "crl",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "crl",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/1guzuw5vUmkM7zvX8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Madryt",
+      "date": ["2009-06-07", "2009-06-10"],
+      "places": ["madryt", "charleroi"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "crl",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "crl",
+          "arr": "mad",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "mad",
+          "arr": "crl",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "crl",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/6cxUTwJ6yuqSrzYw6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Nykoping",
+      "date": ["2009-03-24", "2009-03-26"],
+      "places": ["nykoping", "oxelosund"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "nyo",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "nyo",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/FbEVSqgdkZHZifU57",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Iberyjskie kółeczko",
+      "date": ["2009-02-10", "2009-02-12"],
+      "places": ["girona", "santander", "sohren"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "hhn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "hhn",
+          "arr": "gro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "gro",
+          "arr": "mad",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "mad",
+          "arr": "sdr",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "sdr",
+          "arr": "reu",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "reu",
+          "arr": "hhn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "hhn",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Jhh3tH1qBDAYCEMW9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Mediolan (pierwszy lot z przesiadką)",
+      "date": ["2008-12-02", "2008-12-04"],
+      "description": "Pierwsze doświadczenie z czymś, co teraz można nameć nisko-kosztowym mambo dżambo. Czyli krótki wypad za grosze, routes z przesiadką i nocka na lotnisku. Było ciężko i niezbyt ciekawie, ale dało do myślenia co trzeba poprawić aby było dobrze.",
+      "places": ["mediolan"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "hhn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "hhn",
+          "arr": "bgy",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "bgy",
+          "arr": "hhn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "hhn",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/feXNt4UkE4h13Mit5",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Arnhem",
+      "date": ["2008-10-14", "2008-10-16"],
+      "places": ["nijmegen", "arnhem"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "nrn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "nrn",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/UJTtAD9YnK6w16tP7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Tunezja",
+      "date": ["2008-09-04", "2008-09-11"],
+      "description": "Pierwsze i jedyne doświadczenie z wyjazdem zorganizowanym przez biuro podróży. Mało interesujące miejsce w mało interesującym kraju. Wprawdzie ciekawe doświadczenie z pierwszej wizyty na czarnym lądzie, jednak zero odpoczynku i możliwości oderwania się od polskiej mentalności. Dodatkowym minusem była drożyzna. Dość istotny powód aby zacząć poważnie eksplorować opcję wyjazdów na własną rękę.",
+      "reports": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2009/07/w-ostatnim-poscie-wspominaem-o-niezbyt.html",
+          "tittle": "Pierwszy kontakt z czarnym lądem"
+        }
+      ],
+      "places": ["sousse", "monastir", "chott_el-jerid", "matmata"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "mir",
+          "airline": "bj",
+          "type": "a320"
+        },
+        {
+          "dep": "mir",
+          "arr": "wro",
+          "airline": "bj",
+          "type": "a320"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/h3627Dm38z2Pumei9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Bristol",
+      "date": ["2008-04-14", "2008-04-16"],
+      "description": "Pierwszy świadomy wyjazd nisko-kosztowy. Testowanie możliwości zakupu biletów lotniczych i całej organizacji na własną rękę. Wyjazd zakończony sukcesem pokazujący co trzeba zrobić aby się udało. Podróże nisko-kosztowe z Polski stanęły więc otworem.",
+      "places": ["bristol"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "brs",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "brs",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/4MhZjFGRZazkHhSD8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Urlop na koniec emigracji",
+      "date": ["2007-09-16", "2007-09-21"],
+      "description": "Przypadkowo zorganizowany krótki urlop w formie nagrody za zakończoną roczną emigrację zarobkową. Wyjazd bardzo spontaniczny i pod wieloma względami jest przyczynkiem, bądź początkiem wyjazdowego tambylstwa.",
+      "places": [
+        "los_christianos",
+        "wulkan_el_teide",
+        "la_gomera",
+        "santa_cruz_de_tenerife"
+      ],
+      "routes": [
+        {
+          "dep": "dub",
+          "arr": "tfn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "tfn",
+          "arr": "dub",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/9a58tSgGehJvZbZRA",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Pierwsza praca zagraniczna",
+      "date": ["2005-07-12", "2005-09-10"],
+      "notka": "date powrotu niepewna",
+      "description": "Dość przełomowy moment w życiu. Pierwszy poważny wyjazd zagraniczny, pierwsza praca na imigracji, pierwszy lot w życiu i pierwsza potrzeba radzenia sobie przy użyciu innego języka. Spora szkoła życia, ale nauczyła tęsknoty do miejsc odległych od domu.",
+      "places": ["berlin", "londyn", "brighton"],
+      "routes": [
+        {
+          "dep": "sxf",
+          "arr": "ltn",
+          "airline": "u2",
+          "type": "a320"
+        }
+      ]
+    },
+    {
+      "hidden": true,
+      "name": "kontener na przyszłe",
+      "date": ["2019-12-31", "2019-12-31"],
+      "places": ["rymanow"]
+    },
+    {
+      "hidden": true,
+      "name": "kontener",
+      "date": ["2019-01-01", "2019-01-01"],
+      "places": ["rzeszow", "wroclaw", "polkowice", "polajny"]
+    },
+    {
+      "hidden": true,
+      "name": "kontener",
+      "date": ["2018-01-01", "2018-01-01"],
+      "places": [
+        "rzeszow",
+        "wroclaw",
+        "polkowice",
+        "janow_podlaski",
+        "grabarka",
+        "siemiatycze",
+        "warka",
+        "rymanow",
+        "sopot",
+        "rozewie",
+        "swidnica"
+      ]
+    },
+    {
+      "hidden": true,
+      "name": "kontener",
+      "date": ["2017-01-01", "2017-01-01"],
+      "places": [
+        "wroclaw",
+        "szczyrk",
+        "rzeszow",
+        "kazimierz_dolny",
+        "polkowice",
+        "skierniewice",
+        "sochaczew",
+        "rymanow",
+        "radom",
+        "walbrzych"
+      ],
+      "routes": [
+        {
+          "notka": "styczeń",
+          "dep": "waw",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "notka": "styczeń",
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "waw",
+          "arr": "rze",
+          "airline": "k2",
+          "type": "dh8"
+        },
+        {
+          "dep": "rze",
+          "arr": "waw",
+          "airline": "lo",
+          "type": "emb170"
+        },
+        {
+          "notka": "luty",
+          "dep": "waw",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "notka": "luty",
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "notka": "kwiecień",
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "notka": "maj",
+          "dep": "waw",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "notka": "maj",
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "notka": "czerwiec",
+          "dep": "waw",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "notka": "czerwiec",
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "notka": "lipiec",
+          "dep": "waw",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "notka": "lipiec",
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "notka": "lipiec2",
+          "dep": "waw",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "notka": "lipiec2",
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "notka": "wrzesien",
+          "dep": "waw",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "notka": "wrzesien",
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "notka": "październik",
+          "dep": "waw",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "notka": "październik",
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ]
+    },
+    {
+      "hidden": true,
+      "name": "kontener",
+      "date": ["2016-01-01", "2016-01-02"],
+      "places": [
+        "warszawa",
+        "sopot",
+        "wroclaw",
+        "rymanow",
+        "rzeszow",
+        "nowy_sacz",
+        "bydgoszcz",
+        "torun",
+        "krakow",
+        "gory_stolowe",
+        "polkowice"
+      ],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "waw",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "waw",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "waw",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "waw",
+          "arr": "gdn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "gdn",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "waw",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ]
+    },
+    {
+      "hidden": true,
+      "name": "kontener",
+      "date": ["2015-01-01", "2015-01-02"],
+      "places": [],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "ryg",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "ryg",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ]
+    },
+    {
+      "hidden": true,
+      "name": "kontener",
+      "date": ["2013-01-01", "2013-01-02"],
+      "places": ["dortmund"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "dtm",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "dtm",
+          "arr": "poz",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ]
+    },
+    {
+      "hidden": true,
+      "name": "kontener",
+      "date": ["2012-01-01", "2012-01-02"],
+      "places": ["krakow", "warszawa"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "krk",
+          "airline": "o2",
+          "type": "at4"
+        },
+        {
+          "dep": "krk",
+          "arr": "wro",
+          "airline": "o2",
+          "type": "at4"
+        },
+        {
+          "dep": "wro",
+          "arr": "waw",
+          "airline": "o2",
+          "type": "a320"
+        },
+        {
+          "dep": "waw",
+          "arr": "wro",
+          "airline": "lo",
+          "type": "emb190"
+        }
+      ]
+    },
+    {
+      "hidden": true,
+      "name": "kontener",
+      "date": ["2011-01-01", "2011-01-02"],
+      "places": ["dortmund", "holzwickede"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "dtm",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "dtm",
+          "arr": "waw",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "wro",
+          "arr": "dtm",
+          "airline": "w6",
+          "type": "a320"
+        },
+        {
+          "dep": "dtm",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320"
+        }
+      ]
+    },
+    {
+      "hidden": true,
+      "name": "kontener",
+      "date": ["2009-01-01", "2009-01-02"],
+      "places": ["lodz"]
+    },
+    {
+      "hidden": true,
+      "name": "kontener",
+      "date": ["2007-01-01", "2007-01-02"],
+      "places": ["dublin", "londyn", "zagnansk", "poznan"],
+      "routes": [
+        {
+          "dep": "dub",
+          "arr": "wro",
+          "airline": "c0",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "dub",
+          "airline": "c0",
+          "type": "b737"
+        },
+        {
+          "dep": "dub",
+          "arr": "stn",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "stn",
+          "arr": "dub",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "dub",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "dub",
+          "airline": "c0",
+          "type": "b737"
+        },
+        {
+          "dep": "dub",
+          "arr": "wro",
+          "airline": "c0",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "dub",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "dub",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        }
+      ]
+    },
+    {
+      "hidden": true,
+      "name": "kontener",
+      "date": ["2006-01-01", "2006-01-02"],
+      "places": ["dublin", "londyn", "brighton", "czestochowa", "radomsko"],
+      "routes": [
+        {
+          "dep": "wro",
+          "arr": "dub",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "dub",
+          "arr": "lgw",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "stn",
+          "arr": "dub",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "dub",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737"
+        },
+        {
+          "dep": "wro",
+          "arr": "dub",
+          "airline": "c0",
+          "type": "b737"
+        }
+      ]
+    },
+    {
+      "hidden": true,
+      "hiddenEarlies": true,
+      "name": "kontener",
+      "date": ["2004-01-01 i wcześniej", "2004-01-02"],
+      "places": [
+        "szklarska_poreba",
+        "karpacz",
+        "darlowo",
+        "polwysep_hel",
+        "bialystok",
+        "rozewie",
+        "ostrow_wlkp",
+        "pila",
+        "katowice",
+        "mielec",
+        "walbrzych"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3323 @@
+﻿{
+  "places": {
+    "czestochowa": {
+      "lat": 50.816304,
+      "lon": 19.118557,
+      "name": "Częstochowa",
+      "country": "polska"
+    },
+    "radomsko": {
+      "lat": 51.067377,
+      "lon": 19.444914,
+      "name": "Radomsko",
+      "country": "polska"
+    },
+    "szklarska_poreba": {
+      "lat": 50.827583,
+      "lon": 15.525684,
+      "name": "Szklarska Poręba i górskie okolice",
+      "country": "polska"
+    },
+    "karpacz": {
+      "lat": 50.775963,
+      "lon": 15.755911,
+      "name": "Karpacz (śnieżka)",
+      "country": "polska"
+    },
+    "darlowo": {
+      "lat": 54.421007,
+      "lon": 16.410971,
+      "name": "Darłowo",
+      "country": "polska"
+    },
+    "polwysep_hel": {
+      "lat": 54.609778,
+      "lon": 18.80024,
+      "name": "Półwysep Hel",
+      "country": "polska"
+    },
+    "bialystok": {
+      "lat": 53.132519,
+      "lon": 23.168735,
+      "name": "Białystok",
+      "country": "polska"
+    },
+    "rozewie": {
+      "lat": 54.833117,
+      "lon": 18.328357,
+      "name": "Przylądek Rozewie",
+      "country": "polska",
+      "description": "Kilkukrotne wizyty za czasów dziecięcych. Noclegi zwyczajowo mieliśmy nieopodal latarni morskiej Rozewie"
+    },
+    "lodz": {
+      "lat": 51.759723,
+      "lon": 19.455357,
+      "name": "Łódź",
+      "country": "polska",
+      "description": "Odwiedzona dwukrotnie przy okazji Parady Wolności, swego czasu jednej z największych imprez z taneczną elektroniką w Polsce.<br />Po kilku latach miałem okazję zobaczyć różnice przy okazji kilkudniowej wizyty u znajomych."
+    },
+    "rymanow": {
+      "lat": 49.54721,
+      "lon": 21.849032,
+      "name": "Rymanów Zdrój",
+      "country": "polska",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/ginrYquZfjgX9NQQA",
+          "tittle": "Rymanów Zdrój"
+        }
+      ]
+    },
+    "rzeszow": {
+      "lat": 50.039819,
+      "lon": 22.011113,
+      "name": "Rzeszów",
+      "country": "polska"
+    },
+    "nowy_sacz": {
+      "lat": 49.606937,
+      "lon": 20.715557,
+      "name": "Nowy Sącz",
+      "country": "polska"
+    },
+    "bydgoszcz": {
+      "lat": 53.123133,
+      "lon": 18.010793,
+      "name": "Bydgoszcz",
+      "country": "polska"
+    },
+    "torun": {
+      "lat": 53.013785,
+      "lon": 18.598778,
+      "name": "Toruń",
+      "country": "polska"
+    },
+    "ostrow_wlkp": {
+      "lat": 51.654007,
+      "lon": 17.808294,
+      "name": "Ostrów Wielkopolski",
+      "country": "polska"
+    },
+    "zagnansk": {
+      "lat": 50.979593,
+      "lon": 20.664911,
+      "name": "Zagnańsk",
+      "country": "polska",
+      "description": "Miejsce ciekawostka, ponieważ w czasach imprezowych występowałem nieopodal najstarszego dębu w Polsce. Co ciekawe nawet pizzeria włoska w tamtych okolicach nazywa się 'Bartek'"
+    },
+    "pila": {
+      "lat": 53.150024,
+      "lon": 16.740017,
+      "name": "Piła",
+      "country": "polska"
+    },
+    "katowice": {
+      "lat": 50.255755,
+      "lon": 19.031825,
+      "name": "Katowice",
+      "country": "polska"
+    },
+    "mielec": {
+      "lat": 50.286444,
+      "lon": 21.424656,
+      "name": "Mielec",
+      "country": "polska"
+    },
+    "poznan": {
+      "lat": 52.405268,
+      "lon": 16.926384,
+      "name": "Poznań",
+      "country": "polska"
+    },
+    "walbrzych": {
+      "lat": 50.785091,
+      "lon": 16.281463,
+      "name": "Wałbrzych",
+      "country": "polska"
+    },
+    "gory_stolowe": {
+      "lat": 50.484217,
+      "lon": 16.342989,
+      "name": "Góry stołowe (Szczeliniec, Kudowa Zdrój, Duszniki Zdrój)",
+      "country": "polska"
+    },
+    "polkowice": {
+      "lat": 51.50253,
+      "lon": 16.062482,
+      "name": "Polkowice",
+      "country": "polska"
+    },
+    "szczyrk": {
+      "lat": 49.715701,
+      "lon": 19.025295,
+      "name": "Szczyrk",
+      "country": "polska"
+    },
+    "brighton": {
+      "lat": 50.819807,
+      "lon": -0.136399,
+      "name": "Brighton",
+      "country": "wielka-brytania",
+      "description": "Miejsce blisko dwumiesięcznej emigracji. Pierwszy dłuższy pobyt poza granicami countryu.<br />Wrócić tam celem turystycznym - owszem. Aby tam osiąść - nigdy!"
+    },
+    "dublin": {
+      "lat": 53.362139,
+      "lon": -6.263798,
+      "name": "Dublin",
+      "country": "irlandia",
+      "description": "Miejsce blisko rocznej emigracji zarobkowej. W zasadzie praca na tamtejszym lotnisku zbliżyła mnie do zagadnienia lotnictwa, kilka odbytych podróży oswoiła z samolotami a kończący tą przygodę wypad na Teneryfę zapoczątkował fascynację tanimi podróżami.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/PpARgRkVW3ErZJQr6",
+          "tittle": "Dublin"
+        }
+      ]
+    },
+    "londyn": {
+      "lat": 51.501071,
+      "lon": -0.124333,
+      "name": "Londyn",
+      "country": "wielka-brytania",
+      "description": "Jedno z najważniejszych miejsc na świecie, absolutne must see przy okazji wizyty na naszym kontynencie. Miasto niesamowitej ilości historii którego przeszłość jest tylko wisienką na torcie istotności w świecie czasów dzisiejszych. Z jednej strony przyspieszone bicie serca powodują widoki miejsc od lat znanych z ekranów telewizora, z drugiej euforię hamują ogromne ilości turystów przy nich obecnych. Londyn to historia na opowiedzenie której życia nie starcza. Ciekawostką jest że przez długi czas stanowił punkt na mapie wyłącznie w ramach przejazdu lub wizyt zakupowych. Za którymś razem udało się jednak tam przybyć na długich kilka dni. Tak się złożyło że w tym mieście przywitałem też swoją trzydziestkę.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/54dgnAc5dvkDUufLA",
+          "tittle": "Londyn, London"
+        }
+      ]
+    },
+    "los_christianos": {
+      "lat": 28.050288,
+      "lon": -16.712122,
+      "name": "Los Christianos",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/ySZZTCufbtPxBeq4A",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "wulkan_el_teide": {
+      "lat": 28.268842,
+      "lon": -16.637435,
+      "name": "Wulkan El Teide",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/MNgLceVEBojnC2da6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "santa_cruz_de_tenerife": {
+      "lat": 28.466186,
+      "lon": -16.250939,
+      "name": "Santa Cruz de Tenerife",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/W13tvANwCwq9XIEf2",
+          "tittle": "Santa Cruz de Tenerife"
+        }
+      ]
+    },
+    "la_gomera": {
+      "lat": 28.090882,
+      "lon": -17.10969,
+      "name": "La Gomera",
+      "country": "hiszpania",
+      "description": "Jak dotąd najbardziej na zachód i południe oddalony zakątek Ziemii na jaki się wybrałem. Dalej już tylko Afryka, albo obie Ameryki.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/oKL67qWUHN5aK3tD6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "bristol": {
+      "lat": 51.455333,
+      "lon": -2.591929,
+      "name": "Bristol",
+      "country": "wielka-brytania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/9k2eBgnaCW0skH152",
+          "tittle": "Bristol"
+        }
+      ]
+    },
+    "monastir": {
+      "lat": 35.774079,
+      "lon": 10.828643,
+      "name": "Monastir",
+      "country": "tunezja",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/E6VGMyStFxxaEyH93",
+          "tittle": "Monastir"
+        }
+      ]
+    },
+    "sousse": {
+      "lat": 35.834988,
+      "lon": 10.63355,
+      "name": "Sousse",
+      "country": "tunezja",
+      "description": "Bardzo obskurna miejscowość nastawiona na wyciągnięcie z przyjezdnych jak największej ilości pieniędzy. Oblegana wręcz przez Polaków i nie dająca prawie żadnej szansy na relaksujący wypoczynek!",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/51lYmA89zyFRFFBZ2",
+          "tittle": "Sousse"
+        }
+      ]
+    },
+    "chott_el-jerid": {
+      "lat": 33.910999,
+      "lon": 8.137665,
+      "name": "Chott el-Jérid i pustynia",
+      "country": "tunezja",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/dyIZpsu8oU34U8xW2",
+          "tittle": "Chott El Jerid"
+        }
+      ]
+    },
+    "matmata": {
+      "lat": 33.542997,
+      "lon": 9.966545,
+      "name": "Matmata",
+      "country": "tunezja",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/7WlbqyMkpEq4Yyy73",
+          "tittle": "Matmata"
+        }
+      ]
+    },
+    "nijmegen": {
+      "lat": 51.841251,
+      "lon": 5.858746,
+      "name": "Nijmegen",
+      "country": "holandia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/XSZoyFBSpIqQDFyI3",
+          "tittle": "Nijmegen"
+        }
+      ]
+    },
+    "arnhem": {
+      "lat": 51.979129,
+      "lon": 5.914707,
+      "name": "Arnhem",
+      "country": "holandia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/rPd7OwXH3T6FOKcn1",
+          "tittle": "Arnhem"
+        }
+      ]
+    },
+    "mediolan": {
+      "lat": 45.464898,
+      "lon": 9.187946,
+      "name": "Mediolan",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/x1iTz37t4W9lCBZv2",
+          "tittle": "Mediolan, Milan, Milano"
+        }
+      ]
+    },
+    "girona": {
+      "lat": 41.98179,
+      "lon": 2.823697,
+      "name": "Girona",
+      "country": "hiszpania",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2011/04/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/qGWNoQNaInUosnOC2",
+          "tittle": "Girona, Gerona"
+        }
+      ]
+    },
+    "santander": {
+      "lat": 43.461243,
+      "lon": -3.807993,
+      "name": "Santander",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/eYj26BHZnHQZgKxD3",
+          "tittle": "Santander"
+        }
+      ]
+    },
+    "sohren": {
+      "lat": 49.932539,
+      "lon": 7.3107,
+      "name": "Sohren",
+      "country": "niemcy"
+    },
+    "nykoping": {
+      "lat": 58.748934,
+      "lon": 17.014675,
+      "name": "Nyköping",
+      "country": "szwecja",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/seuf4gOKsoeY6I5X2",
+          "tittle": "Nyköping"
+        }
+      ]
+    },
+    "oxelosund": {
+      "lat": 58.668512,
+      "lon": 17.103596,
+      "name": "Oxelösund",
+      "country": "szwecja",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/mYDvPbQqW4qBQBEX6",
+          "tittle": "Oxelösund"
+        }
+      ]
+    },
+    "madryt": {
+      "lat": 40.416528,
+      "lon": -3.699074,
+      "name": "Madryt",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/6YKUIzLYO6oGG1Im2",
+          "tittle": "Madryt, Madrid"
+        }
+      ]
+    },
+    "charleroi": {
+      "lat": 50.411099,
+      "lon": 4.445286,
+      "name": "Charleroi",
+      "country": "belgia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/rYTzCDamxkYtWCCTA",
+          "tittle": "Charleroi"
+        }
+      ]
+    },
+    "bergamo": {
+      "lat": 45.702271,
+      "lon": 9.664607,
+      "name": "Bergamo",
+      "country": "wlochy",
+      "description": "Bardzo urokliwe, niewielkie miasteczko. Jeśli jest się w okolicy to zawsze warto tam wpaść na kilka godzin.",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2010/08/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/XEEE9RZ7E1ThVkc8A",
+          "tittle": "Bergamo"
+        }
+      ]
+    },
+    "cagliari": {
+      "lat": 39.21438,
+      "lon": 9.114475,
+      "name": "Cagliari",
+      "country": "wlochy",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2009/09/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/FmK75cXoWDxMQhHb2",
+          "tittle": "Cagliari"
+        }
+      ]
+    },
+    "berlin": {
+      "lat": 52.515991,
+      "lon": 13.378229,
+      "name": "Berlin",
+      "country": "niemcy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/S2h6QZ3X5kpNfJD58",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "santiago_de_compostela": {
+      "lat": 42.880694,
+      "lon": -8.545704,
+      "name": "Santiago de Compostela",
+      "country": "hiszpania",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2010/01/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/p7q8GRbwgQ7ybSDF2",
+          "tittle": "Santiago de Compostela"
+        }
+      ]
+    },
+    "porto": {
+      "lat": 41.150456,
+      "lon": -8.609877,
+      "name": "Porto",
+      "country": "portugalia",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2010/05/spostrzezenia-wasne-przewodnik-po-porto.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/GD5lpF8WbqbbL9cu1",
+          "tittle": "Porto, Oporto"
+        }
+      ]
+    },
+    "alicante": {
+      "lat": 38.347472,
+      "lon": -0.48008,
+      "name": "Alicante",
+      "country": "hiszpania",
+      "description": "Świetna opcja na kilkudniowe doładowanie baterii na przestrzeni jesień-wiosna. Okolice są otulone ciepłym powietrzem napływającym znad Afryki, więc temperatury rzędu 20C notuje się tam nawet na początku lutego!",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2010/06/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/ygOFOGIja9JmvcFr1",
+          "tittle": "Alicante"
+        }
+      ]
+    },
+    "sandefjord": {
+      "lat": 59.127974,
+      "lon": 10.222664,
+      "name": "Sandefjord",
+      "country": "norwegia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/Gb5vBYTQirLzZVJQ7",
+          "tittle": "Sandefjord"
+        }
+      ]
+    },
+    "tonsberg": {
+      "lat": 59.267951,
+      "lon": 10.408802,
+      "name": "Tonsberg",
+      "country": "norwegia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/csgFNugFSYcodxLg2",
+          "tittle": "Tønsberg"
+        }
+      ]
+    },
+    "dortmund": {
+      "lat": 51.511499,
+      "lon": 7.464151,
+      "name": "Dortmund",
+      "country": "niemcy",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2010/04/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ]
+    },
+    "holzwickede": {
+      "lat": 51.500921,
+      "lon": 7.617788,
+      "name": "Holzwickede",
+      "country": "niemcy",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2010/04/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ]
+    },
+    "rzym": {
+      "lat": 41.894917,
+      "lon": 12.48436,
+      "name": "Rzym",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/apeXDDF5gymtR2h78",
+          "tittle": "Rzym"
+        }
+      ]
+    },
+    "ibiza": {
+      "lat": 38.909121,
+      "lon": 1.432242,
+      "name": "Ibiza",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "",
+          "tittle": ""
+        }
+      ]
+    },
+    "tarragona": {
+      "lat": 41.118179,
+      "lon": 1.247277,
+      "name": "Tarragona",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/8wXNobB5H4mjmxr16",
+          "tittle": "Tarragona"
+        }
+      ]
+    },
+    "palma_de_mallorca": {
+      "lat": 39.569387,
+      "lon": 2.650738,
+      "name": "Palma de Mallorca",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/kFat7a1oFnMxFQAu6",
+          "tittle": "Majorka, Mallorce"
+        }
+      ]
+    },
+    "cala_pi": {
+      "lat": 39.364341,
+      "lon": 2.836397,
+      "name": "Cala Pi",
+      "country": "hiszpania",
+      "description": "Bardzo urocza zatoka i plaża schowana pomiędzy klifami. Miejsce warte spędzenia tam kilka godzin na niezobowiązującym relaksie."
+    },
+    "treviso": {
+      "lat": 45.666282,
+      "lon": 12.245779,
+      "name": "Treviso",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/vUuCbiFqhPuLh5U16",
+          "tittle": "Treviso"
+        }
+      ]
+    },
+    "wenecja": {
+      "lat": 45.433834,
+      "lon": 12.339606,
+      "name": "Wenecja",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/mZucoWk3At1WzvF58",
+          "tittle": "Wenecja"
+        },
+        {
+          "link": "https://goo.gl/photos/ikauXVhx73VuFb2Q7",
+          "tittle": "Mestre"
+        },
+        {
+          "link": "https://goo.gl/photos/EQr52Jq7iWq9Wb9R6",
+          "tittle": "Murano"
+        },
+        {
+          "link": "https://goo.gl/photos/QzjR7KJwQRN4MmQS7",
+          "tittle": "Burano"
+        }
+      ]
+    },
+    "varenna": {
+      "lat": 46.010057,
+      "lon": 9.283011,
+      "name": "Varenna",
+      "country": "wlochy",
+      "description": "Bardzo klimatyczne, małe miasteczko. Tak jak całe okolice jeziora Como – wypełnione specyficznym, brytyjskim klimatem nostalgii. Przyjedzie się tam raz i później chce się wrócić!",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/RRaenA1NfTi4o7jc7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "bellagio": {
+      "lat": 45.987191,
+      "lon": 9.261553,
+      "name": "Bellagio",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/Y8Vq743uifz6Yzmw8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "griante": {
+      "lat": 45.993244,
+      "lon": 9.237049,
+      "name": "Griante",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/iFeESjWwZoUgiNB3A",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "oujda": {
+      "lat": 34.679544,
+      "lon": -1.914124,
+      "name": "Oujda",
+      "country": "maroko",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2011/10/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/NfFKo7XAFuQ7oWMz8",
+          "tittle": "Oujda, Wadżda"
+        }
+      ]
+    },
+    "nador": {
+      "lat": 35.174882,
+      "lon": -2.922292,
+      "name": "Nador",
+      "country": "maroko",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/HPD3MoM5qvxCkkvdA",
+          "tittle": "Nador"
+        }
+      ]
+    },
+    "melilla": {
+      "lat": 35.291961,
+      "lon": -2.940917,
+      "name": "Melilla",
+      "country": "hiszpania",
+      "description": "Mała i niepozorna gwiazda. Miasto bardzo kontrastujące z otaczającym je Marokiem i zarazem z fantastycznym klimatem secesyjnym. Na miejscu nie można uwierzyć że jest ono praktycznie białą plamą na mapie turystycznej.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/bxVYVtigRrXWpMtBA",
+          "tittle": "Melilla"
+        }
+      ]
+    },
+    "cork": {
+      "lat": 51.900351,
+      "lon": -8.466454,
+      "name": "Cork",
+      "country": "irlandia"
+    },
+    "bolonia": {
+      "lat": 44.491264,
+      "lon": 11.349449,
+      "name": "Bolonia",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/Lm2xjjjwAWijNm2M9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "rimini": {
+      "lat": 44.072787,
+      "lon": 12.566185,
+      "name": "Rimini",
+      "country": "wlochy",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2011/07/spostrzezenia-wasne-przewodnik-po-forli.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/5uyvXyokS6Zoth4z6",
+          "tittle": "Rimini"
+        }
+      ]
+    },
+    "san_marino": {
+      "lat": 43.943055,
+      "lon": 12.445443,
+      "name": "San Marino",
+      "country": "san-marino",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2011/07/spostrzezenia-wasne-przewodnik-po-forli.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/6qhhRC8FuvCWKeCL9",
+          "tittle": "San Marino"
+        }
+      ]
+    },
+    "ravenna": {
+      "lat": 44.425934,
+      "lon": 12.197342,
+      "name": "Ravenna",
+      "country": "wlochy",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2011/07/spostrzezenia-wasne-przewodnik-po-forli.html"
+        }
+      ]
+    },
+    "forli": {
+      "lat": 44.220255,
+      "lon": 12.039528,
+      "name": "Forlì",
+      "country": "wlochy",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2011/07/spostrzezenia-wasne-przewodnik-po-forli.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/AXsDqPsCZdETUvy5A",
+          "tittle": "Forli"
+        }
+      ]
+    },
+    "ryga": {
+      "lat": 56.950966,
+      "lon": 24.105148,
+      "name": "Ryga",
+      "country": "lotwa",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2011/08/spostrzezenia-wasne-przewodnik-po-rydze.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/ULnG7qjRcwsgusjA7",
+          "tittle": "Ryga, Riga"
+        }
+      ]
+    },
+    "jurmala": {
+      "lat": 56.968655,
+      "lon": 23.772497,
+      "name": "Jurmała",
+      "country": "lotwa",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2011/08/spostrzezenia-wasne-przewodnik-po-rydze.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/MAxgQacKa3Y8xuSo7",
+          "tittle": "Jurmała, Jurmala"
+        }
+      ]
+    },
+    "tbilisi": {
+      "lat": 41.710214,
+      "lon": 44.792969,
+      "name": "Tbilisi",
+      "country": "gruzja",
+      "description": "Miasto w odbudowę którego wpompowywane są ogromne fundusze. Pieniądze te nie są marnotrawione, dzięki czemu jest w nim sporo miejsc budzących podziw i zachwyt.",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2012/03/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/id5G6WnkAE9UKT8K8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "batumi": {
+      "lat": 41.648801,
+      "lon": 41.63661,
+      "name": "Batumi",
+      "country": "gruzja",
+      "description": "Bardzo ładne miasto wypoczynkowe. Jeden z najbezpieczniejszych kurortów w jakich miałem okazję być i do tego już (pomimo prowadzonych wielu remontów) estetycznie posiadające wiele do zaoferowania.",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2012/03/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/PobLQsLZjVMNrKgbA",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "mccheta": {
+      "lat": 41.841304,
+      "lon": 44.721043,
+      "name": "Mccheta (Mtskheta)",
+      "country": "gruzja",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2012/03/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/49s5pRwnh6mA9UZG8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "david_gareja": {
+      "lat": 41.447536,
+      "lon": 45.376579,
+      "name": "David Gareja",
+      "country": "gruzja",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2012/03/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/3vLVwtQ45F3eEYUs7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "fes": {
+      "lat": 34.034453,
+      "lon": -5,
+      "name": "Fez",
+      "country": "maroko",
+      "description": "Jedno z najważniejszych miast Maroka z jego ubustwianą przez niektórych Medyną. Rzeczywiście, modulo dogodności dzisiejszej nowoczesności wydawać się może że życie prowadzone jest tam w niezmiennej od wieków formie. Niemniej rzeczywistość tamtejszej medyny to tak naprawdę męczarnia ciężka do zniesienia już w trzecim dniu pobytu :(",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2012/09/spostrzezenia-wasne-przewodnik-po-fezie.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/HaJvTmMJunnB4m3S8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "meknes": {
+      "lat": 33.894678,
+      "lon": -5.564411,
+      "name": "Meknes",
+      "country": "maroko",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2012/09/spostrzezenia-wasne-przewodnik-po-fezie.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/vaQu2bWsPT9ch42k7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "istambul": {
+      "lat": 41.013066,
+      "lon": 28.977585,
+      "name": "Istambuł",
+      "country": "turcja",
+      "description": "Imponujące miasto, wciąż tętniący życiem pomnik historii naszej cywilizacji. Ogromny zestaw miejsc wartych odwiedzenia na które kilka dni to zdecydowanie za mało.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/DHw2taTV5nbxh8888",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "la_orotava": {
+      "lat": 28.390815,
+      "lon": -16.523484,
+      "name": "La Orotava",
+      "country": "hiszpania",
+      "description": "Bardzo ładne małe miasteczko. Utrzymane w klimacie kolonialnym co jest świetną odskocznią od wyspiarskiego przemysłu turystycznego.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/f1oNG3qVk7MJpQmk6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "puerto_de_la_cruz": {
+      "lat": 28.416871,
+      "lon": -16.544918,
+      "name": "Puerto de la Cruz",
+      "country": "hiszpania",
+      "description": "Chociaż Puerto było pierwszym kombinatem turystycznym na Teneryfie, dziś jest miejscem spokojniejszym i z przyjemniejszym klimatem niż pozostałe kurorty wyspy. Przyjemne do spędzenie kilku ciepłych dni.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/TKaHH6KvbX2JiXFS9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "icod_de_los_vinos": {
+      "lat": 28.367707,
+      "lon": -16.718642,
+      "name": "Icod de Los Vinos",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/FktVyWBui26XjWQv5",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "los_gigantes": {
+      "lat": 28.239145,
+      "lon": -16.842903,
+      "name": "Los Gigantes",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/JnhXVyLjahdxfPhq7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "krakow": {
+      "lat": 50.063189,
+      "lon": 19.935974,
+      "name": "Kraków",
+      "country": "polska",
+      "description": "Miejsce wielu fantastycznych wspomnień i niezapomnianych imprez zarówno w klubie Absurd, jak też Krzysztofory. Będę pamiętał do końca życia :* Od niedawna również kropka na mapie miejsc odwiedzonych turystycznie."
+    },
+    "warszawa": {
+      "lat": 52.282752,
+      "lon": 20.991304,
+      "name": "Warszawa",
+      "country": "polska",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/ucbttjJH4vE9ZMx56",
+          "tittle": "Warszawa"
+        }
+      ]
+    },
+    "ystad": {
+      "lat": 55.429598,
+      "lon": 13.820257,
+      "name": "Ystad",
+      "country": "szwecja",
+      "description": "Miejsce które niegdyś miało swoje pięć minut w dążeniu do monumentalizmu. Dziś to spokojne miasteczko z promowymi przystaniami i niewielkimi domkami mieszkalnymi sąsiadującymi z momentami imponującą wielkością architekturą przełomu poprzednich wieków.",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2012/10/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/CGH7ARRd3krgqPr3A",
+          "tittle": "Ystad"
+        }
+      ]
+    },
+    "ronne": {
+      "lat": 55.101552,
+      "lon": 14.707832,
+      "name": "Rønne",
+      "country": "dania",
+      "description": "Bardzo urokliwe, estetyczne i ciche miasteczko pełniące rolę stolicy wyspy. Dobre miejsce wypadowe na cały Bornholm i zarazem bardzo nudne jeśli się mu poświęca więcej niż sześć godzin.",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2012/10/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/YsBh1RY68FtM1ShE8",
+          "tittle": "Bornholm"
+        }
+      ]
+    },
+    "dueodde": {
+      "lat": 54.988941,
+      "lon": 15.081303,
+      "name": "Dueodde",
+      "country": "dania",
+      "description": "Legendarna szeroka, biała i z bardzo bardzo przyjemnym w dotyku plaża na południu Bornholmu. Kwintesencja Bałtyckiego wybrzeża wypoczynkowego w dobrym tego słowa znaczeniu.",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2012/10/spostrzezenia-wasne-przewodnik-po.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/YsBh1RY68FtM1ShE8",
+          "tittle": "Bornholm"
+        }
+      ]
+    },
+    "wroclaw": {
+      "lat": 51.116886,
+      "lon": 17.038307,
+      "name": "Wrocław",
+      "country": "polska",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/xU8vxJGFCwQcDQ7E8",
+          "tittle": "Wrocław"
+        }
+      ]
+    },
+    "eindhoven": {
+      "lat": 51.442239,
+      "lon": 5.470448,
+      "name": "Eindhoven",
+      "country": "holandia",
+      "description": "Nowoczesne miasto podróżowanie po którym nie polega na zachwycaniu się zabytkami, co bardziej na smakowaniu życia codziennego na dobrym poziomie. Plus oczywiście raj dla rowerzystów.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/SfPRGgBrywf5nLHa7",
+          "tittle": "Eindhoven"
+        }
+      ]
+    },
+    "marrakesh": {
+      "lat": 31.634383,
+      "lon": -7.999821,
+      "name": "Marrakesz",
+      "country": "maroko",
+      "description": "Choć miasto to jest bardzo turystyczne, to jego codzienność nie męczy aż tak jak to ma miejsce w np. Fezie. Ciekawe połączenie różowo-pomarańczowych murów, zieleni wszechobecnych i sztucznie nawadnianych parków oraz splendoru bardziej luksusowych rezydencji kontrastujących z do-it-yourself performensami dziejącymi się każdej nocy na Jaama El-Fna.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/8r1PnN6bXuyBsh3b7",
+          "tittle": "Marrakesz, Marrakesh"
+        }
+      ]
+    },
+    "casablanca": {
+      "lat": 33.534527,
+      "lon": -7.58337,
+      "name": "Casablanka",
+      "country": "maroko",
+      "description": "Miasto wyraźnie pokazujące że splendoru nie da się utrzymać w każdym miejscu. Nie wystarczy bowiem go stworzyć, lecz trzeba mieć potem możliwości i przede wszystkim chęci aby utrzymać. Mowa tutaj zarówno o legendarnych przykładach art deco z czasów francuskiego protektoratu, jak też o bardziej współczesnych konstrukcjach i pomysłach.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/qapmcdzZWLp8y38SA",
+          "tittle": "Casablanka"
+        }
+      ]
+    },
+    "el_jadida": {
+      "lat": 33.233662,
+      "lon": -8.499842,
+      "name": "El Jadida",
+      "country": "maroko",
+      "description": "Bardzo duża niespodzianka! Niewielkie miasto będące zdecydowanie poza świadomością turystyczną okazało się być czystym miejscem gotowym do przyjęcia rzesz turystów chętnych na relaks na szerokich plażach. Oprócz wypoczynku też coś do zwiedzania, czyli sympatyczny fort portugalski. Wydaje się że jest to miejsce bardzo fajne na trzydniowy pobyt. Przynajmniej w takiej formie chciałbym go zwiedzić jeszcze raz.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/QU8HEN4py2WfXa9e9",
+          "tittle": "El Jadida"
+        }
+      ]
+    },
+    "safi": {
+      "lat": 32.310639,
+      "lon": -9.236813,
+      "name": "Safi",
+      "country": "maroko",
+      "description": "Niezbyt porywające miasto. Możliwe że ze względu na niezbyt dokładne informacje w przewodniku nie trafiliśmy do ciekawych miejsc. Tak czy siak dużo ciekawsze są okoliczne półki skalne nad wybrzeżem oceanu.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/5QDnMkWowRoZGaFW6",
+          "tittle": "Safi"
+        }
+      ]
+    },
+    "wybrzeze_atlantyku": {
+      "lat": 31.833151,
+      "lon": -9.541478,
+      "name": "Wybrzeże atlantyku",
+      "country": "maroko",
+      "description": "Zapierające dech w piersiach, pełne wysokich urwisk lub długich zboczy delikatnie opadających w stronę oceanu. Niewiarygodnie długie plaże smagane ciągnącymi się przez kilkaset metrów falami. Widoki zdecydowanie warte przejechania tych ponad 350 kilometrów."
+    },
+    "essaouira": {
+      "lat": 31.512996,
+      "lon": -9.769692,
+      "name": "Essaouira",
+      "country": "maroko",
+      "description": "Miasto o bardzo odświeżającym klimacie. To ciekawe połączenie bieli, błękitu, grubych murów cytadeli, oraz bardziej europejski charakter i sporo turystów głównie z Hiszpanii sprawiło, że czułem się tutaj jak na Ibizie tuż przed rozpoczęciem sezonu letniego. Bardzo pozytywne wspomnienia powodują że żałuję że mieliśmy tak mało czasu na zwiedzanie. Tym bardziej będzie trzeba tam kiedyś wrócić.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/7adXf124mmgfgjyC7",
+          "tittle": "Essaouira"
+        }
+      ]
+    },
+    "budapeszt": {
+      "lat": 47.498759,
+      "lon": 19.043779,
+      "name": "Budapeszt",
+      "country": "wegry",
+      "description": "Bardzo pozytywnie zaskakujące miasto. Klimatyczne położenie, ładne widoki, nieco monumentalizmu, swojskości i ciekawe ceny. Z pewnością warte odwiedzenia na co najmniej weekend."
+    },
+    "balaton": {
+      "lat": 46.848193,
+      "lon": 17.72859,
+      "name": "Balaton",
+      "country": "wegry",
+      "description": "Malowniczo położone jezioro pośród wygodnej infrastruktury ale jednocześnie wśród zieleni i ogólnie rozumianej przyrody. Długo nie zapomnę licznych ukrytych zatoczek i portów na kilka pojedyńczych łódek. Szkoda tylko że pogoda na miejscu pozostawiała sporo do życzenia, przez co pierwotny plan objechania jeziora dookoła na rowerach zatonął w wielkich kałużach."
+    },
+    "szekesfehervar": {
+      "lat": 47.186347,
+      "lon": 18.426487,
+      "name": "Székesfehérvár",
+      "country": "wegry"
+    },
+    "szentendre": {
+      "lat": 47.680028,
+      "lon": 19.061815,
+      "name": "Szentendre",
+      "country": "wegry",
+      "description": "Opisywane jako miejsce artystów, małe miasteczko nad Dunajem i pośród okolicznych stromych wzgórz. Fajny tam był klimacik. Sielsko, spokojnie, ot na kilka godzin relaksu."
+    },
+    "tilburg": {
+      "lat": 51.560399,
+      "lon": 5.090874,
+      "name": "Tilburg",
+      "country": "holandia",
+      "description": "Miasto jako celowa przesiadka na trasie z Eindhoven do Antwerpii. Nie wiedziałem o nim nic a na miejscu duża niespodzianka. Fajna brytyjska w stylu starówka, oraz specyficzny klimat centrum uniwersyteckiego. Warte poświęcenia choćby popołudnia. Tak, żeby zobaczyć coś innego niż pozostała część Holandii.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/TridSU4HHTRPyMUe6",
+          "tittle": "Tilburg"
+        }
+      ]
+    },
+    "breda": {
+      "lat": 51.57122,
+      "lon": 4.768117,
+      "name": "Breda",
+      "country": "holandia",
+      "description": "Miasto partnerskie mojego rodzinnego Wrocławia. Początkowy słaby klimat był powodem kiepskich warunków atmosferycznych. Ale gdy tylko wyszło słońce a z ulic handlowych zawędrowałem w okolice katedry i beginażu, to od razu polepszyło się zdanie na temat tego miasta. Ciekawostka - w parkach zamiast gołębii mają kury liliputy :)",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/TmihniesWaVqAHcS8",
+          "tittle": "Breda"
+        }
+      ]
+    },
+    "antwerpia": {
+      "lat": 51.220323,
+      "lon": 4.3996,
+      "name": "Antwerpia",
+      "country": "belgia",
+      "description": "Miasto, które w trakcie poznawania odkrywało przede mną mnóstwo zaskakujących faktów. Nawet nie wiedziałem że swego czasu był to jeden z najważniejszych portów na świecie, dom Rubensa, miejsce bardzo cenione wśród znawców kosztowności a zarazem z typowo flamandzki klimatem. Dodatkowo część budowli przypominała mi starówkę mojego Wrocławia.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/WKPew5Wat9prnuVb7",
+          "tittle": "Antwerpia"
+        }
+      ]
+    },
+    "mechelen": {
+      "lat": 51.025565,
+      "lon": 4.478741,
+      "name": "Mechelen",
+      "country": "belgia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/qFa1oeBKh2xMP9pq5",
+          "tittle": "Mechelen"
+        }
+      ]
+    },
+    "belfast": {
+      "lat": 54.597843,
+      "lon": -5.930067,
+      "name": "Belfast",
+      "country": "wielka-brytania",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/oSrRRVvc5sC1jSFd8",
+          "tittle": "Belfast"
+        }
+      ]
+    },
+    "helsinki": {
+      "lat": 60.173302,
+      "lon": 24.940767,
+      "name": "Helsinki",
+      "country": "finlandia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/jD6SidfVz6SogeJc6",
+          "tittle": "Helsinki"
+        }
+      ]
+    },
+    "suomelinna": {
+      "lat": 60.145416,
+      "lon": 24.988473,
+      "name": "Suomenlinna",
+      "country": "finlandia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/QPuvSyehUvywNkyt7",
+          "tittle": "Suomenlinna"
+        }
+      ]
+    },
+    "funchal": {
+      "lat": 32.666473,
+      "lon": -16.922782,
+      "name": "Funchal",
+      "country": "portugalia",
+      "description": "Stolica fantastycznej wyspy. Wyróżnia się lekko prowincjonalnym klimatem, wyspiarskim duchem, fenomenalnym sposobem radzenia sobie z niedogodnościami przyrodniczymi oraz ogromną ilością zielenii. Bardzo miło wspominam nocleg z oknami wychodzącymi na główny kościół w mieście. Alternatywa do większości przyjezdnych gromadzonych w dzielnicy hotelowej kilka kilometrów za miastem.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/837Knb6mXapxBrr67",
+          "tittle": "Funchal"
+        }
+      ]
+    },
+    "plw_sw_wawrzynca": {
+      "lat": 32.739326,
+      "lon": -16.681155,
+      "name": "Półwysep Świętego Wawrzyńca",
+      "country": "portugalia",
+      "description": "Absolutnie fantastyczne miejsce. Piękna sceneria udekorowana bezchmurnym niebem. Sporo skałek, ale jednocześnie flory (ogółem zieleń) i fauny (niezliczone ilości jaszczurek). Temat idealnie wychodzących fotek - pełnych kolorów i ciekawych miejsc do uwietrznienia. Warto czasami zejść z utartych ścieżek, gdyż właśnie dzięki temu znalazłem fantastyczną kamienistą, praktycznie bezludną plażę.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/zt2KBKjA4WvD5zaz8",
+          "tittle": "Madera, Madeira"
+        }
+      ]
+    },
+    "cabo_girao": {
+      "lat": 32.656617,
+      "lon": -17.004444,
+      "name": "Klify Cabo Girao",
+      "country": "portugalia",
+      "description": "Jedne z najwyższych pionowych klifów na świecie. Pobyt na miejscu jest atrakcją na jakieś 30 minut. Jednak dużo ciekawsza była wijąca się stromymi i wąskimi serpentynami trasa, pokonywana starym autobusem komunikacji publicznej.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/zt2KBKjA4WvD5zaz8",
+          "tittle": "Madera, Madeira"
+        }
+      ]
+    },
+    "lizbona": {
+      "lat": 38.72233,
+      "lon": -9.139433,
+      "name": "Lizbona",
+      "country": "portugalia",
+      "description": "Miejsce, które zauroczyło niemal każdego z moich znajomych. Posiadające niegdyś ogromny wpływ na naszą cywilizację i na stałe wryte w grubą część historii świata. Ciekawie zapowiadające się pod względem turystycznym, oraz społecznym. Jednak mnie jakoś totalnie nie uwiodło. Podejrzewam jednak, że był to efekt zmęczenia i natłoku wrażeń wywiezionych z Madery. Dlatego mimo wszystko chętnie tam wrócę.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/z6k8cfaf5sEC4kBR9",
+          "tittle": "Lizbona"
+        }
+      ]
+    },
+    "spitsbergen": {
+      "lat": 78.22304,
+      "lon": 15.630026,
+      "name": "Longyearbyen, Spitsbergen",
+      "country": "norwegia",
+      "description": "Koniec, dalej się nie da. Longyearbyen jest najbardziej oddalonym na północ miastem na planecie. Islandia to daleki sąsiad, Alaska tropiki a Kamczatka nie dorasta do pięt. Na północ już tylko ruchome stanowiska badawcze, niedźwiedzie polarne i biegun północny. Miejsce niesamowicie dające do myślenia. Co najwyżej 6C za dnia (czyli zarówno w południe jak i o godzinie drugiej w nocy) podczas gdy w Polsce było 28 stopni więcej. Spanie pod namiotem, chodzenie po dzikiej okolicy, gdzie człowiek nie stworzył nic interesującego wizualnie a gdzie w każdej chwili naprzeciw może stanąć biały miś. Dosłownie - inna planeta.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/zqXEYw2Dk5EmtTUH6",
+          "tittle": "Svalbard, Spitsbergen, Longyearbyen"
+        }
+      ]
+    },
+    "oslo": {
+      "lat": 59.915128,
+      "lon": 10.75078,
+      "name": "Oslo",
+      "country": "norwegia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/EirqXWYreSgeGMuo8",
+          "tittle": "Oslo"
+        }
+      ]
+    },
+    "barcelona": {
+      "lat": 41.384466,
+      "lon": 2.176575,
+      "name": "Barcelona",
+      "country": "hiszpania",
+      "description": "Definitywnie jedno z najciekawszych miast, w jakich dotychczas gościłem. Mnóstwo atrakcji, od zapierających dech w piersiach konstrukcji architektonicznych (zwłaszcza posiadającego dar od Boga Gaudiego), poprzez życie codzienne, po fenomenalne warunki geograficzne. Dużo by wymieniać co w Barcelonie podoba się najbardziej, tam po prostu trzeba pojechać.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/8xHdRdoXU3SwZJAi7",
+          "tittle": "Barcelona"
+        }
+      ]
+    },
+    "jerez": {
+      "lat": 36.685402,
+      "lon": -6.126676,
+      "name": "Jerez de la Frontera",
+      "country": "hiszpania",
+      "description": "Spokojne, nieco prowincjonalne, ale bardzo klimatyczne miasteczko. Stało się dla mnie fantastyczną odskocznią po mega ruchliwej i kosmopolitycznej Barcelonie. Tutaj mogłem sobie odpocząć, próbować wina i chłonąć atmosferę dzięki której narodziło się flamenco.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/xjGZUgCu1Wi42biQ6",
+          "tittle": "Jerez de la Frontera"
+        }
+      ]
+    },
+    "kadyks": {
+      "lat": 36.527342,
+      "lon": -6.288798,
+      "name": "Kadyks",
+      "country": "hiszpania",
+      "description": "Jedno z najstarszych, wciąż zamieszkałych miast na naszej planecie. Mnóstwo historii dobrze połączonej z życiem bieżącym. Do tego w Kadyksie znalazłem najpiękniejsze plaże na jakich miałem okazję być. W środku miasta (obok wysokich budynków mieszkalnych), z widokiem na starówkę, z fantastycznym drobnym i miękkim piaskiem, doskonale strzeżone, świetnie uformowane (ciepłe brodziki dla dzieci i głębsze akweny dla dorosłych) i z mocnymi falami rozbijającymi się o brzeg lub okoliczne skałki.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/9iLAisAUbDizSVWx9",
+          "tittle": "Kadyks, Cadiz"
+        }
+      ]
+    },
+    "sewilla": {
+      "lat": 37.389263,
+      "lon": -5.985272,
+      "name": "Sewilla",
+      "country": "hiszpania",
+      "description": "Miasto samo w sobie nie zachwyciło.  Było ciekawe, jednak ogólne zmęczenie i bardzo wysokie temperatury sprawiły, że nie mogłem chłonąć go w taki sposób, w jaki chciałem. Niemniej, miesto od dawno było na liście must see. Jako stolica flamenco, chciałem aby pokazało mi wszystko to, co w tej muzyce najlepsze. Po części udało się. Niemniej warto będzie tam kiedyś wrócić na powtórkę.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/9mVtq37yUWocuBHY8",
+          "tittle": "Sewilla, Sevilla"
+        }
+      ]
+    },
+    "mahon": {
+      "lat": 39.887211,
+      "lon": 4.25996,
+      "name": "Mahón",
+      "country": "hiszpania",
+      "description": "Minorka z większych wysp Balearów na której udało mi się znaleźć. Sama wyspa to przefantastyczne miejsce, emanujące spokojem i świetną przyrodą. Nic, tylko jeździć na rowerze, wdychać intensywną woń rozgrzanych lasów iglastych i co chwila odpoczywać na plażach ukrytych w przeuroczych zatoczkach. Definitywnie miejsce do ponownego odwiedzenia.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/5WQBPkw7ucR8o6jG6",
+          "tittle": "Mahon, Mao"
+        }
+      ]
+    },
+    "ciutadella": {
+      "lat": 39.999424,
+      "lon": 3.839078,
+      "name": "Ciutadella de Menorca",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/CBddfZ3MFzoDavCq5",
+          "tittle": "Ciutadela de Menorca"
+        }
+      ]
+    },
+    "sheffield": {
+      "lat": 53.380892,
+      "lon": -1.469936,
+      "name": "Sheffield",
+      "country": "wielka-brytania",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/9terUiNCUL67oyqv8",
+          "tittle": "Sheffield"
+        }
+      ]
+    },
+    "sherwood": {
+      "lat": 53.20964,
+      "lon": -1.079193,
+      "name": "Las Sherwood",
+      "country": "wielka-brytania"
+    },
+    "doncaster": {
+      "lat": 53.522705,
+      "lon": -1.128608,
+      "name": "Doncaster",
+      "country": "wielka-brytania"
+    },
+    "gdansk": {
+      "lat": 54.351803,
+      "lon": 18.648012,
+      "name": "Gdańsk",
+      "country": "polska",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/CzFdu3uFv1AQ9SWF9",
+          "tittle": "Gdańsk"
+        }
+      ]
+    },
+    "sopot": {
+      "lat": 54.446513,
+      "lon": 18.571629,
+      "name": "Sopot",
+      "country": "polska",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/WQzx4E9dC6d5Bz569",
+          "tittle": "Sopot"
+        }
+      ]
+    },
+    "szczecin": {
+      "lat": 53.425625,
+      "lon": 14.554409,
+      "name": "Szczecin",
+      "country": "polska",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/hJkBdS1yjEXedSPv6",
+          "tittle": "Szczecin"
+        }
+      ]
+    },
+    "miedzyzdroje": {
+      "lat": 53.928066,
+      "lon": 14.449261,
+      "name": "Międzyzdroje",
+      "country": "polska",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/8n4EHFM1HDruae689",
+          "tittle": "Międzyzdroje"
+        }
+      ]
+    },
+    "swinoujscie": {
+      "lat": 53.911934,
+      "lon": 14.262851,
+      "name": "Świnoujście",
+      "country": "polska",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/tudoTheVEGE3yYF9A",
+          "tittle": "Świnoujście"
+        }
+      ]
+    },
+    "praga": {
+      "lat": 50.07369,
+      "lon": 14.433689,
+      "name": "Praga",
+      "country": "czechy",
+      "description": "Z Pragą mam pewien konflikt. Miasto, które podoba się prawie każdemu, mnie jakoś kompletnie nie porywa... Przede wszystkim przeraża mnie tamtejszy natłok turystów. Być może trafiłem źle, ponieważ w ciągu trzech przesiadek zawsze miałem słabą pogodę. Być może sam fakt przesiadek sprawiał że byłem po prostu zmęczony. Właśnie dlatego mam zamiar dać miastu jeszcze kilka szans. Choćby po to, żeby wrócić z zapasem Absyntu i Lentilków ;)",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/6d8NcNvSFHkgbitM9",
+          "tittle": "Praga"
+        }
+      ]
+    },
+    "bari": {
+      "lat": 41.120483,
+      "lon": 16.870162,
+      "name": "Bari",
+      "country": "wlochy",
+      "description": "Bari to dla mnie taka Europejska wersja Fezu. Fajnie zachowana starówka, która dziś - tak samo jak przez setki lat - jest przede wszystkim miejscem do życia codziennego. Labirynt uliczek, jednak otaczające je domy - na modłę Europejską - są zwrócone na zewnątrz. Budynki są z jasnego budulca, okolice bardziej zadbane i czystsze niż w Maroku. Tylko nowoczesna część miasta jakoś tak odstaje od norm europejskich. Jakby potwierdzała że jest ogromna różnica między północnymi a południowymi Włochami...",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/Sh9g44zwG7YjpXzN7",
+          "tittle": "Bari"
+        }
+      ]
+    },
+    "florencja": {
+      "lat": 43.768053,
+      "lon": 11.258649,
+      "name": "Florencja",
+      "country": "wlochy",
+      "description": "Miejsce uwielbiane przez artystów, znawców sztuki i architektury. Jednak dla osób nieobeznanych w tych zagadnieniach jest to tylko kolejne włoskie miasto, tak samo brudne, zatłoczone i miejscami zaniedbane jak każde inne w północnej części countryu. Mimo to warto przyjechać, zwiedzić muzea i natłok sztuki zgromadzonej na każdym kroku. 99% rzeczy w ogóle nie przypadnie do gustu, ale uważna obserwacja zawsze pozwoli dostrzec coś ciekawego, wpadającego w gusta.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/ykEtk56h6aovCpJaA",
+          "tittle": "Florencja"
+        }
+      ]
+    },
+    "la_spezia": {
+      "lat": 44.102659,
+      "lon": 9.823792,
+      "name": "La Spezia",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/qzDuzXDR9uhKaxfGA",
+          "tittle": "La Spezia"
+        }
+      ]
+    },
+    "genua": {
+      "lat": 44.405788,
+      "lon": 8.949539,
+      "name": "Genua",
+      "country": "wlochy",
+      "description": "Genua to bardzo ciekawe zjawisko. Miasto posiada spory wkład w historię naszej cywilizacji. Jest świetnie położone - pomiędzy wybrzeżem a wysokimi wzniesieniami (gdzieś w tle widać nawet Alpy). Swego czasu bardzo dobrze się rozwijało o czym świadczy niekiedy monumentalne, niemniej świetnie rozplanowane śródmieście. Tylko niestety w pewnym moemncie to wszystko straciło impet i teraz popada w jakby zapomnienie. Niemniej jakkolwiek starówka jest nieco zadniedbana i ciasna, to cieszy swoim trybem życia, w znacznej mierze wolnym od wielkich sieciówek i kopiowania obytych standardów.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/Den2puLPe71ZSomy9",
+          "tittle": "Genua"
+        }
+      ]
+    },
+    "matera": {
+      "lat": 40.666168,
+      "lon": 16.604506,
+      "name": "Matera",
+      "country": "wlochy",
+      "description": "Matera to zaskakująca ciekawostka. Dzięki Sassi - domom wydrążonym wskale, stanowi miejsce unikalne w skali całej planety. Stało się tłem do wielu biblijnych obrazów. No i rzeczywiście zasługuje na co najmniej kilku-godzinowy spacer po labiryncie zabytkowych domostw. Chciałbym kiedyś tam wrócić i zobaczyć jaki klimat ma to miasto nocą.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/9itTA6aMzS4qGEfq9",
+          "tittle": "Matera"
+        }
+      ]
+    },
+    "tarent": {
+      "lat": 40.462642,
+      "lon": 17.253501,
+      "name": "Tarent",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/rYjGzB8DaNmCrPg66",
+          "tittle": "Tarent"
+        }
+      ]
+    },
+    "lecce": {
+      "lat": 40.350855,
+      "lon": 18.175667,
+      "name": "Lecce",
+      "country": "wlochy",
+      "description": "Nazywane Florencją południa, Lecce to niewielkie miasteczko z klimatyczną atmosferą, oraz interesującą starówką zapełnioną historycznymi budynkami, spośród których da się znaleźć kilka świetnych przykładów architektonicznych i ozdobniczych.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/WKk4vudfWq89niwg8",
+          "tittle": "Lecce"
+        }
+      ]
+    },
+    "brindisi": {
+      "lat": 40.632325,
+      "lon": 17.942134,
+      "name": "Brindisi",
+      "country": "wlochy",
+      "description": "Miasto z którym mam spory problem. Wprawdzie ma ciekawie zapowiadającą się promendę, super port, fajną starówkę a do całości nieco historii. Jednak moja krótka wizyta miała miejsce podczas nienajlepszych warunków pogodowych oraz weekendowej siesty. Wielokrotnie narzekałem na tłumy ludzi, jednak kompletnie wymarłe miasto to też nie jest najlepsza opcja...",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/FKLC1uiof8v2u3Fm6",
+          "tittle": "Brindisi"
+        }
+      ]
+    },
+    "trondheim": {
+      "lat": 63.427167,
+      "lon": 10.401339,
+      "name": "Trondheim",
+      "country": "norwegia",
+      "description": "Miasto samo w sobie raczej nieciekawe i do zaliczenia w 3 godziny. Jednak wartością ukrytą jest to, że staje się ono bramą do trekkingu pośród przyrody środkowej Norwegii. O ile komuś nie przeszkadza lekko zmarznąć ;) ",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/8LVNsTLAEHoE4gURA",
+          "tittle": "Trondheim"
+        }
+      ]
+    },
+    "porsgrunn": {
+      "lat": 59.139945,
+      "lon": 9.669558,
+      "name": "Skien / Porsgrunn",
+      "country": "norwegia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/gbT7vnoNJBu8RgmU6",
+          "tittle": "Trondheim, Telemark"
+        }
+      ]
+    },
+    "gdynia": {
+      "lat": 54.516529,
+      "lon": 18.549913,
+      "name": "Gdynia",
+      "country": "polska"
+    },
+    "paryz": {
+      "lat": 48.853303,
+      "lon": 2.350474,
+      "name": "Paryż",
+      "country": "francja",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/e2g8U7yaH6PegKqRA",
+          "tittle": "Paryż"
+        }
+      ]
+    },
+    "biarritz": {
+      "lat": 43.484215,
+      "lon": -1.559488,
+      "name": "Biarritz",
+      "country": "francja",
+      "description": "Bardzo ładne wizualnie miasto. Świetne do spokojnego relaksu na plaży. Przyciąga raczej bogatszych turystów, co oznacza odpowiednio wyższą jakość usług (i cen).",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/04/spostrzezenia-wasne-przewodnik-po-countryu_26.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/dHrZH3sg7M1Brqrx8",
+          "tittle": "Biarritz"
+        }
+      ]
+    },
+    "san_sebastian": {
+      "lat": 43.317221,
+      "lon": -1.979977,
+      "name": "San Sebastian / Donostia",
+      "country": "hiszpania",
+      "description": "Europejska Stolica Kultury razem z moim rodzinnym Wrocławiem. Świetny przykład miasta nowoczesnego, jednak szanującego historyczne wartości. Zaskakuje planowaniem w trzech wymiarach, gdzie droga przez park nagle przechodzi w kładkę nad torami kolejowymi kończącą się na dachu pięciopiętrowego budynku. Porywa niekiedy rozmachem śródmieścia, kusi klimatem nadmorskiej promenady. Namawia do spacerów wśród przyrody, które w z powodu ukształtowania terenu niejednokrotnie zamieniają się w wysiłkowy trekking.",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/04/spostrzezenia-wasne-przewodnik-po-countryu_27.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/qLwcAtUamHov83TQ7",
+          "tittle": "San Sebastian, Donostia"
+        }
+      ]
+    },
+    "irun": {
+      "lat": 43.373176,
+      "lon": -1.775633,
+      "name": "Irun / Hendaye",
+      "country": "hiszpania",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/04/spostrzezenia-wasne-przewodnik-po-countryu_27.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/SzyN9a2aTS3d7hvGA",
+          "tittle": "Hendaye"
+        }
+      ]
+    },
+    "pampeluna": {
+      "lat": 42.812475,
+      "lon": -1.645258,
+      "name": "Pampeluna",
+      "country": "hiszpania",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/05/spostrzezenia-wasne-przewodnik-po-countryu.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/rt6hvM4SQcCZHaBd8",
+          "tittle": "Pampeluna"
+        }
+      ]
+    },
+    "logrono": {
+      "lat": 42.465456,
+      "lon": -2.440997,
+      "name": "Logroño",
+      "country": "hiszpania",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/05/spostrzezenia-wasne-przewodnik-po-countryu.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/nQuxyXnfmByZ7BK47",
+          "tittle": "Logroño"
+        }
+      ]
+    },
+    "vitoria": {
+      "lat": 42.849586,
+      "lon": -2.674637,
+      "name": "Vitoria / Gasteiz",
+      "country": "hiszpania",
+      "description": "Miasto to było dla mnie kompletną niespodzianką. Nowoczesne śródmieście (okolice stacji autobusowej) podpowiadały jakbym był w Holandii. Nowoczesne budownictwo i zagospodarowanie przestrzenii + wietrzna pogoda i deszcz. Startówka to natomiast w niektórych miejscach wiktoriański styl znany z wielu brytyjskich miast. Ciakawostka... Poza tym warto pogubić się na starówce. Za każdym rogiem możę się bowiem kryć coś ciekawego. A to fajnie odremontowany budynek, ciekawie zaprojektowany kosz na śmieci, nowoczesne schody ruchome czy fenomenalne murale.",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/05/spostrzezenia-wasne-przewodnik-po-countryu.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/KQ2kEif4erKXYHkh8",
+          "tittle": "Vitoria, Gasteiz"
+        }
+      ]
+    },
+    "bilbao": {
+      "lat": 43.268635,
+      "lon": -2.932792,
+      "name": "Bilbao",
+      "country": "hiszpania",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/04/spostrzezenia-wasne-przewodnik-po-countryu_28.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/wqCeCLxhRPKdYVb4A",
+          "tittle": "Bilbao, Bilboa"
+        }
+      ]
+    },
+    "guernika": {
+      "lat": 43.311957,
+      "lon": -2.678384,
+      "name": "Guernika",
+      "country": "hiszpania",
+      "guides": [
+        {
+          "link": "http://tambylstwo.blogspot.com/2016/04/spostrzezenia-wasne-przewodnik-po-countryu_28.html"
+        }
+      ],
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/VfpdCEAE7EzVK1EQA",
+          "tittle": "Gernika, Guernica-Lumo"
+        }
+      ]
+    },
+    "saloniki": {
+      "lat": 40.62907,
+      "lon": 22.945169,
+      "name": "Saloniki",
+      "country": "grecja",
+      "description": "Miasto po prostu brzydkie. Nie posiada większych walorów historycznych czy estetycznych. Jest po prostu jednym z większych miast Grecji, żyjącym własnym codziennym życiem. Dla ludzi takich jak my - bardziej jako punkt wypadowy w okolice, lub początkowy / końcowy z racji okolicznego lotniska.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/EEUMtVrnjwmBi9Xe9",
+          "tittle": "Saloniki"
+        }
+      ]
+    },
+    "florina": {
+      "lat": 40.783156,
+      "lon": 21.413651,
+      "name": "Florina",
+      "country": "grecja",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/edyi3A4b3VUXRG5p7",
+          "tittle": "Florina"
+        }
+      ]
+    },
+    "bitola": {
+      "lat": 41.028651,
+      "lon": 21.337941,
+      "name": "Bitola",
+      "country": "macedonia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/XEEE9RZ7E1ThVkc8A",
+          "tittle": "Bitola"
+        }
+      ]
+    },
+    "ochryda": {
+      "lat": 41.041544,
+      "lon": 20.720843,
+      "name": "Jezioro Ochrydzkie (Ochryda, Św. Neum, Struga, Kaliszta)",
+      "country": "macedonia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/T9Ebt9iCK99QGH8u8",
+          "tittle": "Ohryda, Ohrid"
+        },
+        {
+          "link": "https://goo.gl/photos/bztnxpqt5BL8wkuM7",
+          "tittle": "Struga"
+        }
+      ]
+    },
+    "skopje": {
+      "lat": 41.995242,
+      "lon": 21.431583,
+      "name": "Skopje",
+      "country": "macedonia",
+      "description": "W Skopje to dla mnie połączenie Stambułu i Tbilisi. A że oba te miasta pozostawiły bardzo dobre wrażenie, to Skopje także głęboko zakorzeniło się w mojej pamięci. Miasto jest przykładem fajnego połączenia egzotyki, historii i dzisiejszej nowoczesności. Monumentalne zapędy władz miasta sprawiają, że za kilkanaście lat centrum będzie zapierało dech w piersiach niejednego turysty. Oprócz tego, ja się w Skopje po prostu bardzo, bardzo dobrze czułem. Bardzo chętnie tam wrócę na kolejnych kilka dni, aby dokładniej zwiedzić to miasto.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/GgBFGc4cfZ7SEtxG8",
+          "tittle": "Skopje"
+        }
+      ]
+    },
+    "kanion_matka": {
+      "lat": 41.950131,
+      "lon": 21.299722,
+      "name": "Kanion Matka",
+      "country": "macedonia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/F7fwsyWvxbAfNSvLA",
+          "tittle": "Kanion Matka, Canyon Matka"
+        }
+      ]
+    },
+    "sleza": {
+      "lat": 50.864673,
+      "lon": 16.709651,
+      "name": "Góra Ślęza",
+      "country": "polska"
+    },
+    "ksiaz": {
+      "lat": 50.842505,
+      "lon": 16.292823,
+      "name": "Zamek Książ",
+      "country": "polska"
+    },
+    "watykan": {
+      "lat": 41.903066,
+      "lon": 12.453392,
+      "name": "Watykan",
+      "country": "watykan",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/k4sNLNXond3PaLgN8",
+          "tittle": "Watykan"
+        }
+      ]
+    },
+    "ateny": {
+      "lat": 37.980414,
+      "lon": 23.733532,
+      "name": "Ateny",
+      "country": "grecja",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/WVe1PexwLvZhUgWt5",
+          "tittle": "Ateny"
+        }
+      ]
+    },
+    "pireus": {
+      "lat": 37.94675,
+      "lon": 23.646043,
+      "name": "Pireus",
+      "country": "grecja",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/WVe1PexwLvZhUgWt5",
+          "tittle": "Ateny"
+        }
+      ]
+    },
+    "kiszyniow": {
+      "lat": 47.016469,
+      "lon": 28.861265,
+      "name": "Kiszyniów",
+      "country": "moldawia",
+      "description": "Miejsce przypominające Polskę z lat 90. Ciekawa mieszanka energii młodego, nastawionego prozachodnio pokolenia, oraz zacofania i zmęczenia osób pamiętających czasy ZSRR.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/eS88SsJan2Jhgu7G7",
+          "tittle": "Kiszyniów"
+        }
+      ]
+    },
+    "stary_orgiejow": {
+      "lat": 47.306524,
+      "lon": 28.977208,
+      "name": "Orheiul Vechi",
+      "country": "moldawia",
+      "description": "Miejsce bardzo fajnego wypoczynku wśród mołdawskiej przyrody. Możliwość potuptania wokół głębokiego zakola lokalnej rzeczki, oraz zwiedzania kolorowej prowincji.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/J5JVLH7xEWpznFSV9",
+          "tittle": "Stary Orgiejów, Orcheiul Vechi"
+        }
+      ]
+    },
+    "saharna": {
+      "lat": 47.694972,
+      "lon": 28.965326,
+      "name": "Okolice Saharnej",
+      "country": "moldawia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/XHb1vCkZE728dPAp9",
+          "tittle": "Saharna"
+        }
+      ]
+    },
+    "bendery": {
+      "lat": 46.822559,
+      "lon": 29.462333,
+      "name": "Bendery / Tighina",
+      "country": "moldawia",
+      "description": "Pierwszy styk z naddniestrzańskim separatyzmem. Miejsce mocno dające do myślenia. Bardzo zaskakujący porządek, ład i dobrobyt. Dobrze jednak jest otworzyć oczy aby zobaczyć, że to wszystko jest jedynie pozorną, wizualną fasadą.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/xdCECWPDA9cPwvGy8",
+          "tittle": "Bendery, Tighina"
+        }
+      ]
+    },
+    "tyraspol": {
+      "lat": 46.848292,
+      "lon": 29.596492,
+      "name": "Tyraspol",
+      "country": "moldawia",
+      "description": "Kwintesencja prorosyjskiej propagandy, gdzie przyjaźń matuszki obecna jest na każdym kroku. Doskonałe miejsce do odwiedzenia w przededniu ogólnonarodowego uniesienia z okazji 9.maja. Obowiązkowo też do odwiedzenia kilkanaście lat po finalnym przyłączeniu do Rosji, kiedy to wszystko będzie mógł pochłonąć sowiecki duch bylejakości.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/ifXnq4LzDQU1oJwc6",
+          "tittle": "Tyraspol"
+        }
+      ]
+    },
+    "tuzla": {
+      "lat": 44.535968,
+      "lon": 18.677051,
+      "name": "Tuzla",
+      "country": "bosnia-i-hercegowina",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/bwfq2SfpfHZbnTzM9",
+          "tittle": "Tuzla"
+        }
+      ]
+    },
+    "sarajewo": {
+      "lat": 43.855898,
+      "lon": 18.407194,
+      "name": "Sarajewo",
+      "country": "bosnia-i-hercegowina",
+      "description": "Jak dla mnie ogromna niespodzianka. Jedno z najciekawszych miast jakie miałem okazję odwiedzić. Urzekł mnie kolorowy i klimatyczny, bałkański tzw. pierdolnik. Miejsce o świetnym położeniu geograficznym, które oprócz walorów wizualno-turystycznych, niestety zafundowało miastu również spory bagaż historyczny. To właśnie spowodowało szereg głębokich przemyśleń dotyczących aktualnej sytuacji na świecie, jak też osobistego stosunku, jaki mam w tych gmatwających się wzajemnie zależnościach.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/9peh4c7FAerYB6QS9",
+          "tittle": "Sarajewo"
+        }
+      ]
+    },
+    "mostar": {
+      "lat": 43.342607,
+      "lon": 17.808022,
+      "name": "Mostar",
+      "country": "bosnia-i-hercegowina",
+      "description": "Jedna z największych atrakcji turystycznych Bośni i Hercegowiny. Miasteczko kolorowe, ciekawe i przyjemne. Niemniej wyłącznie na jeden dzień.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/bL76vkMP8qx4xswu7",
+          "tittle": "Mostar"
+        }
+      ]
+    },
+    "olsztyn": {
+      "lat": 53.778222,
+      "lon": 20.47943,
+      "name": "Olsztyn",
+      "country": "polska",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/Wri4oHzdazVKCPUN7",
+          "tittle": "Olsztyn"
+        }
+      ]
+    },
+    "gizycko": {
+      "lat": 54.036459,
+      "lon": 21.766906,
+      "name": "Giżycko",
+      "country": "polska",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/i4NLZ9i42HyFA1pFA",
+          "tittle": "Mazury AirShow"
+        }
+      ]
+    },
+    "baligrod": {
+      "lat": 49.306452,
+      "lon": 22.335122,
+      "name": "Baligród (Goa Dupa Open Air)",
+      "country": "polska",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/VxEoXMPKkvPZ8Yn7A",
+          "tittle": "Bieszczady"
+        }
+      ]
+    },
+    "kolonia": {
+      "lat": 50.935963,
+      "lon": 6.963883,
+      "name": "Kolonia",
+      "country": "niemcy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/QEbn5rMqCC4KnxCD8",
+          "tittle": "Kolonia"
+        }
+      ]
+    },
+    "bonn": {
+      "lat": 50.737836,
+      "lon": 7.10087,
+      "name": "Bonn",
+      "country": "niemcy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/T9ZbsgXmggKjny2g6",
+          "tittle": "Bonn"
+        }
+      ]
+    },
+    "triest": {
+      "lat": 45.649555,
+      "lon": 13.77834,
+      "name": "Triest",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/jtDWAEgerbRy9Rht9",
+          "tittle": "Triest"
+        }
+      ]
+    },
+    "padwa": {
+      "lat": 45.405759,
+      "lon": 11.87751,
+      "name": "Padwa",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/JGb2x3JGSsg7xRmi9",
+          "tittle": "Padwa"
+        }
+      ]
+    },
+    "trapani": {
+      "lat": 38.01759,
+      "lon": 12.538111,
+      "name": "Trapani",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/AJbrT6CF2VT49RWL6",
+          "tittle": "Trapani"
+        }
+      ]
+    },
+    "marsala": {
+      "lat": 37.799075,
+      "lon": 12.444777,
+      "name": "Marsala",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/777rfdQpf675jqdJ7",
+          "tittle": "Marsala"
+        }
+      ]
+    },
+    "erice": {
+      "lat": 38.037451,
+      "lon": 12.587413,
+      "name": "Erice",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/wNLHzLxvomKqeiqe9",
+          "tittle": "Erice"
+        }
+      ]
+    },
+    "palermo": {
+      "lat": 38.115348,
+      "lon": 13.366556,
+      "name": "Palermo",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/23EN9RD6s7Bnb4td9",
+          "tittle": "Palermo"
+        }
+      ]
+    },
+    "monreale": {
+      "lat": 38.081298,
+      "lon": 13.289825,
+      "name": "Monreale",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/S4nYJMxbTy5Tc36v7",
+          "tittle": "Monreale"
+        }
+      ]
+    },
+    "catania": {
+      "lat": 37.508123,
+      "lon": 15.084383,
+      "name": "Catania",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/ysr2uS7XgLmWvqKn8",
+          "tittle": "Katania"
+        }
+      ]
+    },
+    "syrakuzy": {
+      "lat": 37.075518,
+      "lon": 15.288831,
+      "name": "Syrakuzy",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/XQ44NPVNwc7ngFx69",
+          "tittle": "Syrakuzy"
+        }
+      ]
+    },
+    "etna": {
+      "lat": 37.751222,
+      "lon": 14.995493,
+      "name": "Wulkan Etna",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/GCTwAfHQPH9GJySy7",
+          "tittle": "Wulkan Etna"
+        }
+      ]
+    },
+    "taormina": {
+      "lat": 37.851779,
+      "lon": 15.286484,
+      "name": "Taormina",
+      "country": "wlochy",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/9MkwPsH3aJzkbAwt9",
+          "tittle": "Taormina"
+        }
+      ]
+    },
+    "moss": {
+      "lat": 59.434145,
+      "lon": 10.658936,
+      "name": "Moss",
+      "country": "norwegia"
+    },
+    "krynica": {
+      "lat": 49.421686,
+      "lon": 20.952254,
+      "name": "Krynica Zdrój",
+      "country": "polska"
+    },
+    "havana": {
+      "lat": 23.113768,
+      "lon": -82.36431,
+      "name": "Hawana",
+      "country": "kuba",
+      "description": "W naszym przypadku Hawana stała się bramą do Kuby. Miejscem pierwszego kontaktu z tamtejszym światem i mentalnością. Zetknięciem się oczekiwań i rzeczywistości, która po prawdzie nie wyróżniała się niczym szczególnym.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/p8NPvti46FhWzvz49",
+          "source": "Google Photos"
+        }
+      ],
+      "guides": [
+        {
+          "link": "https://tambylstwo.blogspot.com/2017/10/pierwsze-chwile-na-kubie-formalnosci.html"
+        },
+        {
+          "link": "https://tambylstwo.blogspot.com/2017/10/pierwsze-chwile-na-kubie-wymiana-waluty.html"
+        },
+        {
+          "link": "https://tambylstwo.blogspot.com/2017/10/pierwsze-chwile-na-kubie-dojazd-z.html"
+        },
+        {
+          "link": "https://tambylstwo.blogspot.com/2017/10/pierwsze-chwile-na-kubie-spanie-na.html"
+        }
+      ]
+    },
+    "vinales": {
+      "lat": 22.618902,
+      "lon": -83.706401,
+      "name": "Viñales",
+      "country": "kuba",
+      "description": "Miejsce totalnej inwazji turystów, jednak niekoniecznie w najgorszym tego słowa znaczeniu. Ta mała miejscowość jest bowiem bazą wypadową w okoliczną przyrodę - jaskinie, równiny, plantacje tytoniu. Miejsce przyjemne, zielone, relaksujące.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/CLYzzCkyf9azQwgFA",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "playa_cayo_jutias": {
+      "lat": 22.70178,
+      "lon": -84.050898,
+      "name": "Playa de Cayo Jutías",
+      "country": "kuba",
+      "description": "Moja pierwsza w życiu plaża, jak z karaibskich pocztówek. Biały piasek, jasne morze, palmy (drzewa), ciepła woda i przyjemny wiaterek. Miejsce wymagające nie lada cierpliwości, aby się tam dostać piekielnie dziurawymi drogami, jednak warte tego wysiłku.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/d22hcQzcexDWjDmu6",
+          "source": "Google Photos"
+        }
+      ],
+      "guides": [
+        {
+          "link": "https://tambylstwo.blogspot.com/2017/10/kubanska-codziennosc-plaze.html"
+        }
+      ]
+    },
+    "cienfuegos": {
+      "lat": 22.147011,
+      "lon": -80.450281,
+      "name": "Cienfuegos",
+      "country": "kuba",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/qxDQeZLhLYqF4FYo6",
+          "source": "Google Photos"
+        }
+      ],
+      "guides": [
+        {
+          "link": "https://tambylstwo.blogspot.com/2017/10/kubanska-codziennosc-plaze.html"
+        }
+      ]
+    },
+    "el_nicho": {
+      "lat": 22.028133,
+      "lon": -80.131354,
+      "name": "Wodospad El Nicho",
+      "country": "kuba",
+      "description": "Z popularnością tego wodospadu wiąże się pewna teoria. Miejscowi opowiadają bowiem, że prawdopodobnie description tego miejsca pojawił się jakimś przypadkiem w jednym z przewodników turystycznych i po czasie wszyscy zaczęli to kopiować. Nie oferuje on bowiem nic ciekawego, a w okolicy jest sporo miejsc dużo ciekawszych. Propozycja na dwie godziny, przy czym kolejne trzy trzeba poświęcić na dojechanie na miejsce.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/Wudb13rs3vromz2m7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "trinidad": {
+      "lat": 21.795963,
+      "lon": -79.981113,
+      "name": "Trinidad",
+      "country": "kuba",
+      "description": "Wielu turystów uwielbia to miejsce, za jego kolorowe ściany domów i piekielnie nierówne, brukowane ulice. Rzeczywiście, ma to klimat, zwłaszcza miniaturowe, równie kolorowe lotnisko. Jednak przytłacza rosnąca z roku na rok liczba przebywających tam turystów. Widać to na fotkach sprzed kilku lat, a aktualnie każdego wieczora w okolicach głównego placu.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/CA1qwn9SEaFARMPw9",
+          "source": "Google Photos"
+        }
+      ],
+      "guides": [
+        {
+          "link": "https://tambylstwo.blogspot.com/2017/10/kubanska-codziennosc-plaze.html"
+        }
+      ]
+    },
+    "topes_de_collantes": {
+      "lat": 21.915437,
+      "lon": -80.018888,
+      "name": "Topes de Collantes",
+      "country": "kuba",
+      "description": "Miejsce, które nierozłącznie będzie wspominane z ekstremalną trasą. Krótką, stromą, przejechaną na pace poradzieckiej ciężarówki. Do tego skrócona odległościowo, ale zarazem stroma wycieczka piesza do podnóża wodospadu. Po wysiłku okazuje się, że kąpiel w zimnej wodzie małego rozlewiska nie jest aż tak ekstremalnym przeżyciem.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/KrV1UHLPShXiUGQU7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "mexico": {
+      "lat": 19.434557,
+      "lon": -99.135426,
+      "name": "Mexico City",
+      "country": "meksyk",
+      "description": "Kilka godzin spędzonych w tym mieście w zasadzie wywarło na mnie większe wrażenie, niż niemal dwa tygodnie spędzone na Kubie. Wrażenie pozytywne, trzeba dodać. Zaciekawiła rozległość, skłonność do ogromnych rozmiarów, elegancja i dynamizm. Z pewnością zachęciło do odwiedzenia Meksyku w przyszłości.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/izbbBvStGQLQ5ide7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "amsterdam": {
+      "lat": 52.369918,
+      "lon": 4.897232,
+      "name": "Amsterdam",
+      "country": "holandia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/qGsSEDMgrhH7wGBJ9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "kazimierz_dolny": {
+      "lat": 51.318674,
+      "lon": 21.954366,
+      "name": "Kazimierz Dolny",
+      "country": "polska",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/kNHBrFxxA6DUAn7q8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "celje": {
+      "lat": 46.239927,
+      "lon": 15.267564,
+      "name": "Celje",
+      "country": "slowenia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/MUg82WZGvCp4T4Up7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "ptuj": {
+      "lat": 46.420101,
+      "lon": 15.86984,
+      "name": "Ptuj",
+      "country": "slowenia",
+      "description": "Miejsce poza ubitymi ścieżkami nielicznych turystów. Dzięki temu jego senna atmosfera, niewielkie rozmiary, ale jednocześnie całkiem nieźle zachowana architektura, wywarły tak pozytywne wrażenie. Zdecydowanie warte poświęcenia 30 minut na dojazd z Mariboru.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/coyqLsuwoggHVrZy6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "maribor": {
+      "lat": 46.555187,
+      "lon": 15.645408,
+      "name": "Maribor",
+      "country": "slowenia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/LTQ8YHj5yxbEzYbr6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "velika_planina": {
+      "lat": 46.300067,
+      "lon": 14.666645,
+      "name": "Velika Planina",
+      "country": "slowenia",
+      "description": "Cudownie, bajecznie wyglądająca równina, z uroczymi chatynkamim, porywającą zielenią i epickimi, ośnieżonymi górami w tle. Miejsce wymagające sporo wysiłku, aby tam wejść na nogach. Jednak kilka godzin trekkingu wynagrodzone jest uroczymi widokami, zwłaszcza przy słonecznej pogodzie.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/NsWrhY199Qr5cB5BA",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "kranj": {
+      "lat": 46.24304,
+      "lon": 14.355393,
+      "name": "Kranj",
+      "country": "slowenia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/pgDa5QpPKnnJLFG27",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "skofja_loka": {
+      "lat": 46.166947,
+      "lon": 14.30605,
+      "name": "Škofja Loka",
+      "country": "slowenia",
+      "description": "W zasadzie nieznane turystom miasteczko warte jest poświęcenia mu dwóch godzin. Choćby tylko, aby wypić tam kawę, zjeść śniadanie i leniwym krokiem pokręcić się po niewielkich rozmiarów starówce. Miejsce to jest bowiem eleganckie, spokojne a nieopodal przycina je klimatyczna, górska, typowo bałkańska rzeczka.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/ojJdxQE7Ffi6Hd2N6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "wodospad_sum": {
+      "lat": 46.400673,
+      "lon": 14.099179,
+      "name": "Wodospad Šum",
+      "country": "slowenia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/65aUF8iFLELSjve39",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "bled": {
+      "lat": 46.368318,
+      "lon": 14.114658,
+      "name": "Bled",
+      "country": "slowenia",
+      "description": "Jeden z najpopularniejszych punktów na turystycznych trasach. Rzeczywiście, miejsce klimatyczne, fajne, z dobrą bazą wypadową w wędrówki po okolicach.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/Z4Nvy57gkNcSG1UU8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "vodnikov_razglednik": {
+      "lat": 46.302153,
+      "lon": 13.977139,
+      "name": "Vodnikov razglednik",
+      "country": "slowenia",
+      "description": "Cudowny punkt widokowy na okoliczną dolinkę, niewielkie mieściny, drogę pomiędzy dwoma pagórkami, za którymi znajduje się klimatyczne jezioro, a wszystko to otoczone wyższymi partiami gór. Miejsce to tak chwyciło za nasze serducha, że od razu powiedzieliśmy, że gdy niebawem znów odwiedzimy Słowenię, to prawdopodobnie zatrzymamy się w tej dolinie na kilka dni.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/JmvThPUtNcnVzfuYA",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "mostnica": {
+      "lat": 46.298411,
+      "lon": 13.88579,
+      "name": "Mostnica",
+      "country": "slowenia",
+      "description": "Górska rzeka, która wywiera ogromne wrażenie. Głównie dlatego, że jej wody latami wyrabiało koryto, miejscami znajdujące się 15 metrów poniżej ścieżki. Jej okolice warte są kilkugodzinnego trekkingu.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/HEL3KhpWesaBJkCk8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "wodospad_kozjak": {
+      "lat": 46.261712,
+      "lon": 13.592737,
+      "name": "Wodospad Kozjak",
+      "country": "slowenia",
+      "description": "Cudowny przykład doskonale zorganizowanej atrakcji przyrodniczej. Wodospad umiejscowiony w niecodziennym miejscu, do którego dochodzi się sprytnie wytyczonymi ścieżkami przez wystające z nurtu kamienie, wysepki i drewniane, małe mosty. Daje to świetne odczucie współudziału i bliskości dziejącej się właśnie akcji.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/ZpowMFcwGPiTLdWT7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "skocjan_cave": {
+      "lat": 45.665805,
+      "lon": 13.989969,
+      "name": "Jaskinie Szkocjańskie",
+      "country": "slowenia",
+      "description": "Moja pierwsza w życiu podziemna jaskinia. Wow! Jest to przeogromny kompleks, niesamowicie klimatyczny, wywierający niesamowite wrażenie z potęgi lokalnej przyrody. Może trochę żałuje, że nie pozostało już wiele lepszych jaskiń otwartych dla ruchu turystycznego, jednak z drugiej strony jestem zadowolony z każdej spędzonej tam minuty.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/uDQm2oXY4XEytbkC6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "piran": {
+      "lat": 45.527338,
+      "lon": 13.568785,
+      "name": "Piran",
+      "country": "slowenia",
+      "description": "Bardzo przyjemne, włoskie w klimacie, nadmorskie miasteczko. Warte przyjechania na jeden, dwa dni. Aby posiedzieć sobie na nadmorskiej promenadzie, wypić wieczorem wino przy ujściu lokalnego portu, poczuć relaksacyjny klimat Adriatyku.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/BVVgrPeTP3sXHwH78",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "koper": {
+      "lat": 45.54701,
+      "lon": 13.729532,
+      "name": "Koper",
+      "country": "slowenia",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/TrUiL1ZPmCfxhyks5",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "ljubljana": {
+      "lat": 46.057472,
+      "lon": 14.50531,
+      "name": "Ljubljana",
+      "country": "slowenia",
+      "description": "Ljubljana potwierdziła opinie wypowiadane przez w zasadzie każdego znajomego, kto tam był. Miasto rzeczywiście jest klimatyczne, specyficzne i pozostawia same pozytywne wspomnienia. Ciekawi jego secesyjna, w austriackim wydaniu, elegancja, w połączeniu z, mimo wszystko, niewielkich rozmiarów zaściankowością. Cieszy jej dynamizm, otwartość ludzi i chęć spędzania czasu na wolnym powietrzu.",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/ecSogKwHURNpwUve8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    "palanga": {
+      "lat": 55.919943,
+      "lon": 21.066805,
+      "name": "Połąga",
+      "country": "litwa",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/RbwsJlVsleIoiyIl2",
+          "tittle": "Połąga, Palanga"
+        }
+      ]
+    },
+    "klajpeda": {
+      "lat": 55.70326,
+      "lon": 21.145525,
+      "name": "Kłąjpeda",
+      "country": "litwa",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/GRKtYvWxVwTX4rFx2",
+          "tittle": "Kłajpeda, Klaipeda, Klaipėda"
+        }
+      ]
+    },
+    "skierniewice": {
+      "lat": 51.956735,
+      "lon": 20.142466,
+      "name": "Skierniewice",
+      "country": "polska",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/iSXVCRARAZUuAD0g2",
+          "tittle": "Skierniewice"
+        }
+      ]
+    },
+    "sochaczew": {
+      "lat": 52.229655,
+      "lon": 20.239694,
+      "name": "Sochaczew",
+      "country": "polska",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/mJU6HoZFi17eXLyu2",
+          "tittle": "Sochaczew"
+        }
+      ]
+    },
+    "ilawa": {
+      "lat": 53.595988,
+      "lon": 19.56838,
+      "name": "Iława",
+      "country": "polska",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/tR7iaUqv7tnaW8C78",
+          "tittle": "Iława"
+        }
+      ]
+    },
+    "bukareszt": {
+      "lat": 44.426887,
+      "lon": 26.102238,
+      "name": "Bukareszt",
+      "country": "rumunia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Ki74fztBpNeynbMu1",
+          "tittle": "Bukareszt, Bucarest, București"
+        }
+      ]
+    },
+    "rimetea": {
+      "lat": 46.45295,
+      "lon": 23.567105,
+      "name": "Rimetea",
+      "country": "rumunia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/1TzpgN46zu69KWHc2",
+          "tittle": "Rimetea"
+        }
+      ]
+    },
+    "alba_iulia": {
+      "lat": 46.06845,
+      "lon": 23.570526,
+      "name": "Alba Iulia",
+      "country": "rumunia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/7cYVKCygPuZ0OoLv1",
+          "tittle": "Alba Iulia"
+        }
+      ]
+    },
+    "ghelari": {
+      "lat": 45.713881,
+      "lon": 22.791633,
+      "name": "Ghelari",
+      "country": "rumunia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/uF85LXe2nYSI9J9k1",
+          "tittle": "Ghelari"
+        }
+      ]
+    },
+    "hunedoara": {
+      "lat": 45.75759,
+      "lon": 22.903653,
+      "name": "Hunedoara",
+      "country": "rumunia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/BtoVNklOPy3H0JTk1",
+          "tittle": "Hunedoara"
+        }
+      ]
+    },
+    "sybin": {
+      "lat": 45.797409,
+      "lon": 24.151527,
+      "name": "Sybin",
+      "country": "rumunia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/ZpH9jIkuQ9uWJ4aq1",
+          "tittle": "Sybin, Sibiu"
+        }
+      ]
+    },
+    "trasa_transfogaraska": {
+      "lat": 45.610858,
+      "lon": 24.614445,
+      "name": "Droga Transfogaraska",
+      "country": "rumunia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/j97qCQ2AJkxj2LeL2",
+          "tittle": "Droga Transfogaraska, Transfăgărășan"
+        }
+      ]
+    },
+    "braszow": {
+      "lat": 45.643097,
+      "lon": 25.591398,
+      "name": "Braszów",
+      "country": "rumunia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Sj7daryXowuMYIyM2",
+          "tittle": "Braszów, Brasov"
+        }
+      ]
+    },
+    "busteni": {
+      "lat": 45.4454765,
+      "lon": 25.4562287,
+      "name": "Bușteni",
+      "country": "rumunia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/gM7QNOnFSNimOznB3",
+          "tittle": "Bușteni"
+        }
+      ]
+    },
+    "sinaia": {
+      "lat": 45.359896,
+      "lon": 25.542881,
+      "name": "Sinaia",
+      "country": "rumunia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/f7Pwg7erB7qgz28B2",
+          "tittle": "Sinaia"
+        }
+      ]
+    },
+    "sighisoara": {
+      "lat": 46.219167,
+      "lon": 24.794543,
+      "name": "Sighișoara",
+      "country": "rumunia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/bYZ3Yq2QCj9Cxobk1",
+          "tittle": "Sighișoara"
+        }
+      ]
+    },
+    "targu_mures": {
+      "lat": 46.540649,
+      "lon": 24.558198,
+      "name": "Targu Mures",
+      "country": "rumunia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/j47NB9Qpc1rFtkhh1",
+          "tittle": "Targu Mures"
+        }
+      ]
+    },
+    "cluj-napoca": {
+      "lat": 46.768933,
+      "lon": 23.58933,
+      "name": "Cluj-Napoca",
+      "country": "rumunia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/qvzA8FyVSk1cRPIz2",
+          "tittle": "Cluj-Napoca"
+        }
+      ]
+    },
+    "bratyslawa": {
+      "lat": 48.141706,
+      "lon": 17.100059,
+      "name": "Bratysława",
+      "country": "slowacja",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/vNkqi7k8L7E8msal2",
+          "tittle": "Bratysława, Bratislava"
+        }
+      ]
+    },
+    "nicea": {
+      "lat": 43.703076,
+      "lon": 7.266253,
+      "name": "Nicea",
+      "country": "francja",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/9FMjoiV1gU5u5t4b8",
+          "tittle": "Nicea"
+        }
+      ]
+    },
+    "monako": {
+      "lat": 43.734348,
+      "lon": 7.421447,
+      "name": "Monako",
+      "country": "monako",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/vQ2moBr44MNSZn9i1",
+          "tittle": "Monako, Monaco"
+        }
+      ]
+    },
+    "antibes": {
+      "lat": 43.580534,
+      "lon": 7.12332,
+      "name": "Antibes",
+      "country": "francja",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Fxt15aiUw4Jyx1to1",
+          "tittle": "Antibes"
+        }
+      ]
+    },
+    "cannes": {
+      "lat": 43.552539,
+      "lon": 7.015898,
+      "name": "Cannes",
+      "country": "francja",
+      "galleries": [
+        {
+          "link": "https://goo.gl/photos/DfeMtyPHSjiTaQfn9",
+          "tittle": "Cannes"
+        }
+      ]
+    },
+    "ejlat": {
+      "lat": 29.555247,
+      "lon": 34.952858,
+      "name": "Ejlat",
+      "country": "izrael",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/rl8VqR86IVINKLXh1",
+          "tittle": "Ejlat, Eilat"
+        }
+      ]
+    },
+    "ottobeuren": {
+      "lat": 47.941975,
+      "lon": 10.299187,
+      "name": "Ottobeuren",
+      "country": "niemcy",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/UEHxHs0DIXG0UxX62",
+          "tittle": "Ottobeuren"
+        }
+      ]
+    },
+    "schwangau": {
+      "lat": 47.578072,
+      "lon": 10.738519,
+      "name": "Schwangau",
+      "country": "niemcy",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/CGMjRYg9inY7MGXn1",
+          "tittle": "Schwangau"
+        }
+      ]
+    },
+    "oberstdorf": {
+      "lat": 47.407413,
+      "lon": 10.279038,
+      "name": "Oberstdorf",
+      "country": "niemcy",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/4u2N0q2Wk1CpriXi1",
+          "tittle": "Oberstdorf"
+        }
+      ]
+    },
+    "kempten": {
+      "lat": 47.723329,
+      "lon": 10.315916,
+      "name": "Kempten",
+      "country": "niemcy",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/hVomhDiwZAW0nCQX2",
+          "tittle": "Kempten"
+        }
+      ]
+    },
+    "keflavik": {
+      "lat": 63.999639,
+      "lon": -22.558083,
+      "name": "Keflavík",
+      "country": "islandia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/7x9WGdxo2t4L9sJi2",
+          "tittle": "Keflavík"
+        }
+      ]
+    },
+    "hafnir": {
+      "lat": 63.934505,
+      "lon": -22.687668,
+      "name": "Hafnir",
+      "country": "islandia",
+      "description": "Lokalna atrakcja turystyczna w postaci granicy między dwoma płytami kontynentalnym.",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/rYEfvd4fdwq2syuj2",
+          "tittle": "Hafnir"
+        }
+      ]
+    },
+    "grindavik": {
+      "lat": 63.843229,
+      "lon": -22.433931,
+      "name": "Grindavik",
+      "country": "islandia",
+      "description": "Miejsce kilku gorących sadzawek, wśród których prym (jako jedna z najważniejszych atrakcji Islandii) wiedzie Blue Lagoon.",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/b6LupJ2QMWUyA01v2",
+          "tittle": "Grindavik"
+        }
+      ]
+    },
+    "thingvallavatn": {
+      "lat": 64.25536,
+      "lon": -21.12811,
+      "name": "Þingvallavatn",
+      "country": "islandia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/v3wIZw5eOtdREld72",
+          "tittle": "Þingvallavatn"
+        }
+      ]
+    },
+    "geysir": {
+      "lat": 64.309664,
+      "lon": -20.301761,
+      "name": "Geysir",
+      "country": "islandia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/nPHA5FBq5KvtnXTd2",
+          "tittle": "Geysir"
+        }
+      ]
+    },
+    "gullfoss": {
+      "lat": 64.326963,
+      "lon": -20.119984,
+      "name": "Gullfoss",
+      "country": "islandia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/8jCmShPcSxRTU3oJ3",
+          "tittle": "Gullfoss"
+        }
+      ]
+    },
+    "reykjavik": {
+      "lat": 64.150397,
+      "lon": -21.947903,
+      "name": "Reykjavík",
+      "country": "islandia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/dWd4ZcLE3FCzDD3K2",
+          "tittle": "Reykjavík"
+        }
+      ]
+    },
+    "almaty": {
+      "lat": 43.25234,
+      "lon": 76.915426,
+      "name": "Ałmaty",
+      "country": "kazachstan",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/pgQ9AwQMzmrid26X9",
+          "tittle": "Ałmaty"
+        }
+      ]
+    },
+    "kaindy": {
+      "lat": 42.984161,
+      "lon": 78.466436,
+      "name": "Kajyngdy",
+      "country": "kazachstan",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/UWtNLcXYsKl318DQ2",
+          "tittle": "Jezioro Kaindy"
+        }
+      ]
+    },
+    "kolsai": {
+      "lat": 42.934802,
+      "lon": 78.326039,
+      "name": "Jezioro Kolsai",
+      "country": "kazachstan",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/gkJ697ViJWX2woBG2",
+          "tittle": "Jezioro Kolsai"
+        }
+      ]
+    },
+    "saty": {
+      "lat": 43.069828,
+      "lon": 78.409252,
+      "name": "Saty",
+      "country": "kazachstan",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Acrc5u7VqUe0AjmG2",
+          "tittle": "Saty"
+        }
+      ]
+    },
+    "kanion_szarynski": {
+      "lat": 43.343255,
+      "lon": 79.070705,
+      "name": "Charyn",
+      "country": "kazachstan",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/GM8D12F0TZZeWsOl2",
+          "tittle": "Kanion Szaryński"
+        }
+      ]
+    },
+    "astana": {
+      "lat": 51.12864,
+      "lon": 71.430498,
+      "name": "Astana",
+      "country": "kazachstan",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/FEMytRLXAYESw5E42",
+          "tittle": "Astana, Nur-Sułtan"
+        }
+      ]
+    },
+    "janow_podlaski": {
+      "lat": 52.193843,
+      "lon": 23.21185,
+      "name": "Janów Podlaski",
+      "country": "polska"
+    },
+    "grabarka": {
+      "lat": 52.416733,
+      "lon": 23.004681,
+      "name": "Góra Grabarka",
+      "country": "polska"
+    },
+    "siemiatycze": {
+      "lat": 52.427212,
+      "lon": 22.8684,
+      "name": "Siemiatycze",
+      "country": "polska"
+    },
+    "kijow": {
+      "lat": 50.451452,
+      "lon": 30.515991,
+      "name": "Kijów",
+      "country": "ukraina"
+    },
+    "benidorm": {
+      "lat": 38.541029,
+      "lon": -0.122441,
+      "name": "Benidorm",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/7FCpiUMRN9RJ0m9W2",
+          "tittle": "Benidorm"
+        }
+      ]
+    },
+    "tabarca": {
+      "lat": 38.166252,
+      "lon": -0.480981,
+      "name": "Tabarca",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/EdpUDq9bmGok7HWk9",
+          "tittle": "Isla Tabarca, Tabarka"
+        }
+      ]
+    },
+    "walencja": {
+      "lat": 39.468141,
+      "lon": -0.372436,
+      "name": "Walencja",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/YYvofhiEfU1Ye4K28",
+          "tittle": "Walencja, Valencia"
+        }
+      ]
+    },
+    "swidnica": {
+      "lat": 50.842738,
+      "lon": 16.486846,
+      "name": "Świdnica",
+      "country": "polska"
+    },
+    "pekin": {
+      "lat": 39.918594,
+      "lon": 116.39702,
+      "name": "Pekin",
+      "country": "chiny"
+    },
+    "wielki_mur_chinski": {
+      "lat": 40.35315,
+      "lon": 116.006114,
+      "name": "Wielki Mur Chiński",
+      "country": "chiny"
+    },
+    "hanoi": {
+      "lat": 21.029223,
+      "lon": 105.852401,
+      "name": "Hanoi",
+      "country": "wietnam"
+    },
+    "sapa": {
+      "lat": 22.334769,
+      "lon": 103.841177,
+      "name": "Sa Pa",
+      "country": "wietnam"
+    },
+    "cat_ba": {
+      "lat": 20.724222,
+      "lon": 107.049528,
+      "name": "Cat Ba",
+      "country": "wietnam"
+    },
+    "hajfong": {
+      "lat": 20.857328,
+      "lon": 106.681771,
+      "name": "Haiphong",
+      "country": "wietnam"
+    },
+    "hoi_an": {
+      "lat": 15.876798,
+      "lon": 108.32895,
+      "name": "Hoi An",
+      "country": "wietnam"
+    },
+    "hue": {
+      "lat": 16.469926,
+      "lon": 107.578548,
+      "name": "Hue",
+      "country": "wietnam"
+    },
+    "da_nang": {
+      "lat": 16.069564,
+      "lon": 108.218353,
+      "name": "Da Nang",
+      "country": "wietnam"
+    },
+    "can_tho": {
+      "lat": 10.03199,
+      "lon": 105.785331,
+      "name": "Can Tho (Delta Mekongu)",
+      "country": "wietnam"
+    },
+    "ho_chi_minh": {
+      "lat": 10.776498,
+      "lon": 106.698917,
+      "name": "Ho Chi Minh City / Sajgon",
+      "country": "wietnam"
+    },
+    "polajny": {
+      "lat": 53.796676,
+      "lon": 19.600408,
+      "name": "Polajny / dziki brzeg Jezioraka",
+      "country": "polska"
+    },
+    "warka": {
+      "lat": 51.78458,
+      "lon": 21.189481,
+      "name": "Warka",
+      "country": "polska"
+    },
+    "tallinn": {
+      "lat": 59.437131,
+      "lon": 24.748648,
+      "name": "Tallinn",
+      "country": "estonia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/TmmuduRdJGnXkuCb6",
+          "tittle": "Tallinn"
+        }
+      ]
+    },
+    "kathmandu": {
+      "lat": 27.704582,
+      "lon": 85.307736,
+      "name": "Kathmandu",
+      "country": "nepal"
+    },
+    "bhaktapur": {
+      "lat": 27.671853,
+      "lon": 85.428424,
+      "name": "Bhaktapur",
+      "country": "nepal"
+    },
+    "pharping": {
+      "lat": 27.612877,
+      "lon": 85.265193,
+      "name": "Pharping",
+      "country": "nepal"
+    },
+    "pokhara": {
+      "lat": 28.205803,
+      "lon": 83.962138,
+      "name": "Pokhara",
+      "country": "nepal"
+    },
+    "park_narodowy_annapurna": {
+      "lat": 28.310045,
+      "lon": 83.791029,
+      "name": "Obszar Chroniony Annapurny",
+      "country": "nepal"
+    },
+    "poon_hill": {
+      "lat": 28.40006,
+      "lon": 83.689483,
+      "name": "Poon Hill",
+      "country": "nepal"
+    },
+    "sauraha": {
+      "lat": 27.585056,
+      "lon": 84.504755,
+      "name": "Sauraha",
+      "country": "nepal"
+    },
+    "park_narodowy_citwan": {
+      "lat": 27.533576,
+      "lon": 84.452034,
+      "name": "Park Narodowy Ćitwan",
+      "country": "nepal"
+    },
+    "bodo": {
+      "lat": 67.280665,
+      "lon": 14.404626,
+      "name": "Bodø",
+      "country": "norwegia"
+    },
+    "a": {
+      "lat": 67.880308,
+      "lon": 12.984058,
+      "name": "Å",
+      "country": "norwegia"
+    }
+  }
+}

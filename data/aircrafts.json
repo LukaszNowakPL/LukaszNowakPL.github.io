@@ -1,0 +1,55 @@
+{
+  "aircrafts": {
+    "a318": {
+      "name": "Airbus A318"
+    },
+    "a319": {
+      "name": "Airbus A319"
+    },
+    "a320": {
+      "name": "Airbus A320"
+    },
+    "a321": {
+      "name": "Airbus A321"
+    },
+    "a330": {
+      "name": "Airbus A330"
+    },
+    "cr9": {
+      "name": "Bombardier CRJ-900"
+    },
+    "b737": {
+      "name": "Boeing 737"
+    },
+    "b767": {
+      "name": "Boeing 767"
+    },
+    "b787": {
+      "name": "Boeing 787"
+    },
+    "at4": {
+      "name": "ATR 42"
+    },
+    "at7": {
+      "name": "ATR 72"
+    },
+    "emb170": {
+      "name": "Embraer 170"
+    },
+    "emb175": {
+      "name": "Embraer 175"
+    },
+    "emb190": {
+      "name": "Embraer 190"
+    },
+    "dh8": {
+      "name": "Bombardier Q400"
+    },
+    "sf3": {
+      "name": "Saab 340"
+    },
+    "1900": {
+      "name": "Beechcraft 1900"
+    }
+  }
+}
