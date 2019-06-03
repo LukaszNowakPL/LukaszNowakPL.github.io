@@ -1,6 +1,7 @@
 {
   "short_name": "Mapa wyjazdów",
   "name": "Mapa wyjazdów - tambylstwo.blogspot.com",
+  "lang": "pl-PL",
   "icons": [],
   "start_url": ".",
   "display": "standalone",
