@@ -1,6 +1,14 @@
 {
   "trips": [
     {
+      "name": "Wielka południowoamerykańska eskapada",
+      "description": "Likwidacja stanowiska i zarazem utrata pracy stały się przyczynkiem do spełnienia jednego z marzeń: kilkumiesięcznej podróży. Po posortowaniu kilku spraw zdecydowaliśmy postawić na Amerykę Południową. Niemal pół roku tułaczki wzdłuż zachodniego wybrzeża. Jej plan tworzył się w trakcie realizacji a ograniczeniem były jedynie finanse i data lotu powrotnego. Ten wyjazd jest wspólnym nawiasem całej podróży. Poszczególne jej części rozpisuję na kolejne podwyjazdy.",
+      "date": ["2019-07-20", "2019-12-20"],
+
+      "places": [],
+      "routes": []
+    },
+    {
       "name": "Lofoty - podejście n-te",
       "date": ["2019-06-26", "2019-07-03"],
 
@@ -132,13 +140,13 @@
           "dep": "hph",
           "arr": "dad",
           "airline": "vj",
-          "type": "a320"
+          "type": "a321"
         },
         {
           "dep": "dad",
           "arr": "vca",
           "airline": "vj",
-          "type": "a321"
+          "type": "a320"
         },
         {
           "dep": "sgn",
@@ -1551,7 +1559,7 @@
           "dep": "waw",
           "arr": "fra",
           "airline": "lo",
-          "type": "emb170"
+          "type": "emb175"
         },
         {
           "dep": "fra",
@@ -3247,6 +3255,133 @@
           "arr": "wro",
           "airline": "fr",
           "type": "b737"
+        },
+        {
+          "notka": "Początkowo miała to być urodzinowa niespodzianka dla Doroty i wizyta w Wawie na jeden wieczór. Potem okazało się że razem będziemy lecieć na październikowy urlop i pierwszy odcinek stał się dolotem na Saloniki. Tym samym powrót został skasowany.",
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Powód odwołania: We Wrocławiu była mgła. Samolot z WRO jakoś wystartował i z opóźnieniem przyleciał po nas. W powietrzu zrobiliśmy pięć kółek w okolicach Kalisza po czym z powodu 200 metrów widzialności zostaliśmy przekierowani do Poznania. Nie było próby podejścia (na pasie nie działał ILS). Było to moje pierwsze przekierowanie w życiu.",
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Wyjazd od samego początku był na zasadzie &quot;być może się uda&quot;. Dorota przed weekendem miała zadruki na Słowacji. Jeśli by się opóźniło, pół soboty miałem spędzić na mieście (dlatego przylot w sobotę rano a nie w piątek). Jednak opóźnienie było totalne i wyjazd został skasowany w całości. Nawet to i dobrze, bo z powodu mgły w poniedziałek zamiast we Wrocławiu wylądowałbym w Katowicach.",
+          "dep": "wro",
+          "arr": "wmi",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Wyjazd od samego początku był na zasadzie &quot;być może się uda&quot;. Dorota przed weekendem miała zadruki na Słowacji. Jeśli by się opóźniło, pół soboty miałem spędzić na mieście (dlatego przylot w sobotę rano a nie w piątek). Jednak opóźnienie było totalne i wyjazd został skasowany w całości. Nawet to i dobrze, bo z powodu mgły w poniedziałek zamiast we Wrocławiu wylądowałbym w Katowicach.",
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Bilet na ten lot to forma backupu dla odcinka NYO - KRK (nieco ponad 90 minut na przesiadkę).",
+          "dep": "nyo",
+          "arr": "waw",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
+        }
+      ]
+    },
+    {
+      "hidden": true,
+      "name": "kontener",
+      "date": ["2014-01-01", "2014-01-02"],
+      "places": [],
+      "routes": [
+        {
+          "notka": "Opóźnienie pierwszego tego dnia autobusu, przez co nie wyrobiłem się na przesiadkę w okolicach Dworca Świebodzkiego na 406. Koniec końców można było wsiąść w następny i liczyć na szczęście, lub wziąć taksówkę, jednak prognoza pogody dawała spore szanse na mgłę w Tirgu w dniu wylotu, co mogło komplikować sprawę przy dość ciasnej przesiadce w Dortmundzie.",
+          "dep": "wro",
+          "arr": "dtm",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "notka": "Opóźnienie pierwszego tego dnia autobusu, przez co nie wyrobiłem się na przesiadkę w okolicach Dworca Świebodzkiego na 406. Koniec końców można było wsiąść w następny i liczyć na szczęście, lub wziąć taksówkę, jednak prognoza pogody dawała spore szanse na mgłę w Tirgu w dniu wylotu, co mogło komplikować sprawę przy dość ciasnej przesiadce w Dortmundzie.",
+          "dep": "dtm",
+          "arr": "tgm",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "notka": "Opóźnienie pierwszego tego dnia autobusu, przez co nie wyrobiłem się na przesiadkę w okolicach Dworca Świebodzkiego na 406. Koniec końców można było wsiąść w następny i liczyć na szczęście, lub wziąć taksówkę, jednak prognoza pogody dawała spore szanse na mgłę w Tirgu w dniu wylotu, co mogło komplikować sprawę przy dość ciasnej przesiadce w Dortmundzie.",
+          "dep": "tgm",
+          "arr": "dtm",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "notka": "Opóźnienie pierwszego tego dnia autobusu, przez co nie wyrobiłem się na przesiadkę w okolicach Dworca Świebodzkiego na 406. Koniec końców można było wsiąść w następny i liczyć na szczęście, lub wziąć taksówkę, jednak prognoza pogody dawała spore szanse na mgłę w Tirgu w dniu wylotu, co mogło komplikować sprawę przy dość ciasnej przesiadce w Dortmundzie.",
+          "dep": "dtm",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "notka": "LOT chwilę po zakupie skasował trasę WAW - HEL. W związku z tym przebukowano nam trasę na przesiadki w FRA/MUC a rejsy do HEL odbyły się na pokładach LH.",
+          "dep": "waw",
+          "arr": "hel",
+          "airline": "lo",
+          "type": "emb170",
+          "isCanceled": true
+        },
+        {
+          "notka": "LOT chwilę po zakupie skasował trasę WAW - HEL. W związku z tym przebukowano nam trasę na przesiadki w FRA/MUC a rejsy do HEL odbyły się na pokładach LH.",
+          "dep": "hel",
+          "arr": "waw",
+          "airline": "lo",
+          "type": "emb170",
+          "isCanceled": true
+        },
+        {
+          "notka": "Strajk w Lufthansie spowodował odwołanie porannego rejsu LIS-FRA oraz FRA-WRO. Przebukowano mi loty na LIS-GVA-MUC-WRO z czego pierwszy odcinek był na pokładzie TAP Portugal a pozostałe dwa już w LH.",
+          "dep": "lis",
+          "arr": "fra",
+          "airline": "lh",
+          "type": "a321",
+          "isCanceled": true
+        },
+        {
+          "notka": "Strajk w Lufthansie spowodował odwołanie porannego rejsu LIS-FRA oraz FRA-WRO. Przebukowano mi loty na LIS-GVA-MUC-WRO z czego pierwszy odcinek był na pokładzie TAP Portugal a pozostałe dwa już w LH.",
+          "dep": "fra",
+          "arr": "wro",
+          "airline": "lh",
+          "isCanceled": true
+        },
+        {
+          "notka": "Pomieszały mi się daty i myślałem że lot jest tydzień później.",
+          "dep": "luz",
+          "arr": "wro",
+          "airline": "k2",
+          "type": "dh8",
+          "isCanceled": true
+        },
+        {
+          "notka": "Opóźnienie na wcześniejszym odcinku GDN - WMI",
+          "dep": "wmi",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
         }
       ]
     },
@@ -3267,6 +3402,20 @@
           "arr": "poz",
           "airline": "w6",
           "type": "a320"
+        },
+        {
+          "dep": "wro",
+          "arr": "ork",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "dep": "ork",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
         }
       ]
     },
@@ -3299,6 +3448,70 @@
           "arr": "wro",
           "airline": "lo",
           "type": "emb190"
+        },
+        {
+          "notka": "skręcona noga młodej (na trzy dni przed odlotem)",
+          "dep": "wro",
+          "arr": "trf",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "notka": "skręcona noga młodej (na trzy dni przed odlotem)",
+          "dep": "trf",
+          "arr": "rix",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "notka": "skręcona noga młodej (na trzy dni przed odlotem)",
+          "dep": "rix",
+          "arr": "trf",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "notka": "skręcona noga młodej (na trzy dni przed odlotem)",
+          "dep": "trf",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "notka": "Procedury związane z kupnem mieszkania i kredytem",
+          "dep": "wro",
+          "arr": "mmx",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Procedury związane z kupnem mieszkania i kredytem",
+          "dep": "mmx",
+          "arr": "beg",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "notka": "Procedury związane z kupnem mieszkania i kredytem",
+          "dep": "beg",
+          "arr": "dtm",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "notka": "Procedury związane z kupnem mieszkania i kredytem",
+          "dep": "dtm",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
         }
       ]
     },
@@ -3331,6 +3544,190 @@
           "arr": "wro",
           "airline": "w6",
           "type": "a320"
+        },
+        {
+          "notka": "Nie udało się zdobyć biletów na powrotny lot CRL - WRO i backup HHN - WRO na dzień następny (przesiadka w CRL miała 50 minut). Jak kupowałem pierwsze trzy odcinki, to pozostałe także były w cenie E3 za każdy. Niestety potem już tylko E16 co było za dużo jak na tą trasę i opcję backupu.",
+          "dep": "wro",
+          "arr": "nrn",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Nie udało się zdobyć biletów na powrotny lot CRL - WRO i backup HHN - WRO na dzień następny (przesiadka w CRL miała 50 minut). Jak kupowałem pierwsze trzy odcinki, to pozostałe także były w cenie E3 za każdy. Niestety potem już tylko E16 co było za dużo jak na tą trasę i opcję backupu.",
+          "dep": "nrn",
+          "arr": "vll",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Nie udało się zdobyć biletów na powrotny lot CRL - WRO i backup HHN - WRO na dzień następny (przesiadka w CRL miała 50 minut). Jak kupowałem pierwsze trzy odcinki, to pozostałe także były w cenie E3 za każdy. Niestety potem już tylko E16 co było za dużo jak na tą trasę i opcję backupu.",
+          "dep": "vll",
+          "arr": "crl",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        }
+      ]
+    },
+    {
+      "hidden": true,
+      "name": "kontener",
+      "date": ["2010-01-01", "2010-01-01"],
+      "places": [],
+      "routes": [
+        {
+          "notka": "Ryanair wprowadził zmiany w rozkładzie lotów ze Skavsty. Najpierw zredukował NYO-RIX z dwóch do jednego dziennie. Potem, choć początkowo rozszerzył WRO-NYO z dwóch do trzech tygodniowo, to potem kompletnie wyciął to połączenie.",
+          "dep": "wro",
+          "arr": "nyo",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Ryanair wprowadził zmiany w rozkładzie lotów ze Skavsty. Najpierw zredukował NYO-RIX z dwóch do jednego dziennie. Potem, choć początkowo rozszerzył WRO-NYO z dwóch do trzech tygodniowo, to potem kompletnie wyciął to połączenie.",
+          "dep": "nyo",
+          "arr": "rix",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Ryanair wprowadził zmiany w rozkładzie lotów ze Skavsty. Najpierw zredukował NYO-RIX z dwóch do jednego dziennie. Potem, choć początkowo rozszerzył WRO-NYO z dwóch do trzech tygodniowo, to potem kompletnie wyciął to połączenie.",
+          "dep": "rix",
+          "arr": "nyo",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Ryanair wprowadził zmiany w rozkładzie lotów ze Skavsty. Najpierw zredukował NYO-RIX z dwóch do jednego dziennie. Potem, choć początkowo rozszerzył WRO-NYO z dwóch do trzech tygodniowo, to potem kompletnie wyciął to połączenie.",
+          "dep": "nyo",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Chciałem sprawdzić się z ciasnymi przesiadkami. Chociaż był zestaw back-upów i conajmniej trzy plany działania na wszelką okoliczność, to z wylotu zrezygnowaliśmy z dwóch powodów: - Ola była conajmniej zaziębiona - Pogoda w UK i Irlandii na tydzień przed lotem sparaliżowała kilka lotnisk i nic nie było pewne. Koniec końców śledząc rozkład lotów zauważyłem, że samolot WRO-NRN miał opóźnienie. Rotację do Stansted robił ten sam i w Weeze miał mimo opóźnienia jakieś 50 minut przerwy więc byśmy się wyrobili. Jednak STN-DUB w takiej sytuacji było raczej niemożliwe do złapania.",
+          "dep": "wro",
+          "arr": "nrn",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Chciałem sprawdzić się z ciasnymi przesiadkami. Chociaż był zestaw back-upów i conajmniej trzy plany działania na wszelką okoliczność, to z wylotu zrezygnowaliśmy z dwóch powodów: - Ola była conajmniej zaziębiona - Pogoda w UK i Irlandii na tydzień przed lotem sparaliżowała kilka lotnisk i nic nie było pewne. Koniec końców śledząc rozkład lotów zauważyłem, że samolot WRO-NRN miał opóźnienie. Rotację do Stansted robił ten sam i w Weeze miał mimo opóźnienia jakieś 50 minut przerwy więc byśmy się wyrobili. Jednak STN-DUB w takiej sytuacji było raczej niemożliwe do złapania.",
+          "dep": "nrn",
+          "arr": "stn",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Chciałem sprawdzić się z ciasnymi przesiadkami. Chociaż był zestaw back-upów i conajmniej trzy plany działania na wszelką okoliczność, to z wylotu zrezygnowaliśmy z dwóch powodów: - Ola była conajmniej zaziębiona - Pogoda w UK i Irlandii na tydzień przed lotem sparaliżowała kilka lotnisk i nic nie było pewne. Koniec końców śledząc rozkład lotów zauważyłem, że samolot WRO-NRN miał opóźnienie. Rotację do Stansted robił ten sam i w Weeze miał mimo opóźnienia jakieś 50 minut przerwy więc byśmy się wyrobili. Jednak STN-DUB w takiej sytuacji było raczej niemożliwe do złapania.",
+          "dep": "stn",
+          "arr": "dub",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Chciałem sprawdzić się z ciasnymi przesiadkami. Chociaż był zestaw back-upów i conajmniej trzy plany działania na wszelką okoliczność, to z wylotu zrezygnowaliśmy z dwóch powodów: - Ola była conajmniej zaziębiona - Pogoda w UK i Irlandii na tydzień przed lotem sparaliżowała kilka lotnisk i nic nie było pewne. Koniec końców śledząc rozkład lotów zauważyłem, że samolot WRO-NRN miał opóźnienie. Rotację do Stansted robił ten sam i w Weeze miał mimo opóźnienia jakieś 50 minut przerwy więc byśmy się wyrobili. Jednak STN-DUB w takiej sytuacji było raczej niemożliwe do złapania.",
+          "dep": "dub",
+          "arr": "stn",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Chciałem sprawdzić się z ciasnymi przesiadkami. Chociaż był zestaw back-upów i conajmniej trzy plany działania na wszelką okoliczność, to z wylotu zrezygnowaliśmy z dwóch powodów: - Ola była conajmniej zaziębiona - Pogoda w UK i Irlandii na tydzień przed lotem sparaliżowała kilka lotnisk i nic nie było pewne. Koniec końców śledząc rozkład lotów zauważyłem, że samolot WRO-NRN miał opóźnienie. Rotację do Stansted robił ten sam i w Weeze miał mimo opóźnienia jakieś 50 minut przerwy więc byśmy się wyrobili. Jednak STN-DUB w takiej sytuacji było raczej niemożliwe do złapania.",
+          "dep": "stn",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Poprzedni odcinek OPO - MAD mieliśmy opóźniony o ponad 8 godzin z faktu, że był jakiś problem z samolotem. Nie udało się więc nam wyrobić na tą rotację i popołudnie spędziliśmy w Madrycie.",
+          "dep": "mad",
+          "arr": "pmi",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Poprzedni odcinek OPO - MAD mieliśmy opóźniony o ponad 8 godzin z faktu, że był jakiś problem z samolotem. Nie udało się więc nam wyrobić na tą rotację i popołudnie spędziliśmy w Madrycie.",
+          "dep": "pmi",
+          "arr": "mad",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Wizz Air zamienił rotację BVA z TRF i zamiast dwóch lotów tygodniowo (3,7) wstawił trzy (2,4,6). Lot wtorkowy nie pasował mi na przesiadki które były drogie. Z czwartkiem jeszcze coś by się dało załatwić, ale udało mi się zamienić ten lot na bardziej pasujący BGY-WRO bez żadnych dopłat. W momencie kupowania biletów trasa nie była jeszcze ustalona. Wiadomo że miała być Majorka, ale jak tam dolecieć i wrócić to była niewiadoma. Początkowo miało być WRO-EIN i dalej do włoch na tydzień muzeów (Rzym, Mediolan i easyJet-em do Barcelony), ale tydzień został przesunięty do przodu. Koniec końców tanio wypadł także Rzym i trafiło na Ibizę.",
+          "dep": "bva",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "notka": "Wypadek Oli.",
+          "dep": "wro",
+          "arr": "crl",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Wypadek Oli.",
+          "dep": "crl",
+          "arr": "mad",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Wypadek Oli.",
+          "dep": "mad",
+          "arr": "xry",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Wypadek Oli.",
+          "dep": "svq",
+          "arr": "hhn",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Wypadek Oli.",
+          "dep": "hhn",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Wizz Air najpierw dodał trasę do Forli na sezon zimowy. Później wykasował wszystkie loty na tej trasie w sezonie letnim zaplanowane na później niż za miesiąc, po czym kompletnie skasował tą trasę także na sezon zimowy. Konkurencja z Ryanair, który specjalnie na sezon letni otworzył trasę do Bolonii zrobiła swoje. Co ciekawe, na sezon zimowy zniknęła zarówno trasa do Forli, jak też Bolonii.",
+          "dep": "wro",
+          "arr": "frl",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "notka": "Wizz Air najpierw dodał trasę do Forli na sezon zimowy. Później wykasował wszystkie loty na tej trasie w sezonie letnim zaplanowane na później niż za miesiąc, po czym kompletnie skasował tą trasę także na sezon zimowy. Konkurencja z Ryanair, który specjalnie na sezon letni otworzył trasę do Bolonii zrobiła swoje. Co ciekawe, na sezon zimowy zniknęła zarówno trasa do Forli, jak też Bolonii.",
+          "dep": "frl",
+          "arr": "wro",
+          "airline": "w6",
+          "type": "a320",
+          "isCanceled": true
         }
       ]
     },
@@ -3338,7 +3735,17 @@
       "hidden": true,
       "name": "kontener",
       "date": ["2009-01-01", "2009-01-02"],
-      "places": ["lodz"]
+      "places": ["lodz"],
+      "routes": [
+        {
+          "notka": "Za pierwszym razem kupiłem bilet na błędne nazwisko. Nie wiedziałem że błąd jednej litery przejdzie, dlatego kupiłem też drugi. Oczywiście do samolotu wszedłem na kartę z błędnym nazwiskiem ;)",
+          "dep": "gro",
+          "arr": "mad",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        }
+      ]
     },
     {
       "hidden": true,
@@ -3437,6 +3844,22 @@
           "arr": "dub",
           "airline": "c0",
           "type": "b737"
+        },
+        {
+          "notka": "Za pierwszym razem kupiłem bilet na błędne nazwisko. Nie wiedziałem że błąd jednej litery przejdzie, dlatego kupiłem też drugi. Oczywiście do samolotu wszedłem na kartę z błędnym nazwiskiem ;)",
+          "dep": "dub",
+          "arr": "poz",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Za pierwszym razem kupiłem bilet na błędne nazwisko. Nie wiedziałem że błąd jednej litery przejdzie, dlatego kupiłem też drugi. Oczywiście do samolotu wszedłem na kartę z błędnym nazwiskiem ;)",
+          "dep": "dub",
+          "arr": "lcj",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
         }
       ]
     },

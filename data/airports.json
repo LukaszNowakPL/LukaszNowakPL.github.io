@@ -795,6 +795,30 @@
       "lon": 14.362248,
       "name": "Bodo, BOO, Norwegia",
       "country": "norwegia"
+    },
+    "vll": {
+      "lat": 41.706118,
+      "lon": -4.845005,
+      "name": "Valladolid, VLL, Hiszpania",
+      "country": "hiszpania"
+    },
+    "tgm": {
+      "lat": 46.467505,
+      "lon": 24.423482,
+      "name": "Tirgu Mures, TGM, Rumunia",
+      "country": "rumunia"
+    },
+    "beg": {
+      "lat": 44.820399,
+      "lon": 20.291584,
+      "name": "Belgrad, BEG, Serbia",
+      "country": "serbia"
+    },
+    "luz": {
+      "lat": 51.235844,
+      "lon": 22.71512,
+      "name": "Lublin, LUZ, Polska",
+      "country": "polska"
     }
   }
 }
