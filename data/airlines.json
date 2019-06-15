@@ -77,6 +77,15 @@
     },
     "ee": {
       "name": "Nordica"
+    },
+    "ac": {
+      "name": "Air Canada"
+    },
+    "la": {
+      "name": "LATAM"
+    },
+    "lx": {
+      "name": "Swiss"
     }
   }
 }

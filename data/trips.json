@@ -1,17 +1,21 @@
 {
   "trips": [
     {
-      "name": "Wielka południowoamerykańska eskapada",
+      "name": "151 dni w drodze",
       "description": "Likwidacja stanowiska i zarazem utrata pracy stały się przyczynkiem do spełnienia jednego z marzeń: kilkumiesięcznej podróży. Po posortowaniu kilku spraw zdecydowaliśmy postawić na Amerykę Południową. Niemal pół roku tułaczki wzdłuż zachodniego wybrzeża. Jej plan tworzył się w trakcie realizacji a ograniczeniem były jedynie finanse i data lotu powrotnego. Ten wyjazd jest wspólnym nawiasem całej podróży. Poszczególne jej części rozpisuję na kolejne podwyjazdy.",
-      "date": ["2019-07-20", "2019-12-20"],
-
+      "date": ["2019-07-25", "2019-12-22"],
       "places": [],
-      "routes": []
+      "routes": [
+        { "dep": "waw", "arr": "yyz", "airline": "ac", "type": "b767" },
+        { "dep": "yyz", "arr": "bog", "airline": "ac", "type": "b767" },
+        { "dep": "eze", "arr": "gru", "airline": "la", "type": "a321" },
+        { "dep": "gru", "arr": "zrh", "airline": "lx", "type": "b777" },
+        { "dep": "zrh", "arr": "waw", "airline": "lx", "type": "a319" }
+      ]
     },
     {
       "name": "Lofoty - podejście n-te",
       "date": ["2019-06-26", "2019-07-03"],
-
       "places": ["bodo", "a"],
       "routes": [
         {

@@ -819,6 +819,36 @@
       "lon": 22.71512,
       "name": "Lublin, LUZ, Polska",
       "country": "polska"
+    },
+    "yyz": {
+      "lat": 43.677803,
+      "lon": -79.624809,
+      "name": "Toronto, YYZ, Kanada",
+      "country": "kanada"
+    },
+    "bog": {
+      "lat": 4.701488,
+      "lon": -74.144475,
+      "name": "Bogota, BOG, Kolumbia",
+      "country": "kolumbia"
+    },
+    "eze": {
+      "lat": -34.814943,
+      "lon": -58.53485,
+      "name": "Buenos Aires-Ezeiza, EZE, Argentyna",
+      "country": "argentyna"
+    },
+    "gru": {
+      "lat": -23.430475,
+      "lon": -46.473032,
+      "name": "São Paulo-Guarulhos, GRU, Brazylia",
+      "country": "brazylia"
+    },
+    "zrh": {
+      "lat": 47.458282,
+      "lon": 8.555454,
+      "name": "Zurych, ZRH, Szwajcaria",
+      "country": "szwajcaria"
     }
   }
 }

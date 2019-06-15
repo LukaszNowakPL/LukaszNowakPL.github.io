@@ -24,6 +24,9 @@
     "b767": {
       "name": "Boeing 767"
     },
+    "b777": {
+      "name": "Boeing 777"
+    },
     "b787": {
       "name": "Boeing 787"
     },
