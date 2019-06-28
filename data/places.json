@@ -3197,7 +3197,13 @@
       "lat": 39.918594,
       "lon": 116.39702,
       "name": "Pekin",
-      "country": "chiny"
+      "country": "chiny",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/2rxHdCQdHALWDwd58",
+          "tittle": "Pekin, Beijing, 北京"
+        }
+      ]
     },
     "wielki_mur_chinski": {
       "lat": 40.35315,
@@ -3209,55 +3215,109 @@
       "lat": 21.029223,
       "lon": 105.852401,
       "name": "Hanoi",
-      "country": "wietnam"
+      "country": "wietnam",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/zVeqycBYCtgHVTDD7",
+          "tittle": "Hanoi, Hà Nội"
+        }
+      ]
     },
     "sapa": {
       "lat": 22.334769,
       "lon": 103.841177,
       "name": "Sa Pa",
-      "country": "wietnam"
+      "country": "wietnam",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/ZbWGnhPoSHSN15Vy8",
+          "tittle": "Sapa, Sa Pa"
+        }
+      ]
     },
     "cat_ba": {
       "lat": 20.724222,
       "lon": 107.049528,
       "name": "Cat Ba",
-      "country": "wietnam"
+      "country": "wietnam",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/rK3AKfcYBmD6wPhA8",
+          "tittle": "Cat Ba, Cát Bà"
+        }
+      ]
     },
     "hajfong": {
       "lat": 20.857328,
       "lon": 106.681771,
       "name": "Haiphong",
-      "country": "wietnam"
+      "country": "wietnam",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/5z2MtAXUX8hx3o3c9",
+          "tittle": "Hajfong, Haiphong, Hải Phòng"
+        }
+      ]
     },
     "hoi_an": {
       "lat": 15.876798,
       "lon": 108.32895,
       "name": "Hoi An",
-      "country": "wietnam"
+      "country": "wietnam",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/b1gPiLfpHfYpWc2X7",
+          "tittle": "Hoi An, Hội An"
+        }
+      ]
     },
     "hue": {
       "lat": 16.469926,
       "lon": 107.578548,
       "name": "Hue",
-      "country": "wietnam"
+      "country": "wietnam",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/k55woECxg9K6c7Ev7",
+          "tittle": "Hue, Huế"
+        }
+      ]
     },
     "da_nang": {
       "lat": 16.069564,
       "lon": 108.218353,
       "name": "Da Nang",
-      "country": "wietnam"
+      "country": "wietnam",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/BEbCa8MXRpNbmB9i6",
+          "tittle": "Da Nang, Đà Nẵng"
+        }
+      ]
     },
     "can_tho": {
       "lat": 10.03199,
       "lon": 105.785331,
       "name": "Can Tho (Delta Mekongu)",
-      "country": "wietnam"
+      "country": "wietnam",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/2Y3NaUa6GwyfPRMM7",
+          "tittle": "Can Tho, Cần Thơ"
+        }
+      ]
     },
     "ho_chi_minh": {
       "lat": 10.776498,
       "lon": 106.698917,
       "name": "Ho Chi Minh City / Sajgon",
-      "country": "wietnam"
+      "country": "wietnam",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/enymLLMo6Ek6HZL49",
+          "tittle": "Ho Chi Minh, Sajgon, HCMC, Saigon, Thành phố Hồ Chí Minh, Sài Gòn"
+        }
+      ]
     },
     "polajny": {
       "lat": 53.796676,

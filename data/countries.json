@@ -380,10 +380,24 @@
       "name": "Ukraina"
     },
     "chiny": {
-      "name": "Chiny"
+      "name": "Chiny",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/CzSHw8QVefNNU95v8",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
     },
     "wietnam": {
-      "name": "Wietnam"
+      "name": "Wietnam",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/bHo7CauhoHXz6XY87",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
     },
     "estonia": {
       "name": "Estonia",
