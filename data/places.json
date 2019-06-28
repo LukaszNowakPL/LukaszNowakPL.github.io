@@ -3347,49 +3347,97 @@
       "lat": 27.704582,
       "lon": 85.307736,
       "name": "Kathmandu",
-      "country": "nepal"
+      "country": "nepal",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/9tnVKnjSKoBa2sVs5",
+          "tittle": "Katmandu, Kathmandu, काठमाडौं"
+        }
+      ]
     },
     "bhaktapur": {
       "lat": 27.671853,
       "lon": 85.428424,
       "name": "Bhaktapur",
-      "country": "nepal"
+      "country": "nepal",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/qxyGXFSVwsWZEcRc9",
+          "tittle": "Bhaktapur, भक्तपुर"
+        }
+      ]
     },
     "pharping": {
       "lat": 27.612877,
       "lon": 85.265193,
       "name": "Pharping",
-      "country": "nepal"
+      "country": "nepal",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/nQs3xNeNdeaAxiAK9",
+          "tittle": "Pharping"
+        }
+      ]
     },
     "pokhara": {
       "lat": 28.205803,
       "lon": 83.962138,
       "name": "Pokhara",
-      "country": "nepal"
+      "country": "nepal",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/knNEyGEzQFqTK7wj7",
+          "tittle": "Pokara, Pokhara, पोखरा"
+        }
+      ]
     },
     "park_narodowy_annapurna": {
       "lat": 28.310045,
       "lon": 83.791029,
       "name": "Obszar Chroniony Annapurny",
-      "country": "nepal"
+      "country": "nepal",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Ez8yA8e4852sig3e8",
+          "tittle": "Himalaje"
+        }
+      ]
     },
     "poon_hill": {
       "lat": 28.40006,
       "lon": 83.689483,
       "name": "Poon Hill",
-      "country": "nepal"
+      "country": "nepal",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Ez8yA8e4852sig3e8",
+          "tittle": "Himalaje"
+        }
+      ]
     },
     "sauraha": {
       "lat": 27.585056,
       "lon": 84.504755,
       "name": "Sauraha",
-      "country": "nepal"
+      "country": "nepal",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/R56TeGFp8a7DAiat7",
+          "tittle": "Sauraha, सौराहा"
+        }
+      ]
     },
     "park_narodowy_citwan": {
       "lat": 27.533576,
       "lon": 84.452034,
       "name": "Park Narodowy Ćitwan",
-      "country": "nepal"
+      "country": "nepal",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/kJzAKAp41ZJLqaD59",
+          "tittle": "Park Narodowy Ćitwan, Chitwan"
+        }
+      ]
     },
     "bodo": {
       "lat": 67.280665,
