@@ -3450,6 +3450,102 @@
       "lon": 12.984058,
       "name": "Å",
       "country": "norwegia"
+    },
+    "bogota": {
+      "lat": 4.605827,
+      "lon": -74.08103,
+      "name": "Bogota",
+      "country": "kolumbia"
+    },
+    "santa_marta": {
+      "lat": 11.240112,
+      "lon": -74.21158,
+      "name": "Santa Marta",
+      "country": "kolumbia"
+    },
+    "park_tayrona": {
+      "lat": 11.306588,
+      "lon": -74.065842,
+      "name": "Park Tayrona",
+      "country": "kolumbia"
+    },
+    "minca": {
+      "lat": 11.14377,
+      "lon": -74.116398,
+      "name": "Minca",
+      "country": "kolumbia"
+    },
+    "cartagena": {
+      "lat": 10.424889,
+      "lon": -75.547707,
+      "name": "Kartagena",
+      "country": "kolumbia"
+    },
+    "medellin": {
+      "lat": 6.247164,
+      "lon": -75.573733,
+      "name": "Medellín",
+      "country": "kolumbia"
+    },
+    "guatape": {
+      "lat": 6.233164,
+      "lon": -75.159466,
+      "name": "Guatapé",
+      "country": "kolumbia"
+    },
+    "manizales": {
+      "lat": 5.068552,
+      "lon": -75.511721,
+      "name": "Manizales",
+      "country": "kolumbia"
+    },
+    "zona_cafetera": {
+      "lat": 5.08534,
+      "lon": -75.456718,
+      "name": "Zona Cafetera",
+      "country": "kolumbia"
+    },
+    "salento": {
+      "lat": 4.638039,
+      "lon": -75.570455,
+      "name": "Salento",
+      "country": "kolumbia"
+    },
+    "valle_de_cocora": {
+      "lat": 4.638543,
+      "lon": -75.489406,
+      "name": "Valle de Cocora",
+      "country": "kolumbia"
+    },
+    "pereira": {
+      "lat": 4.80939,
+      "lon": -75.690069,
+      "name": "Pereira",
+      "country": "kolumbia"
+    },
+    "neiva": {
+      "lat": 2.934533,
+      "lon": -75.281659,
+      "name": "Neiva",
+      "country": "kolumbia"
+    },
+    "pustynia_tatacoa": {
+      "lat": 3.237346,
+      "lon": -75.161755,
+      "name": "Pustynia Tatacoa",
+      "country": "kolumbia"
+    },
+    "popayan": {
+      "lat": 2.445207,
+      "lon": -76.614526,
+      "name": "Popayán",
+      "country": "kolumbia"
+    },
+    "ipiales": {
+      "lat": 0.825921,
+      "lon": -77.6395,
+      "name": "Ipiales",
+      "country": "kolumbia"
     }
   }
 }

@@ -1,6 +1,38 @@
 {
   "trips": [
     {
+      "name": "W stronę Ekwadoru",
+      "date": ["2019-08-17", "2019-08-23"],
+      "places": ["neiva", "pustynia_tatacoa", "popayan", "ipiales"],
+      "routes": []
+    },
+    {
+      "name": "Medellin i Zona Cafetera",
+      "date": ["2019-08-06", "2019-08-15"],
+      "places": [
+        "medellin",
+        "guatape",
+        "manizales",
+        "zona_cafetera",
+        "salento",
+        "valle_de_cocora",
+        "pereira"
+      ],
+      "routes": [
+        { "dep": "eoh", "arr": "mzl", "airline": "ve", "type": "at4" },
+        { "dep": "pei", "arr": "bog", "airline": "ve", "type": "at4" }
+      ]
+    },
+    {
+      "name": "Północne wybrzeże Kolumbii",
+      "date": ["2019-07-28", "2019-08-06"],
+      "places": ["santa_marta", "park_tayrona", "minca", "cartagena"],
+      "routes": [
+        { "dep": "bog", "arr": "smr", "airline": "vh", "type": "a320" },
+        { "dep": "ctg", "arr": "bog", "airline": "p5", "type": "b737" }
+      ]
+    },
+    {
       "name": "151 dni w drodze",
       "description": "Likwidacja stanowiska i zarazem utrata pracy stały się przyczynkiem do spełnienia jednego z marzeń: kilkumiesięcznej podróży. Po posortowaniu kilku spraw zdecydowaliśmy postawić na Amerykę Południową. Niemal pół roku tułaczki wzdłuż zachodniego wybrzeża. Jej plan tworzył się w trakcie realizacji a ograniczeniem były jedynie finanse i data lotu powrotnego. Ten wyjazd jest wspólnym nawiasem całej podróży. Poszczególne jej części rozpisuję na kolejne podwyjazdy.",
       "date": ["2019-07-25", "2019-12-22"],
@@ -11,23 +43,6 @@
         { "dep": "eze", "arr": "gru", "airline": "la", "type": "a321" },
         { "dep": "gru", "arr": "zrh", "airline": "lx", "type": "b777" },
         { "dep": "zrh", "arr": "waw", "airline": "lx", "type": "a319" }
-      ]
-    },
-    {
-      "name": "Lofoty - podejście n-te",
-      "date": ["2019-06-26", "2019-07-03"],
-      "places": ["bodo", "a"],
-      "routes": [
-        {
-          "dep": "gdn",
-          "arr": "boo",
-          "airline": "w6"
-        },
-        {
-          "dep": "boo",
-          "arr": "gdn",
-          "airline": "w6"
-        }
       ]
     },
     {
@@ -2842,13 +2857,38 @@
       "hidden": true,
       "name": "kontener na przyszłe",
       "date": ["2019-12-31", "2019-12-31"],
-      "places": ["rymanow"]
+      "places": ["bogota"]
     },
     {
       "hidden": true,
       "name": "kontener",
       "date": ["2019-01-01", "2019-01-01"],
-      "places": ["rzeszow", "wroclaw", "polkowice", "polajny"]
+      "places": [
+        "rzeszow",
+        "wroclaw",
+        "polkowice",
+        "polajny",
+        "rymanow",
+        "gdansk"
+      ],
+      "routes": [
+        {
+          "notka": "Podróż na Lofoty została skasowana, ponieważ zdecydowaliśmy się na pięciomiesięczny wyjazd do Ameryki Południowej. W związku z bezpłatnym urlopem Doroty ciężko by było nalegać na jeszcze tygodniowy płatny i musieliśmy poddać ten wyjazd.",
+          "dep": "gdn",
+          "arr": "boo",
+          "airline": "w6",
+          "type": "a321",
+          "isCanceled": true
+        },
+        {
+          "notka": "Podróż na Lofoty została skasowana, ponieważ zdecydowaliśmy się na pięciomiesięczny wyjazd do Ameryki Południowej. W związku z bezpłatnym urlopem Doroty ciężko by było nalegać na jeszcze tygodniowy płatny i musieliśmy poddać ten wyjazd.",
+          "dep": "boo",
+          "arr": "gdn",
+          "airline": "w6",
+          "type": "a321",
+          "isCanceled": true
+        }
+      ]
     },
     {
       "hidden": true,

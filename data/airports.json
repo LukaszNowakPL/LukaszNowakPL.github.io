@@ -849,6 +849,48 @@
       "lon": 8.555454,
       "name": "Zurych, ZRH, Szwajcaria",
       "country": "szwajcaria"
+    },
+    "smr": {
+      "lat": 11.117364,
+      "lon": -74.232665,
+      "name": "Santa Marta, SMR, Kolumbia",
+      "country": "kolumbia"
+    },
+    "ctg": {
+      "lat": 10.446558,
+      "lon": -75.516411,
+      "name": "Cartagena, CTG, Kolumbia",
+      "country": "kolumbia"
+    },
+    "mde": {
+      "lat": 6.170902,
+      "lon": -75.427663,
+      "name": "Medellin, MDE, Kolumbia",
+      "country": "kolumbia"
+    },
+    "eoh": {
+      "lat": 6.219376,
+      "lon": -75.587733,
+      "name": "Medellin-Olaya Herrera, EOH, Kolumbia",
+      "country": "kolumbia"
+    },
+    "mzl": {
+      "lat": 5.029218,
+      "lon": -75.469197,
+      "name": "Manizales, MZL, Kolumbia",
+      "country": "kolumbia"
+    },
+    "pei": {
+      "lat": 4.815306,
+      "lon": -75.736327,
+      "name": "Pereira, PEI, Kolumbia",
+      "country": "kolumbia"
+    },
+    "nva": {
+      "lat": 2.94705,
+      "lon": -75.292716,
+      "name": "Neiva, NVA, Kolumbia",
+      "country": "kolumbia"
     }
   }
 }

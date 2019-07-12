@@ -86,6 +86,15 @@
     },
     "lx": {
       "name": "Swiss"
+    },
+    "vh": {
+      "name": "Viva Air"
+    },
+    "p5": {
+      "name": "Wingo"
+    },
+    "ve": {
+      "name": "EasyFly"
     }
   }
 }
