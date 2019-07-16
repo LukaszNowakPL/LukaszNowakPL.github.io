@@ -4,7 +4,7 @@
       "name": "W stronę Ekwadoru",
       "date": ["2019-08-17", "2019-08-23"],
       "places": ["neiva", "pustynia_tatacoa", "popayan", "ipiales"],
-      "routes": []
+      "routes": [{ "dep": "bog", "arr": "nva", "airline": "ve", "type": "at7" }]
     },
     {
       "name": "Medellin i Zona Cafetera",
@@ -19,6 +19,7 @@
         "pereira"
       ],
       "routes": [
+        { "dep": "bog", "arr": "mde", "airline": "vh", "type": "a320" },
         { "dep": "eoh", "arr": "mzl", "airline": "ve", "type": "at4" },
         { "dep": "pei", "arr": "bog", "airline": "ve", "type": "at4" }
       ]
@@ -36,7 +37,7 @@
       "name": "151 dni w drodze",
       "description": "Likwidacja stanowiska i zarazem utrata pracy stały się przyczynkiem do spełnienia jednego z marzeń: kilkumiesięcznej podróży. Po posortowaniu kilku spraw zdecydowaliśmy postawić na Amerykę Południową. Niemal pół roku tułaczki wzdłuż zachodniego wybrzeża. Jej plan tworzył się w trakcie realizacji a ograniczeniem były jedynie finanse i data lotu powrotnego. Ten wyjazd jest wspólnym nawiasem całej podróży. Poszczególne jej części rozpisuję na kolejne podwyjazdy.",
       "date": ["2019-07-25", "2019-12-22"],
-      "places": [],
+      "places": ["bogota"],
       "routes": [
         { "dep": "waw", "arr": "yyz", "airline": "ac", "type": "b767" },
         { "dep": "yyz", "arr": "bog", "airline": "ac", "type": "b767" },
