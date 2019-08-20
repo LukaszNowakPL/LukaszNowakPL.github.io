@@ -436,7 +436,14 @@
       "name": "Kanada"
     },
     "kolumbia": {
-      "name": "Kolumbia"
+      "name": "Kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/cSQsJ9DzCBTNK4aL9",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
     },
     "argentyna": {
       "name": "Argentyna"

@@ -2,19 +2,19 @@
   "trips": [
     {
       "name": "W stronę Ekwadoru",
-      "date": ["2019-08-17", "2019-08-23"],
+      "date": ["2019-08-17", "2019-08-22"],
       "places": ["neiva", "pustynia_tatacoa", "popayan", "ipiales"],
       "routes": [{ "dep": "bog", "arr": "nva", "airline": "ve", "type": "at7" }]
     },
     {
       "name": "Medellin i Zona Cafetera",
-      "date": ["2019-08-06", "2019-08-15"],
+      "date": ["2019-08-08", "2019-08-15"],
       "places": [
         "medellin",
         "guatape",
         "manizales",
-        "zona_cafetera",
         "salento",
+        "filandia",
         "valle_de_cocora",
         "pereira"
       ],
@@ -27,7 +27,13 @@
     {
       "name": "Północne wybrzeże Kolumbii",
       "date": ["2019-07-28", "2019-08-06"],
-      "places": ["santa_marta", "park_tayrona", "minca", "cartagena"],
+      "places": [
+        "santa_marta",
+        "park_tayrona",
+        "minca",
+        "cartagena",
+        "playa_blanca"
+      ],
       "routes": [
         { "dep": "bog", "arr": "smr", "airline": "vh", "type": "a320" },
         { "dep": "ctg", "arr": "bog", "airline": "p5", "type": "b737" }

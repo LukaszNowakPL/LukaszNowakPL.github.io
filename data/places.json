@@ -3455,85 +3455,181 @@
       "lat": 4.605827,
       "lon": -74.08103,
       "name": "Bogota",
-      "country": "kolumbia"
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/ayXns8xR8y6yVJwZ7",
+          "tittle": "Bogota, Bogotá"
+        }
+      ]
     },
     "santa_marta": {
       "lat": 11.240112,
       "lon": -74.21158,
       "name": "Santa Marta",
-      "country": "kolumbia"
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/AhRCzyDXn3Cn3fB78",
+          "tittle": "Santa Marta"
+        }
+      ]
     },
     "park_tayrona": {
       "lat": 11.306588,
       "lon": -74.065842,
       "name": "Park Tayrona",
-      "country": "kolumbia"
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/2johFvHKXQHdurev6",
+          "tittle": "Park Tayrona, Tayrona National Park, Parque nacional natural Tayrona"
+        }
+      ]
     },
     "minca": {
       "lat": 11.14377,
       "lon": -74.116398,
       "name": "Minca",
-      "country": "kolumbia"
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/TaSz8efF39hzeXCQ7",
+          "tittle": "Minca"
+        }
+      ]
     },
     "cartagena": {
       "lat": 10.424889,
       "lon": -75.547707,
       "name": "Kartagena",
-      "country": "kolumbia"
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/JjgFyUCWFHRa9nUdA",
+          "tittle": "Kartagena, Cartagena"
+        }
+      ]
+    },
+    "playa_blanca": {
+      "lat": 10.2305933,
+      "lon": -75.6052902,
+      "name": "Playa Blanca",
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/NRQF212HtzmG535x7",
+          "tittle": "Playa Blanca"
+        }
+      ]
     },
     "medellin": {
       "lat": 6.247164,
       "lon": -75.573733,
       "name": "Medellín",
-      "country": "kolumbia"
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/9GMmz4goQate6vDZ9",
+          "tittle": "Medellín"
+        }
+      ]
     },
     "guatape": {
       "lat": 6.233164,
       "lon": -75.159466,
       "name": "Guatapé",
-      "country": "kolumbia"
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/eJi1FJC8UBs2fmJu6",
+          "tittle": "Guatapé"
+        }
+      ]
     },
     "manizales": {
       "lat": 5.068552,
       "lon": -75.511721,
       "name": "Manizales",
-      "country": "kolumbia"
-    },
-    "zona_cafetera": {
-      "lat": 5.08534,
-      "lon": -75.456718,
-      "name": "Zona Cafetera",
-      "country": "kolumbia"
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/yPoYZpokWPJVo5BN8",
+          "tittle": "Manizales"
+        }
+      ]
     },
     "salento": {
       "lat": 4.638039,
       "lon": -75.570455,
       "name": "Salento",
-      "country": "kolumbia"
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/KhyFw4V8zYLoNNyYA",
+          "tittle": "Salento"
+        }
+      ]
     },
     "valle_de_cocora": {
       "lat": 4.638543,
       "lon": -75.489406,
       "name": "Valle de Cocora",
-      "country": "kolumbia"
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/sRxJta7s7sFmTHgV7",
+          "tittle": "Valle de Cocora, Cocora Valley"
+        }
+      ]
+    },
+    "filandia": {
+      "lat": 4.6760734,
+      "lon": -75.6584562,
+      "name": "Filandia",
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/drfwroVrBK8YGopB9",
+          "tittle": "Filandia"
+        }
+      ]
     },
     "pereira": {
       "lat": 4.80939,
       "lon": -75.690069,
       "name": "Pereira",
-      "country": "kolumbia"
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/o1L9zvk3suuqHT2K8",
+          "tittle": "Pereira"
+        }
+      ]
     },
     "neiva": {
       "lat": 2.934533,
       "lon": -75.281659,
       "name": "Neiva",
-      "country": "kolumbia"
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/HLu9Vp7KHgUMNpPb8",
+          "tittle": "Neiva"
+        }
+      ]
     },
     "pustynia_tatacoa": {
       "lat": 3.237346,
       "lon": -75.161755,
       "name": "Pustynia Tatacoa",
-      "country": "kolumbia"
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/r34cfEW4WFqFNzjYA",
+          "tittle": "Pustynia Tatacoa, Tatacoa Desert, Desierto de la Tatacoa"
+        }
+      ]
     },
     "popayan": {
       "lat": 2.445207,
