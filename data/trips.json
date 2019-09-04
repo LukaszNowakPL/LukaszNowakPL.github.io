@@ -3,6 +3,7 @@
     {
       "name": "Wakacje od urlopu",
       "date": ["2019-09-10", "2019-09-17"],
+      "places": [],
       "routes": [
         { "dep": "gye", "arr": "gps", "airline": "eq", "type": "emb190" },
         { "dep": "scy", "arr": "gye", "airline": "eq", "type": "a319" }
