@@ -1,10 +1,48 @@
 {
   "trips": [
     {
+      "name": "Wakacje od urlopu",
+      "date": ["2019-09-10", "2019-09-17"],
+      "routes": [
+        { "dep": "gye", "arr": "gps", "airline": "eq", "type": "emb190" },
+        { "dep": "scy", "arr": "gye", "airline": "eq", "type": "a319" }
+      ]
+    },
+    {
+      "name": "Ekwador",
+      "date": ["2019-08-23", "2019-09-19"],
+      "places": [
+        "otavalo",
+        "cuicocha",
+        "quito",
+        "pichincha",
+        "latacunga",
+        "quilotoa",
+        "banos",
+        "riobamba",
+        "cuenca",
+        "guayaquil"
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/WotgFbTPZ9zxADTi8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
       "name": "W stronę Ekwadoru",
-      "date": ["2019-08-17", "2019-08-22"],
+      "date": ["2019-08-17", "2019-08-23"],
       "places": ["neiva", "pustynia_tatacoa", "popayan", "ipiales"],
-      "routes": [{ "dep": "bog", "arr": "nva", "airline": "ve", "type": "at7" }]
+      "routes": [
+        { "dep": "bog", "arr": "nva", "airline": "ve", "type": "at7" }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/asTBnnqYo6vwb5wt9",
+          "source": "Google Photos"
+        }
+      ]
     },
     {
       "name": "Medellin i Zona Cafetera",
@@ -22,6 +60,12 @@
         { "dep": "bog", "arr": "mde", "airline": "vh", "type": "a320" },
         { "dep": "eoh", "arr": "mzl", "airline": "ve", "type": "at4" },
         { "dep": "pei", "arr": "bog", "airline": "ve", "type": "at4" }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/asTBnnqYo6vwb5wt9",
+          "source": "Google Photos"
+        }
       ]
     },
     {
@@ -37,6 +81,12 @@
       "routes": [
         { "dep": "bog", "arr": "smr", "airline": "vh", "type": "a320" },
         { "dep": "ctg", "arr": "bog", "airline": "p5", "type": "b737" }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/asTBnnqYo6vwb5wt9",
+          "source": "Google Photos"
+        }
       ]
     },
     {
@@ -50,6 +100,12 @@
         { "dep": "eze", "arr": "gru", "airline": "la", "type": "a321" },
         { "dep": "gru", "arr": "zrh", "airline": "lx", "type": "b777" },
         { "dep": "zrh", "arr": "waw", "airline": "lx", "type": "a319" }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/QUPZvLPixYf9uUuz9",
+          "source": "Google Photos"
+        }
       ]
     },
     {

@@ -865,7 +865,7 @@
     "mde": {
       "lat": 6.170902,
       "lon": -75.427663,
-      "name": "Medellin, MDE, Kolumbia",
+      "name": "Medellín, MDE, Kolumbia",
       "country": "kolumbia"
     },
     "eoh": {
@@ -891,6 +891,24 @@
       "lon": -75.292716,
       "name": "Neiva, NVA, Kolumbia",
       "country": "kolumbia"
+    },
+    "gye": {
+      "lat": -2.149458,
+      "lon": -79.881634,
+      "name": "Guayaquil, GYE, Ekwador",
+      "country": "ekwador"
+    },
+    "gps": {
+      "lat": -0.446214,
+      "lon": -90.270528,
+      "name": "Baltra, GPS, Ekwador",
+      "country": "ekwador"
+    },
+    "scy": {
+      "lat": -0.908968,
+      "lon": -89.616836,
+      "name": "San Cristóbal, SCY, Ekwador",
+      "country": "ekwador"
     }
   }
 }

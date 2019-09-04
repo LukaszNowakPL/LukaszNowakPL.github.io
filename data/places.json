@@ -3635,13 +3635,121 @@
       "lat": 2.445207,
       "lon": -76.614526,
       "name": "Popayán",
-      "country": "kolumbia"
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/cmF9yXZzc7EkTh8A6",
+          "tittle": "Popayán"
+        }
+      ]
     },
     "ipiales": {
       "lat": 0.825921,
       "lon": -77.6395,
       "name": "Ipiales",
-      "country": "kolumbia"
+      "country": "kolumbia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/W9nDwhGxEKeeE4Kc8",
+          "tittle": "Ipiales"
+        }
+      ]
+    },
+    "otavalo": {
+      "lat": 0.226936,
+      "lon": -78.264113,
+      "name": "Otavalo",
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/REMAHJ5QMGVyvSHA8",
+          "tittle": "Otavalo"
+        }
+      ]
+    },
+    "cuicocha": {
+      "lat": 0.298904,
+      "lon": -78.362689,
+      "name": "Jezioro Cuicocha",
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/uLLkFKaZ94PsYZjY6",
+          "tittle": "Jezioro Cuicocha"
+        }
+      ]
+    },
+    "quito": {
+      "lat": -0.215057,
+      "lon": -78.507618,
+      "name": "Quito",
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/WJWLULZdYZm2DoUd6",
+          "tittle": "Quito"
+        }
+      ]
+    },
+    "pichincha": {
+      "lat": -0.162627,
+      "lon": -78.567335,
+      "name": "Rucu Pichincha",
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/8Gjcd8NCS1eJgVjo9",
+          "tittle": "Wulkan Pichincha"
+        }
+      ]
+    },
+    "latacunga": {
+      "lat": -0.933423,
+      "lon": -78.615022,
+      "name": "Latacunga",
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/LxfXCQ3b69A3EMoz8",
+          "tittle": "Latacunga"
+        }
+      ]
+    },
+    "quilotoa": {
+      "lat": -0.844608,
+      "lon": -78.90961,
+      "name": "Jezioro Quilotoa",
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/qC9paTwEXXVqFdpR6",
+          "tittle": "Quilotoa"
+        }
+      ]
+    },
+    "banos": {
+      "lat": -1.396544,
+      "lon": -78.423479,
+      "name": "Baños, Baños de Agua Santa",
+      "country": "ekwador"
+    },
+    "riobamba": {
+      "lat": -1.672057,
+      "lon": -78.650495,
+      "name": "Riobamba",
+      "country": "ekwador"
+    },
+    "cuenca": {
+      "lat": -2.900598,
+      "lon": -79.014622,
+      "name": "Cuenca",
+      "country": "ekwador"
+    },
+    "guayaquil": {
+      "lat": -2.194728,
+      "lon": -79.882293,
+      "name": "Guayaquil",
+      "country": "ekwador"
     }
   }
 }
