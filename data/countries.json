@@ -445,6 +445,25 @@
         }
       ]
     },
+    "ekwador": {
+      "name": "Ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/QeaxMZWN4PTViVLLA",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "peru": {
+      "name": "Peru"
+    },
+    "boliwia": {
+      "name": "Boliwia"
+    },
+    "chile": {
+      "name": "Chile"
+    },
     "argentyna": {
       "name": "Argentyna"
     },
