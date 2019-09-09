@@ -3731,25 +3731,67 @@
       "lat": -1.396544,
       "lon": -78.423479,
       "name": "Baños, Baños de Agua Santa",
-      "country": "ekwador"
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/TyauM7MZeHr6hUEL8",
+          "tittle": "Baños"
+        }
+      ]
     },
     "riobamba": {
       "lat": -1.672057,
       "lon": -78.650495,
       "name": "Riobamba",
-      "country": "ekwador"
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/JnDHWHJLBFQ3WbrL7",
+          "tittle": "Riobamba"
+        }
+      ]
+    },
+    "chimborazo": {
+      "lat": -1.469559,
+      "lon": -78.817025,
+      "name": "Wulkan Chimborazo",
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/iuq3enEQWcCVhp8J6",
+          "tittle": "Chimborazo"
+        }
+      ]
     },
     "cuenca": {
       "lat": -2.900598,
       "lon": -79.014622,
       "name": "Cuenca",
-      "country": "ekwador"
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/yh4eKdsPf3MUaQt68",
+          "tittle": "Cuenca"
+        }
+      ]
     },
     "guayaquil": {
       "lat": -2.194728,
       "lon": -79.882293,
       "name": "Guayaquil",
       "country": "ekwador"
+    },
+    "piura": {
+      "lat": -5.184363,
+      "lon": -80.645175,
+      "name": "Piura",
+      "country": "peru"
+    },
+    "lima": {
+      "lat": -12.062854,
+      "lon": -77.034466,
+      "name": "Lima",
+      "country": "peru"
     }
   }
 }

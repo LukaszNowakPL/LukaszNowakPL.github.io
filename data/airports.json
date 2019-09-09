@@ -909,6 +909,18 @@
       "lon": -89.616836,
       "name": "San Cristóbal, SCY, Ekwador",
       "country": "ekwador"
+    },
+    "piu": {
+      "lat": -5.206672,
+      "lon": -80.617714,
+      "name": "Piura, PIU, Peru",
+      "country": "peru"
+    },
+    "lim": {
+      "lat": -12.023622,
+      "lon": -77.110588,
+      "name": "Lima, LIM, Peru",
+      "country": "peru"
     }
   }
 }

@@ -1,6 +1,14 @@
 {
   "trips": [
     {
+      "name": "W stronę Limy",
+      "date": ["2019-09-19", "2019-09-21"],
+      "places": ["piura", "lima"],
+      "routes": [
+        { "dep": "piu", "arr": "lim", "airline": "vh", "type": "a320" }
+      ]
+    },
+    {
       "name": "Wakacje od urlopu",
       "date": ["2019-09-10", "2019-09-17"],
       "places": [],
@@ -21,6 +29,7 @@
         "quilotoa",
         "banos",
         "riobamba",
+        "chimborazo",
         "cuenca",
         "guayaquil"
       ],
