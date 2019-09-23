@@ -921,6 +921,18 @@
       "lon": -77.110588,
       "name": "Lima, LIM, Peru",
       "country": "peru"
+    },
+    "aqp": {
+      "lat": -16.343868,
+      "lon": -71.567956,
+      "name": "Arequipa, AQP, Peru",
+      "country": "peru"
+    },
+    "cuz": {
+      "lat": -13.536593,
+      "lon": -71.943571,
+      "name": "Cusco, CUZ, Peru",
+      "country": "peru"
     }
   }
 }

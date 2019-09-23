@@ -456,7 +456,14 @@
       ]
     },
     "peru": {
-      "name": "Peru"
+      "name": "Peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/HfjdiyKXa7NRKbkF8",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
     },
     "boliwia": {
       "name": "Boliwia"

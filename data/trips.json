@@ -1,9 +1,31 @@
 {
   "trips": [
     {
+      "name": "Machu Picchu i okolice",
+      "date": ["2019-10-06", "2019-10-18"],
+      "places": ["cusco", "machu_picchu"],
+      "routes": []
+    },
+    {
+      "name": "Kanion Colca",
+      "date": ["2019-10-01", "2019-10-05"],
+      "places": ["arequipa", "kanion_colca"],
+      "routes": [
+        { "dep": "lim", "arr": "aqp", "airline": "vh", "type": "a320" },
+        { "dep": "aqp", "arr": "lim", "airline": "la", "type": "a320" },
+        { "dep": "lim", "arr": "cuz", "airline": "la", "type": "a320" }
+      ]
+    },
+    {
+      "name": "Cordillera Blanca",
+      "date": ["2019-09-22", "2019-09-28"],
+      "places": ["huaraz", "cordillera_blanca"],
+      "routes": []
+    },
+    {
       "name": "W stronę Limy",
       "date": ["2019-09-19", "2019-09-21"],
-      "places": ["piura", "lima"],
+      "places": ["mancora", "piura", "lima"],
       "routes": [
         { "dep": "piu", "arr": "lim", "airline": "vh", "type": "a320" }
       ]
@@ -11,7 +33,14 @@
     {
       "name": "Wakacje od urlopu",
       "date": ["2019-09-10", "2019-09-17"],
-      "places": [],
+      "places": [
+        "baltra",
+        "santa_cruz",
+        "isabela",
+        "santa_rosa",
+        "san_cristobal",
+        "los_tuneles"
+      ],
       "routes": [
         { "dep": "gye", "arr": "gps", "airline": "eq", "type": "emb190" },
         { "dep": "scy", "arr": "gye", "airline": "eq", "type": "a319" }
@@ -19,7 +48,7 @@
     },
     {
       "name": "Ekwador",
-      "date": ["2019-08-23", "2019-09-19"],
+      "date": ["2019-08-23", "2019-09-18"],
       "places": [
         "otavalo",
         "cuicocha",

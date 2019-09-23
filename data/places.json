@@ -3779,18 +3779,162 @@
       "lat": -2.194728,
       "lon": -79.882293,
       "name": "Guayaquil",
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/wrmiW2FaYUD3kYXS8",
+          "tittle": "Guayaquil"
+        }
+      ]
+    },
+    "baltra": {
+      "lat": -0.470091,
+      "lon": -90.271914,
+      "name": "Baltra",
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/B6GiWLXMfoZv2bJfA",
+          "tittle": "Baltra, Isla Baltra"
+        }
+      ]
+    },
+    "santa_cruz": {
+      "lat": -0.744646,
+      "lon": -90.315127,
+      "name": "Puerto Ayora, Santa Cruz",
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/AkftMNCDbTEeq7bB9",
+          "tittle": "Santa Cruz, Isla Santa Cruz"
+        },
+        {
+          "link": "https://photos.app.goo.gl/zxVW6qYAumnZ7nfC6",
+          "tittle": "Puerto Ayora"
+        }
+      ]
+    },
+    "isabela": {
+      "lat": -0.961345,
+      "lon": -90.959651,
+      "name": "Puerto Villamil, Isabela",
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Zei254HGUi3pcc429",
+          "tittle": "Isabela, Isla Isabela"
+        },
+        {
+          "link": "https://photos.app.goo.gl/SPyBWgJWwdPD7pDs7",
+          "tittle": "Puerto Villamil"
+        }
+      ]
+    },
+    "santa_rosa": {
+      "lat": -0.651838,
+      "lon": -90.406945,
+      "name": "Santa Rosa",
       "country": "ekwador"
+    },
+    "san_cristobal": {
+      "lat": -0.904371,
+      "lon": -89.609739,
+      "name": "Puerto Baquerizo Moreno, San Cristóbal",
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/sMfQPouSB1FY1c2q6",
+          "tittle": "Puerto Baquerizo Moreno"
+        },
+        {
+          "link": "https://photos.app.goo.gl/hasGEokgn9MLPDV4A",
+          "tittle": "San Cristóbal, Isla de San Cristóbal"
+        }
+      ]
+    },
+    "los_tuneles": {
+      "lat": -1.032056,
+      "lon": -91.239327,
+      "name": "Los Tuneles",
+      "country": "ekwador",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Zei254HGUi3pcc429",
+          "tittle": "Isabela, Isla Isabela"
+        }
+      ]
+    },
+    "mancora": {
+      "lat": -4.107477,
+      "lon": -81.056002,
+      "name": "Máncora",
+      "country": "peru"
     },
     "piura": {
       "lat": -5.184363,
       "lon": -80.645175,
       "name": "Piura",
-      "country": "peru"
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/KYL1JAgFMmEPe5fQA",
+          "tittle": "Piura"
+        }
+      ]
     },
     "lima": {
       "lat": -12.062854,
       "lon": -77.034466,
       "name": "Lima",
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/DQJLPeyKcbbVeuCK7",
+          "tittle": "Lima"
+        }
+      ]
+    },
+    "huaraz": {
+      "lat": -9.521481,
+      "lon": -77.527835,
+      "name": "Huaraz",
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/iEARjJ81NGYRF6ZP7",
+          "tittle": "Huaraz"
+        }
+      ]
+    },
+    "cordillera_blanca": {
+      "lat": -9.170423,
+      "lon": -77.580086,
+      "name": "Cordillera Blanca",
+      "country": "peru"
+    },
+    "arequipa": {
+      "lat": -16.404046,
+      "lon": -71.53678,
+      "name": "Arequipa",
+      "country": "peru"
+    },
+    "kanion_colca": {
+      "lat": -15.609836,
+      "lon": -72.089398,
+      "name": "Cañón del Colca",
+      "country": "peru"
+    },
+    "cusco": {
+      "lat": -13.520504,
+      "lon": -71.965858,
+      "name": "Cusco",
+      "country": "peru"
+    },
+    "machu_picchu": {
+      "lat": -13.163256,
+      "lon": -72.54477,
+      "name": "Machu Picchu",
       "country": "peru"
     }
   }
