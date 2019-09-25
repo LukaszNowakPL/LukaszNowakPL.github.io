@@ -933,6 +933,12 @@
       "lon": -71.943571,
       "name": "Cusco, CUZ, Peru",
       "country": "peru"
+    },
+    "pem": {
+      "lat": -12.604188,
+      "lon": -69.221658,
+      "name": "Puerto Maldonado, PEM, Peru",
+      "country": "peru"
     }
   }
 }

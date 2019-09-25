@@ -3931,6 +3931,12 @@
       "name": "Cusco",
       "country": "peru"
     },
+    "puerto_maldonado": {
+      "lat": -12.595028,
+      "lon": -69.184264,
+      "name": "Puerto Maldonado",
+      "country": "peru"
+    },
     "machu_picchu": {
       "lat": -13.163256,
       "lon": -72.54477,
