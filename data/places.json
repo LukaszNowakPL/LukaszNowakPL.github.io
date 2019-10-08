@@ -3869,7 +3869,13 @@
       "lat": -4.107477,
       "lon": -81.056002,
       "name": "Máncora",
-      "country": "peru"
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/gHraFCnpsbxg4bYZA",
+          "tittle": "Máncora"
+        }
+      ]
     },
     "piura": {
       "lat": -5.184363,
@@ -3911,25 +3917,49 @@
       "lat": -9.170423,
       "lon": -77.580086,
       "name": "Cordillera Blanca",
-      "country": "peru"
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/DtZtyzisL9VMrGJD7",
+          "tittle": "Santa Cruz Trek"
+        }
+      ]
     },
     "arequipa": {
       "lat": -16.404046,
       "lon": -71.53678,
       "name": "Arequipa",
-      "country": "peru"
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/h89puPF4aDJtTg8n8",
+          "tittle": "Arequipa"
+        }
+      ]
     },
     "kanion_colca": {
       "lat": -15.609836,
       "lon": -72.089398,
-      "name": "Cañón del Colca",
-      "country": "peru"
+      "name": "Kanion Colca",
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/HzQ3NergFqFunGDx5",
+          "tittle": "Kanion Colca, Colca Canyon, Cañón del Colca"
+        }
+      ]
     },
     "cusco": {
       "lat": -13.520504,
       "lon": -71.965858,
       "name": "Cusco",
-      "country": "peru"
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Kad1WxLBMqo4ZhPeA",
+          "tittle": "Cusco, Cuzco"
+        }
+      ]
     },
     "puerto_maldonado": {
       "lat": -12.595028,
@@ -3942,6 +3972,36 @@
       "lon": -72.54477,
       "name": "Machu Picchu",
       "country": "peru"
+    },
+    "aguas_calientes": {
+      "lat": -13.155285,
+      "lon": -72.524292,
+      "name": "Aguas Calientes",
+      "country": "peru"
+    },
+    "ollantaytambo": {
+      "lat": -13.258607,
+      "lon": -72.263635,
+      "name": "Ollantaytambo",
+      "country": "peru"
+    },
+    "copacabana": {
+      "lat": -16.166038,
+      "lon": -69.086216,
+      "name": "Copacabana",
+      "country": "boliwia"
+    },
+    "jezioro_titicaca": {
+      "lat": -15.908753,
+      "lon": -69.183467,
+      "name": "Jezioro Titicaca",
+      "country": "boliwia"
+    },
+    "la_paz": {
+      "lat": -16.48843,
+      "lon": -68.120656,
+      "name": "La Paz",
+      "country": "boliwia"
     }
   }
 }
