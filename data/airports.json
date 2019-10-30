@@ -939,6 +939,24 @@
       "lon": -69.221658,
       "name": "Puerto Maldonado, PEM, Peru",
       "country": "peru"
+    },
+    "lpb": {
+      "lat": -16.510156,
+      "lon": -68.188295,
+      "name": "La Paz, LPB, Boliwia",
+      "country": "boliwia"
+    },
+    "cbb": {
+      "lat": -17.416966,
+      "lon": -66.17873,
+      "name": "Cochabamba, CBB, Boliwia",
+      "country": "boliwia"
+    },
+    "sre": {
+      "lat": -19.246896,
+      "lon": -65.150957,
+      "name": "Sucre, SRE, Boliwia",
+      "country": "boliwia"
     }
   }
 }

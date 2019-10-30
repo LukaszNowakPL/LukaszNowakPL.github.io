@@ -3949,6 +3949,18 @@
         }
       ]
     },
+    "palccoyo_mountain": {
+      "lat": -14.033241,
+      "lon": -71.248299,
+      "name": "Palccoyo Rainbow Mountain",
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/wz1mkgmE4QV5NfaG7",
+          "tittle": "Palccoyo Mountain, Rainbow Mountain"
+        }
+      ]
+    },
     "cusco": {
       "lat": -13.520504,
       "lon": -71.965858,
@@ -3965,42 +3977,174 @@
       "lat": -12.595028,
       "lon": -69.184264,
       "name": "Puerto Maldonado",
-      "country": "peru"
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/cj1KrVnCRN3bNfCR6",
+          "tittle": "Puerto Maldonado"
+        }
+      ]
+    },
+    "dzungla_tambopata": {
+      "lat": -12.913851,
+      "lon": -69.517698,
+      "name": "Dżungla Tambopata",
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/9iT8FF2m8tEMjf8S7",
+          "tittle": "Tambopata Jungle"
+        }
+      ]
     },
     "machu_picchu": {
       "lat": -13.163256,
       "lon": -72.54477,
       "name": "Machu Picchu",
-      "country": "peru"
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/CbDbAzVeTBcP4CXW8",
+          "tittle": "Machu Picchu"
+        }
+      ]
     },
     "aguas_calientes": {
       "lat": -13.155285,
       "lon": -72.524292,
       "name": "Aguas Calientes",
-      "country": "peru"
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/f37hLPnXWPL8VfTy5",
+          "tittle": "Aguas Calientes"
+        }
+      ]
+    },
+    "santa_teresa": {
+      "lat": -13.130627,
+      "lon": -72.594345,
+      "name": "Santa Teresa",
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/NYLDJarpArLG2ZhJ8",
+          "tittle": "Santa Teresa"
+        }
+      ]
     },
     "ollantaytambo": {
       "lat": -13.258607,
       "lon": -72.263635,
       "name": "Ollantaytambo",
-      "country": "peru"
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/gPW4L83qdmmqmfRa7",
+          "tittle": "Ollantaytambo"
+        }
+      ]
+    },
+    "pisac": {
+      "lat": -13.421357,
+      "lon": -71.850299,
+      "name": "Pisac",
+      "country": "peru",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/NwnPRtAaShWG1HMf8",
+          "tittle": "Pisac"
+        }
+      ]
     },
     "copacabana": {
       "lat": -16.166038,
       "lon": -69.086216,
       "name": "Copacabana",
-      "country": "boliwia"
+      "country": "boliwia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/qppGULFibopi47LL8",
+          "tittle": "Copacabana"
+        }
+      ]
     },
     "jezioro_titicaca": {
       "lat": -15.908753,
       "lon": -69.183467,
       "name": "Jezioro Titicaca",
-      "country": "boliwia"
+      "country": "boliwia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/XrwwMLAE8Hjyg7Cv6",
+          "tittle": "Jezioro Titicaca, Titicaca Lake, Lago Titicaca, Titiqaqa Qucha"
+        }
+      ]
     },
     "la_paz": {
       "lat": -16.48843,
       "lon": -68.120656,
       "name": "La Paz",
+      "country": "boliwia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/1X8MndSBe2Yzkxdc8",
+          "tittle": "La Paz"
+        }
+      ]
+    },
+    "valle_de_la_luna": {
+      "lat": -16.567313,
+      "lon": -68.093908,
+      "name": "Valle de la Luna",
+      "country": "boliwia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/rmq8wQkjSTMjWYTDA",
+          "tittle": "Valle de la Luna"
+        }
+      ]
+    },
+    "sajama": {
+      "lat": -18.135128,
+      "lon": -68.975414,
+      "name": "Park Narodowy Sajama",
+      "country": "boliwia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/wbTZAXvWAeJ81Rhp7",
+          "tittle": "Sajama National Park"
+        }
+      ]
+    },
+    "acotango": {
+      "lat": -18.383148,
+      "lon": -69.050153,
+      "name": "Acotango",
+      "country": "boliwia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/KovyBLzCrfarxy439",
+          "tittle": "Acotango"
+        }
+      ]
+    },
+    "sucre": {
+      "lat": -19.03458,
+      "lon": -65.257383,
+      "name": "Sucre",
+      "country": "boliwia"
+    },
+    "uyuni": {
+      "lat": -20.461832,
+      "lon": -66.824742,
+      "name": "Uyuni",
+      "country": "boliwia"
+    },
+    "salar_uyuni": {
+      "lat": -20.12778,
+      "lon": -67.49571,
+      "name": "Salar Uyuni",
       "country": "boliwia"
     }
   }
