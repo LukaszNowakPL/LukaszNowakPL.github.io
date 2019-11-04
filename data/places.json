@@ -4133,19 +4133,61 @@
       "lat": -19.03458,
       "lon": -65.257383,
       "name": "Sucre",
-      "country": "boliwia"
+      "country": "boliwia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/62dP6Vfk6Es2TzZb7",
+          "tittle": "Sucre"
+        }
+      ]
     },
     "uyuni": {
       "lat": -20.461832,
       "lon": -66.824742,
       "name": "Uyuni",
-      "country": "boliwia"
+      "country": "boliwia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/H2u6E7DFn6iXQXjJ7",
+          "tittle": "Uyuni"
+        }
+      ]
     },
     "salar_uyuni": {
       "lat": -20.12778,
       "lon": -67.49571,
       "name": "Salar Uyuni",
       "country": "boliwia"
+    },
+    "san_pedro_de_atacama": {
+      "lat": -22.909348,
+      "lon": -68.199524,
+      "name": "San Pedro de Atacama",
+      "country": "chile"
+    },
+    "atacama": {
+      "lat": -23.863732,
+      "lon": -69.133836,
+      "name": "Pustynia Atacama",
+      "country": "chile"
+    },
+    "salta": {
+      "lat": -24.783272,
+      "lon": -65.427889,
+      "name": "Salta",
+      "country": "argentyna"
+    },
+    "wodospady_iguazu": {
+      "lat": -25.695153,
+      "lon": -54.436731,
+      "name": "Wodospady Iguazu",
+      "country": "argentyna"
+    },
+    "mar_del_plata": {
+      "lat": -38.005423,
+      "lon": -57.54768,
+      "name": "Mar del Plata",
+      "country": "argentyna"
     }
   }
 }

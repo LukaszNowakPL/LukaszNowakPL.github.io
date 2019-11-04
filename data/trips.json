@@ -1,8 +1,31 @@
 {
   "trips": [
     {
+      "name": "Wypoczynek na koniec podróży",
+      "date": ["2019-12-17", "2019-12-21"],
+      "places": ["mar_del_plata"],
+      "routes": [
+        { "dep": "aep", "arr": "mdq", "airline": "ar", "type": "b737" },
+        { "dep": "mdq", "arr": "aep", "airline": "ar", "type": "b737" }
+      ]
+    },
+    {
+      "name": "Północna Argentyna",
+      "date": ["2019-11-11", "2019-11-24"],
+      "places": ["salta", "wodospady_iguazu"],
+      "routes": [
+        { "dep": "sla", "arr": "igr", "airline": "wj", "type": "a320" }
+      ]
+    },
+    {
+      "name": "Chile w wersji okrojonej",
+      "date": ["2019-11-06", "2019-11-11"],
+      "places": ["san_pedro_de_atacama", "atacama"],
+      "routes": []
+    },
+    {
       "name": "Boliwia",
-      "date": ["2019-10-19", "2019-11-09"],
+      "date": ["2019-10-19", "2019-11-06"],
       "places": [
         "copacabana",
         "jezioro_titicaca",

@@ -957,6 +957,30 @@
       "lon": -65.150957,
       "name": "Sucre, SRE, Boliwia",
       "country": "boliwia"
+    },
+    "sla": {
+      "lat": -24.844259,
+      "lon": -65.479002,
+      "name": "Salta, SLA, Argentyna",
+      "country": "argentyna"
+    },
+    "igr": {
+      "lat": -25.731565,
+      "lon": -54.476846,
+      "name": "Iguazu, IGR, Argentyna",
+      "country": "argentyna"
+    },
+    "aep": {
+      "lat": -34.557871,
+      "lon": -58.41703,
+      "name": "Buenos Aires Jorge Newbery, AEP, Argentyna",
+      "country": "argentyna"
+    },
+    "mdq": {
+      "lat": -37.93329,
+      "lon": -57.581432,
+      "name": "Mar del Plata, MDQ, Argentyna",
+      "country": "argentyna"
     }
   }
 }
