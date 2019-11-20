@@ -476,10 +476,24 @@
       ]
     },
     "chile": {
-      "name": "Chile"
+      "name": "Chile",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Lv5sUVhhZ5eXVDbx8",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
     },
     "argentyna": {
-      "name": "Argentyna"
+      "name": "Argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/m75wN6JGDrYjsUAj7",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
     },
     "brazylia": {
       "name": "Brazylia"

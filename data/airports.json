@@ -970,6 +970,42 @@
       "name": "Iguazu, IGR, Argentyna",
       "country": "argentyna"
     },
+    "cor": {
+      "lat": -31.315482,
+      "lon": -64.212331,
+      "name": "Cordoba, COR, Argentyna",
+      "country": "argentyna"
+    },
+    "epa": {
+      "lat": -34.61125,
+      "lon": -58.603325,
+      "name": "Buenos Aires El Palomar, EPA, Argentyna",
+      "country": "argentyna"
+    },
+    "rel": {
+      "lat": -43.211256,
+      "lon": -65.273039,
+      "name": "Trelew, REL, Argentyna",
+      "country": "argentyna"
+    },
+    "mdz": {
+      "lat": -32.827865,
+      "lon": -68.798443,
+      "name": "Mendoza, MDZ, Argentyna",
+      "country": "argentyna"
+    },
+    "brc": {
+      "lat": -41.146593,
+      "lon": -71.161972,
+      "name": "Bariloche, BRC, Argentyna",
+      "country": "argentyna"
+    },
+    "ush": {
+      "lat": -54.840269,
+      "lon": -68.312287,
+      "name": "Ushuaia, USH, Argentyna",
+      "country": "argentyna"
+    },
     "aep": {
       "lat": -34.557871,
       "lon": -58.41703,

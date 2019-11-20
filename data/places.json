@@ -4157,36 +4157,150 @@
       "lat": -20.12778,
       "lon": -67.49571,
       "name": "Salar Uyuni",
-      "country": "boliwia"
+      "country": "boliwia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/JgzBu6ULcZR8TAVz6",
+          "tittle": "Salar Uyuni"
+        }
+      ]
     },
     "san_pedro_de_atacama": {
       "lat": -22.909348,
       "lon": -68.199524,
       "name": "San Pedro de Atacama",
-      "country": "chile"
+      "country": "chile",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Ju4hPEbjBCP3KCqq9",
+          "tittle": "San Pedro de Atacama"
+        }
+      ]
     },
     "atacama": {
       "lat": -23.863732,
       "lon": -69.133836,
       "name": "Pustynia Atacama",
-      "country": "chile"
+      "country": "chile",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/eEqM6SKFxb16wTug7",
+          "tittle": "Atacama Desert, Pustynia Atacama"
+        }
+      ]
+    },
+    "uquia": {
+      "lat": -23.303451,
+      "lon": -65.355126,
+      "name": "Uquia",
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/ArNLeaWotKB3ePLk6",
+          "tittle": "Uquia"
+        }
+      ]
+    },
+    "humahuaca": {
+      "lat": -23.204477,
+      "lon": -65.348464,
+      "name": "Humahuaca",
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Eu3deiuqwWvGofRcA",
+          "tittle": "Humauaca"
+        }
+      ]
+    },
+    "tilcara": {
+      "lat": -23.576968,
+      "lon": -65.393658,
+      "name": "Tilcara",
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/UfYWDoBt6t5VnVwn9",
+          "tittle": "Tilcara"
+        }
+      ]
     },
     "salta": {
       "lat": -24.783272,
       "lon": -65.427889,
       "name": "Salta",
-      "country": "argentyna"
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/p573f1Y9odwtKq3Z8",
+          "tittle": "Salta"
+        }
+      ]
+    },
+    "cafayate": {
+      "lat": -26.073062,
+      "lon": -65.975997,
+      "name": "Cafayate",
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/RGbUnX7783wtwY44A",
+          "tittle": "Cafayate"
+        }
+      ]
     },
     "wodospady_iguazu": {
       "lat": -25.695153,
       "lon": -54.436731,
-      "name": "Wodospady Iguazu",
+      "name": "Wodospady Iguazú",
+      "country": "argentyna"
+    },
+    "cordoba": {
+      "lat": -31.420217,
+      "lon": -64.185742,
+      "name": "Córdoba",
+      "country": "argentyna"
+    },
+    "trelew": {
+      "lat": -43.249313,
+      "lon": -65.307223,
+      "name": "Trelew",
+      "country": "argentyna"
+    },
+    "golfo_nuevo": {
+      "lat": -42.73834,
+      "lon": -64.477932,
+      "name": "Golfo Nuevo",
+      "country": "argentyna"
+    },
+    "mendoza": {
+      "lat": -32.889385,
+      "lon": -68.845298,
+      "name": "Mendoza",
+      "country": "argentyna"
+    },
+    "bariloche": {
+      "lat": -41.13294,
+      "lon": -71.306257,
+      "name": "Bariloche",
+      "country": "argentyna"
+    },
+    "ushuaia": {
+      "lat": -54.802074,
+      "lon": -68.302812,
+      "name": "Ushuaia",
       "country": "argentyna"
     },
     "mar_del_plata": {
       "lat": -38.005423,
       "lon": -57.54768,
       "name": "Mar del Plata",
+      "country": "argentyna"
+    },
+    "buenos_aires": {
+      "lat": -34.589236,
+      "lon": -58.459407,
+      "name": "Buenos Aires",
       "country": "argentyna"
     }
   }
