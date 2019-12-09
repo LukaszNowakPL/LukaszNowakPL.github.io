@@ -4249,40 +4249,166 @@
         }
       ]
     },
-    "wodospady_iguazu": {
+    "puerto_iguazu": {
+      "lat": -25.597881,
+      "lon": -54.575586,
+      "name": "Puerto Iguazú",
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/NVCF3KU48Zk2Wzt99",
+          "tittle": "Puerto Iguazú"
+        }
+      ]
+    },
+    "wodospady_iguazu_argentyna": {
       "lat": -25.695153,
       "lon": -54.436731,
-      "name": "Wodospady Iguazú",
+      "name": "Wodospady Iguazú (Argentyna)",
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/MH2J9JhRktXp1yhPA",
+          "tittle": "Wodospady Iguazú"
+        }
+      ]
+    },
+    "presidente_franco": {
+      "lat": -25.555613,
+      "lon": -54.608662,
+      "name": "Presidente Franco",
       "country": "argentyna"
+    },
+    "wodospady_iguazu_brazylia": {
+      "lat": -25.691312,
+      "lon": -54.435473,
+      "name": "Wodospady Iguazú (Brazylia)",
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/MH2J9JhRktXp1yhPA",
+          "tittle": "Wodospady Iguazú"
+        }
+      ]
     },
     "cordoba": {
       "lat": -31.420217,
       "lon": -64.185742,
       "name": "Córdoba",
-      "country": "argentyna"
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/7ji1XKj5y7d92KYR7",
+          "tittle": "Córdoba"
+        }
+      ]
     },
-    "trelew": {
-      "lat": -43.249313,
-      "lon": -65.307223,
-      "name": "Trelew",
+    "punta_tombo": {
+      "lat": -44.045305,
+      "lon": -65.223427,
+      "name": "Punta Tombo",
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/nTEoQ6ASA251GZco7",
+          "tittle": "Punto Tombo"
+        }
+      ]
+    },
+    "puerto_madryn": {
+      "lat": -42.757794,
+      "lon": -65.038197,
+      "name": "Puerto Madryn",
       "country": "argentyna"
     },
     "golfo_nuevo": {
       "lat": -42.73834,
       "lon": -64.477932,
       "name": "Golfo Nuevo",
-      "country": "argentyna"
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/dKqNoxSdEYmr4iUB7",
+          "tittle": "Puerto Pirámides"
+        }
+      ]
+    },
+    "trelew": {
+      "lat": -43.249313,
+      "lon": -65.307223,
+      "name": "Trelew",
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/tzZ8E8ojCYhod34L8",
+          "tittle": "Trelew"
+        }
+      ]
     },
     "mendoza": {
       "lat": -32.889385,
       "lon": -68.845298,
       "name": "Mendoza",
-      "country": "argentyna"
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/rQkyPEJ1ZrGDWVgv9",
+          "tittle": "Mendoza"
+        }
+      ]
     },
     "bariloche": {
       "lat": -41.13294,
       "lon": -71.306257,
       "name": "Bariloche",
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/BU4UWgSw2oQvUG8m6",
+          "tittle": "Bariloche, San Carlos de Bariloche"
+        }
+      ]
+    },
+    "san_martin_de_los_andes": {
+      "lat": -40.15883,
+      "lon": -71.358329,
+      "name": "San Martín de los Andes",
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/3HAS5mYAGmxTcDkN9",
+          "tittle": "San Martín de los Andes"
+        }
+      ]
+    },
+    "el_calafate": {
+      "lat": -50.338492,
+      "lon": -72.263831,
+      "name": "El Calafate",
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/KE5fFw8vSYqGAFZP9",
+          "tittle": "El Calafate"
+        }
+      ]
+    },
+    "perito_moreno": {
+      "lat": -50.472365,
+      "lon": -73.037687,
+      "name": "Perito Moreno",
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/SxmxnZgXWVE727UT6",
+          "tittle": "Perito Moreno"
+        }
+      ]
+    },
+    "el_chalten": {
+      "lat": -49.331677,
+      "lon": -72.886742,
+      "name": "El Chalten",
       "country": "argentyna"
     },
     "ushuaia": {
@@ -4301,7 +4427,13 @@
       "lat": -34.589236,
       "lon": -58.459407,
       "name": "Buenos Aires",
-      "country": "argentyna"
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/JE43Gw6JtDShtmBLA",
+          "tittle": "Buenos Aires"
+        }
+      ]
     }
   }
 }

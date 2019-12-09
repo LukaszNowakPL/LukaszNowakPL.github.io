@@ -1000,6 +1000,12 @@
       "name": "Bariloche, BRC, Argentyna",
       "country": "argentyna"
     },
+    "fte": {
+      "lat": -50.283847,
+      "lon": -72.054263,
+      "name": "El Calafate, FTE, Argentyna",
+      "country": "argentyna"
+    },
     "ush": {
       "lat": -54.840269,
       "lon": -68.312287,

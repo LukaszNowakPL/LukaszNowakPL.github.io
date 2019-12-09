@@ -496,7 +496,24 @@
       ]
     },
     "brazylia": {
-      "name": "Brazylia"
+      "name": "Brazylia",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/hrA7yaRLVE9RphPp9",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "paragwaj": {
+      "name": "Paragwaj",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/AL5j87vqu48xoJ3c6",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
     }
   }
 }

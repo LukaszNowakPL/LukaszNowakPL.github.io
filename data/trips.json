@@ -18,9 +18,18 @@
     {
       "name": "Patagonia",
       "date": ["2019-11-30", "2019-12-14"],
-      "places": ["bariloche", "ushuaia"],
+      "places": [
+        "bariloche",
+        "san_martin_de_los_andes",
+        "el_calafate",
+        "perito_moreno",
+        "el_chalten",
+        "ushuaia"
+      ],
       "routes": [
         { "dep": "mdz", "arr": "brc", "airline": "wj", "type": "a320" },
+        { "dep": "brc", "arr": "fte", "airline": "ar", "type": "b737" },
+        { "dep": "fte", "arr": "ush", "airline": "ar", "type": "b737" },
         { "dep": "ush", "arr": "eze", "airline": "la", "type": "a320" }
       ],
       "galleries": [
@@ -31,7 +40,7 @@
       ]
     },
     {
-      "name": "Wina",
+      "name": "Testowanie argentyńskich win",
       "date": ["2019-11-27", "2019-11-30"],
       "places": ["mendoza"],
       "routes": [
@@ -46,10 +55,10 @@
     },
     {
       "name": "Z wizytą u pingwinów",
-      "date": ["2019-11-23", "2019-11-26"],
-      "places": ["trelew", "golfo_nuevo"],
+      "date": ["2019-11-24", "2019-11-26"],
+      "places": ["punta_tombo", "puerto_madryn", "trelew", "golfo_nuevo"],
       "routes": [
-        { "dep": "epa", "arr": "rel", "airline": "fo", "type": "b737" },
+        { "dep": "eze", "arr": "rel", "airline": "fo", "type": "b737" },
         { "dep": "rel", "arr": "epa", "airline": "fo", "type": "b737" }
       ],
       "galleries": [
@@ -68,7 +77,10 @@
         "tilcara",
         "salta",
         "cafayate",
-        "wodospady_iguazu",
+        "puerto_iguazu",
+        "wodospady_iguazu_argentyna",
+        "presidente_franco",
+        "wodospady_iguazu_brazylia",
         "cordoba"
       ],
       "routes": [
