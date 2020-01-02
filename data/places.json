@@ -4409,13 +4409,25 @@
       "lat": -49.331677,
       "lon": -72.886742,
       "name": "El Chalten",
-      "country": "argentyna"
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/H5DLpcvEf4MFbzo69",
+          "tittle": "El Chaltén"
+        }
+      ]
     },
     "ushuaia": {
       "lat": -54.802074,
       "lon": -68.302812,
       "name": "Ushuaia",
-      "country": "argentyna"
+      "country": "argentyna",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/udkqsxFGv4DUGjQo6",
+          "tittle": "Ushuaia"
+        }
+      ]
     },
     "mar_del_plata": {
       "lat": -38.005423,

@@ -3171,8 +3171,15 @@
     {
       "hidden": true,
       "name": "kontener na przyszłe",
-      "date": ["2019-12-31", "2019-12-31"],
-      "places": ["bogota"]
+      "date": ["2020-12-31", "2020-12-31"],
+      "places": ["gdansk"]
+    },
+    {
+      "hidden": true,
+      "name": "kontener",
+      "date": ["2020-01-01", "2020-01-01"],
+      "places": ["wroclaw"],
+      "routes": []
     },
     {
       "hidden": true,
@@ -3201,6 +3208,22 @@
           "arr": "gdn",
           "airline": "w6",
           "type": "a321",
+          "isCanceled": true
+        },
+        {
+          "notka": "Z powodu niepokojów społecznych w Boliwii linia miała problemy ze skompletowaniem załóg na część swoich lotów. Nasz zaplanowany odcinek Cochabamba - Sucre został skasowany, ale przebookowano nas też na kolejny rejs na tej samej trasie.",
+          "dep": "CBB",
+          "arr": "SRE",
+          "airline": "ob",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "notka": "Linia z powodów operacyjnych o kilkanaście godzin opóźniła start i zmieniła lotnisko wylotu na Ezeizę w Buenos Aires.",
+          "dep": "EPA",
+          "arr": "REL",
+          "airline": "fo",
+          "type": "b737",
           "isCanceled": true
         }
       ]
