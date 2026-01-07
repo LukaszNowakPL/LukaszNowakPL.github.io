@@ -1065,6 +1065,42 @@
       "lon": -0.45320976195200724,
       "name": "Londyn Heathrow, LHR, Wielka Brytania",
       "country": "wielka-brytania"
+    },
+    "zad": {
+      "lat": 44.096421517787306,
+      "lon": 15.353275745391937,
+      "name": "Zadar, ZAD, Chorwacja",
+      "country": "chorwacja"
+    },
+    "fco": {
+      "lat": 41.79493329368503,
+      "lon": 12.250009918000853,
+      "name": "Rzym Fiumicino, FCO, Włochy",
+      "country": "wlochy"
+    },
+    "olb": {
+      "lat": 40.90244297897581,
+      "lon": 9.515650422871557,
+      "name": "Olbia, OLB, Włochy",
+      "country": "wlochy"
+    },
+    "grx": {
+      "lat": 37.18509910612382,
+      "lon": -3.776966965005132,
+      "name": "Granada-Jaén, GRX, Hiszpania",
+      "country": "hiszpania"
+    },
+    "mln": {
+      "lat": 35.277031420889024,
+      "lon": -2.9573211655340352,
+      "name": "Melilla, MLN, Hiszpania",
+      "country": "hiszpania"
+    },
+    "agp": {
+      "lat": 36.67659363275453,
+      "lon": -4.491858354090089,
+      "name": "Málaga, AGP, Hiszpania",
+      "country": "hiszpania"
     }
   }
 }

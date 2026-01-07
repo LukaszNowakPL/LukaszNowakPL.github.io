@@ -1,6 +1,113 @@
 {
   "trips": [
     {
+      "name": "Konferencja React Day i zakupy płytowe",
+      "date": ["2023-12-07", "2023-12-09"],
+      "places": ["berlin"]
+    },
+    {
+      "name": "Hiszpania konferencyjno-zwariowana",
+      "date": ["2023-11-17", "2023-11-27"],
+      "places": ["madryt", "granada", "melilla", "torremolinos", "malaga"],
+      "routes": [
+        { "dep": "waw", "arr": "muc", "airline": "lh", "type": "a319" },
+        { "dep": "muc", "arr": "mad", "airline": "lh", "type": "a321" },
+        { "dep": "mad", "arr": "grx", "airline": "yw", "type": "cr10" },
+        { "dep": "grx", "arr": "mln", "airline": "yw", "type": "at7" },
+        { "dep": "mln", "arr": "agp", "airline": "yw", "type": "at7" },
+        { "dep": "agp", "arr": "zrh", "airline": "lx", "type": "a321" },
+        { "dep": "zrh", "arr": "waw", "airline": "lx", "type": "a220" }
+      ]
+    },
+    {
+      "name": "React Alicante 2023",
+      "date": ["2023-09-28", "2023-10-03"],
+      "places": ["alicante", "villajoyosa"],
+      "routes": [
+        { "dep": "waw", "arr": "alc", "airline": "w6", "type": "a321" },
+        { "dep": "alc", "arr": "waw", "airline": "w6", "type": "a321" }
+      ]
+    },
+    {
+      "name": "Szybka delegacja",
+      "date": ["2023-09-05", "2023-09-07"],
+      "places": ["bristol"],
+      "routes": [
+        { "dep": "waw", "arr": "lhr", "airline": "ba", "type": "a320" },
+        { "dep": "lhr", "arr": "waw", "airline": "ba", "type": "a320" }
+      ]
+    },
+    {
+      "name": "Włochy z młodzieżą",
+      "date": ["2023-08-16", "2023-08-25"],
+      "places": ["frankfurt", "rzym", "florencja", "piza", "olbia"],
+      "routes": [
+        { "dep": "wro", "arr": "fra", "airline": "lh", "type": "cr9" },
+        { "dep": "fra", "arr": "fco", "airline": "lh", "type": "a320" },
+        { "dep": "flr", "arr": "olb", "airline": "v7", "type": "a319" },
+        { "dep": "olb", "arr": "muc", "airline": "lh", "type": "a320" },
+        { "dep": "muc", "arr": "wro", "airline": "lh", "type": "cr9" }
+      ]
+    },
+    {
+      "name": "Zadar",
+      "date": ["2023-06-20", "2023-06-27"],
+      "places": ["zadar", "sibenik"],
+      "routes": [
+        { "dep": "wro", "arr": "zad", "airline": "fr", "type": "b737" },
+        { "dep": "zad", "arr": "wro", "airline": "fr", "type": "b737" }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/Lt764HRN31M7xkDP8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Londyn",
+      "date": ["2023-05-19", "2023-05-22"],
+      "places": ["londyn"],
+      "routes": [
+        { "dep": "wmi", "arr": "stn", "airline": "fr", "type": "b737" },
+        { "dep": "ltn", "arr": "waw", "airline": "w6", "type": "a321" }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/MKYrhsvgwSuWjuoD9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Majówka w Saksonii",
+      "date": ["2023-04-29", "2023-05-03"],
+      "places": ["saska_szwajcaria", "drezno"],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/VkrKdCNQYmohpTeT8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Delegacja z odrobiną zwiedzania",
+      "date": ["2023-04-18", "2023-04-25"],
+      "places": ["bristol", "bath", "weymouth"],
+      "routes": [
+        { "dep": "waw", "arr": "ams", "airline": "kl", "type": "emb190" },
+        { "dep": "ams", "arr": "brs", "airline": "kl", "type": "emb190" },
+        { "dep": "brs", "arr": "ams", "airline": "kl", "type": "emb190" },
+        { "dep": "ams", "arr": "wro", "airline": "kl", "type": "emb175" }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/ifqh3XiPZUn3Pn9f7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
       "name": "Zmniejszenie szoku termicznego - szybka delegacja",
       "date": ["2022-11-22", "2022-11-25"],
       "places": ["bristol"],

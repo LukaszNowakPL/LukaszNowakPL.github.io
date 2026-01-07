@@ -116,6 +116,15 @@
     },
     "3b": {
       "name": "Bestfly"
+    },
+    "v7": {
+      "name": "Volotea"
+    },
+    "ba": {
+      "name": "British Airways"
+    },
+    "yw": {
+      "name": "Air Nostrum"
     }
   }
 }

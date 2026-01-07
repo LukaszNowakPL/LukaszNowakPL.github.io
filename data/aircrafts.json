@@ -1,5 +1,8 @@
 {
   "aircrafts": {
+    "a220": {
+      "name": "Airbus A220"
+    },
     "a318": {
       "name": "Airbus A318"
     },
@@ -17,6 +20,9 @@
     },
     "cr9": {
       "name": "Bombardier CRJ-900"
+    },
+    "cr10": {
+      "name": "Bombardier CRJ-1000"
     },
     "b737": {
       "name": "Boeing 737"

@@ -4740,6 +4740,90 @@
           "tittle": "Santiago, São Tiago"
         }
       ]
+    },
+    "bath": {
+      "lat": 51.38112152917162,
+      "lon": -2.3588498936289453,
+      "name": "Bath",
+      "country": "wielka-brytania"
+    },
+    "weymouth": {
+      "lat": 50.608977568315254,
+      "lon": -2.4581385639978137,
+      "name": "Weymouth",
+      "country": "wielka-brytania"
+    },
+    "saska_szwajcaria": {
+      "lat": 50.964589725168764,
+      "lon": 14.08921740647575,
+      "name": "Saska Szwajcaria",
+      "country": "niemcy"
+    },
+    "drezno": {
+      "lat": 51.05163285603598,
+      "lon": 13.740852011545366,
+      "name": "Drezno",
+      "country": "niemcy",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/LV5K4BtdatydbKSw9",
+          "tittle": "Drezno, Dresden"
+        }
+      ]
+    },
+    "zadar": {
+      "lat": 44.11589841040017,
+      "lon": 15.224962705277871,
+      "name": "Zadar",
+      "country": "chorwacja"
+    },
+    "sibenik": {
+      "lat": 43.7338154724618,
+      "lon": 15.893794356961763,
+      "name": "Šibenik",
+      "country": "chorwacja"
+    },
+    "frankfurt": {
+      "lat": 50.109493078686256,
+      "lon": 8.667293305836447,
+      "name": "Frankfurt",
+      "country": "niemcy"
+    },
+    "piza": {
+      "lat": 43.71573793929448,
+      "lon": 10.401426495480429,
+      "name": "Piza",
+      "country": "wlochy"
+    },
+    "olbia": {
+      "lat": 40.925212670730176,
+      "lon": 9.500535292464685,
+      "name": "Olbia",
+      "country": "wlochy"
+    },
+    "villajoyosa": {
+      "lat": 38.5086944450503,
+      "lon": -0.22872161924229137,
+      "name": "Villajoyosa",
+      "country": "hiszpania"
+    },
+    "granada": {
+      "lat": 37.18136392025652,
+      "lon": -3.599782913351668,
+      "name": "Granada",
+      "country": "hiszpania"
+    },
+    "torremolinos": {
+      "lat": 36.62154501281462,
+      "lon": -4.499502321313792,
+      "name": "Torremolinos",
+      "country": "hiszpania"
+    },
+    "malaga": {
+      "lat": 36.7199070823584,
+      "lon": -4.419411987505328,
+      "name": "Málaga",
+      "country": "hiszpania"
     }
   }
 }
