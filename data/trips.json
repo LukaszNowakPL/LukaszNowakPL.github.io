@@ -1,6 +1,68 @@
 {
   "trips": [
     {
+      "name": "Sylwester na Roztoczu",
+      "date": ["2021-12-27", "2022-01-02"],
+      "places": ["szczebrzeszyn", "zwierzyniec", "zamosc"]
+    },
+    {
+      "name": "Rimini kulinarnie",
+      "date": ["2021-10-22", "2021-10-25"],
+      "places": ["rimini", "san_marino"],
+      "routes": [
+        { "dep": "wmi", "arr": "rmi", "airline": "fr", "type": "b737" },
+        { "dep": "rmi", "arr": "wmi", "airline": "fr", "type": "b737" }
+      ]
+    },
+    {
+      "name": "Katalonia z Andorą",
+      "date": ["2021-07-28", "2021-08-12"],
+      "places": ["montserrat", "andora", "lleida", "reus", "tarragona"],
+      "routes": [
+        { "dep": "waw", "arr": "muc", "airline": "lh", "type": "a320" },
+        { "dep": "muc", "arr": "bcn", "airline": "lh", "type": "a320" },
+        { "dep": "bcn", "arr": "fra", "airline": "en", "type": "a330" },
+        { "dep": "fra", "arr": "waw", "airline": "lh", "type": "a320" }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/yAV1tDtxtbsm7PwN9",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Kolejny pandemiczny urlop - Kaszuby",
+      "date": ["2021-05-22", "2021-05-30"],
+      "places": ["wiele", "wdzydze"]
+    },
+    {
+      "name": "Zagranica w środku Pandemii - Minorka",
+      "date": ["2020-08-21", "2020-08-28"],
+      "places": ["sant_tomas", "ciutadella"],
+      "routes": [
+        { "dep": "wro", "arr": "mah", "airline": "fr", "type": "b737" },
+        { "dep": "mah", "arr": "wro", "airline": "fr", "type": "b737" }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/pWWegT54MvZAebhE7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Urlop w środku pandemii - Beskid",
+      "date": ["2020-06-11", "2020-06-21"],
+      "places": ["lubomir", "turbacz", "lanckorona"],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/9YkuQg1yUMKcaCCM7",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
       "name": "Wypoczynek na koniec podróży",
       "date": ["2019-12-17", "2019-12-21"],
       "places": ["mar_del_plata"],

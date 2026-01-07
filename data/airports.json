@@ -1023,6 +1023,12 @@
       "lon": -57.581432,
       "name": "Mar del Plata, MDQ, Argentyna",
       "country": "argentyna"
+    },
+    "rmi": {
+      "lat": 44.020114710848326,
+      "lon": 12.611990996626147,
+      "name": "Rimini, RMI, Włochy",
+      "country": "wlochy"
     }
   }
 }

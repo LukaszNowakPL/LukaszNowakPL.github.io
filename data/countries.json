@@ -514,6 +514,9 @@
           "targetBlank": true
         }
       ]
+    },
+    "andora": {
+      "name": "Andora"
     }
   }
 }

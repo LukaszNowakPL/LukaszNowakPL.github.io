@@ -4446,6 +4446,114 @@
           "tittle": "Buenos Aires"
         }
       ]
+    },
+    "strumien": {
+      "lat": 49.91680368599453,
+      "lon": 18.7642194691478,
+      "name": "Strumień",
+      "country": "polska"
+    },
+    "pisz": {
+      "lat": 53.62944840346619,
+      "lon": 21.80823063361466,
+      "name": "Pisz",
+      "country": "polska"
+    },
+    "lubomir": {
+      "lat": 49.76672205684641,
+      "lon": 20.062499972057427,
+      "name": "Lubomir",
+      "country": "polska"
+    },
+    "turbacz": {
+      "lat": 49.54280649075864,
+      "lon": 20.11160226626107,
+      "name": "Turbacz",
+      "country": "polska"
+    },
+    "lanckorona": {
+      "lat": 49.84553141727388,
+      "lon": 19.714688782634017,
+      "name": "Lanckorona",
+      "country": "polska"
+    },
+    "sant_tomas": {
+      "lat": 39.91551078872137,
+      "lon": 4.041045742397248,
+      "name": "Sant Tomas",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/yj2X9uRJdWKeEXRB6",
+          "tittle": "Sant Tomas"
+        }
+      ]
+    },
+    "warminskie_lasy": {
+      "lat": 53.242430985885626,
+      "lon": 19.87160468369178,
+      "name": "Warmińskie lasy",
+      "country": "polska"
+    },
+    "stronie_slaskie": {
+      "lat": 50.29166759984661,
+      "lon": 16.873215255510047,
+      "name": "Stronie Śląskie",
+      "country": "polska"
+    },
+    "wiele": {
+      "lat": 53.92366421787333,
+      "lon": 17.864085677096124,
+      "name": "Wiele",
+      "country": "polska"
+    },
+    "wdzydze": {
+      "lat": 54.01076969639427,
+      "lon": 17.944156085047098,
+      "name": "Wdzydze",
+      "country": "polska"
+    },
+    "montserrat": {
+      "lat": 41.59320908677566,
+      "lon": 1.8373720084080374,
+      "name": "Klasztor Montserrat",
+      "country": "hiszpania"
+    },
+    "andora": {
+      "lat": 42.505829412206346,
+      "lon": 1.525856500763401,
+      "name": "Andora",
+      "country": "andora"
+    },
+    "lleida": {
+      "lat": 41.617570467390436,
+      "lon": 0.6249128084463329,
+      "name": "Lleida",
+      "country": "hiszpania"
+    },
+    "reus": {
+      "lat": 41.15459814995699,
+      "lon": 1.108884490741101,
+      "name": "Reus",
+      "country": "hiszpania"
+    },
+    "szczebrzeszyn": {
+      "lat": 50.694764679060675,
+      "lon": 22.9788544011305,
+      "name": "Szczebrzeszyn",
+      "country": "polska"
+    },
+    "zwierzyniec": {
+      "lat": 50.61142019176218,
+      "lon": 22.96792203860306,
+      "name": "Zwierzyniec",
+      "country": "polska"
+    },
+    "zamosc": {
+      "lat": 50.71668384336655,
+      "lon": 23.252050242746435,
+      "name": "Zamość",
+      "country": "polska"
     }
   }
 }
