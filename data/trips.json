@@ -1,6 +1,82 @@
 {
   "trips": [
     {
+      "name": "Zmniejszenie szoku termicznego - szybka delegacja",
+      "date": ["2022-11-22", "2022-11-25"],
+      "places": ["bristol"],
+      "routes": [
+        { "dep": "waw", "arr": "lhr", "airline": "lo", "type": "b737" },
+        { "dep": "lhr", "arr": "waw", "airline": "lo", "type": "b737" }
+      ]
+    },
+    {
+      "name": "Pomiędzy kontynentami",
+      "date": ["2022-11-03", "2022-11-19"],
+      "places": ["santa_maria", "tarrafal", "cidade_velha", "praia", "murdeira"],
+      "routes": [
+        { "dep": "waw", "arr": "bru", "airline": "lo", "type": "emb170" },
+        { "dep": "bru", "arr": "lis", "airline": "tp", "type": "emb190" },
+        { "dep": "lis", "arr": "sid", "airline": "tp", "type": "a321" },
+        { "dep": "sid", "arr": "rai", "airline": "3b", "type": "at7" },
+        { "dep": "rai", "arr": "sid", "airline": "3b", "type": "at7" },
+        { "dep": "sid", "arr": "lis", "airline": "tp", "type": "a321" },
+        { "dep": "lis", "arr": "bru", "airline": "tp", "type": "a321" },
+        { "dep": "bru", "arr": "waw", "airline": "lo", "type": "emb175" }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/WdxWGrgJwC8MXfvz8",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Workation na Ibizie i React Alicante",
+      "date": ["2022-09-23", "2022-10-02"],
+      "places": ["port_sant_miquel", "ibiza", "alicante"],
+      "routes": [
+        { "dep": "waw", "arr": "ibz", "airline": "e4", "type": "b737" },
+        { "dep": "ibz", "arr": "alc", "airline": "vy", "type": "a320" },
+        { "dep": "alc", "arr": "waw", "airline": "w6", "type": "a320" }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/DSHo32Une2dRcBj49",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Aarhus",
+      "date": ["2022-07-22", "2022-07-25"],
+      "places": ["aarhus"],
+      "routes": [
+        { "dep": "wmi", "arr": "aar", "airline": "fr", "type": "b737" },
+        { "dep": "aar", "arr": "wmi", "airline": "fr", "type": "b737" }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/tV4eJeYQbubMPZuZA",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
+      "name": "Jordania",
+      "date": ["2022-04-01", "2022-04-11"],
+      "places": ["dzarasz", "zamek_ajloun", "madaba", "al_karak", "wadi_numeira", "morze_martwe", "amman", "petra", "wadi_rum", "akaba"],
+      "routes": [
+        { "dep": "wmi", "arr": "amm", "airline": "fr", "type": "b737" },
+        { "dep": "amm", "arr": "wmi", "airline": "fr", "type": "b737" }
+      ],
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/As5yXTC2PLUZhenZ6",
+          "source": "Google Photos"
+        }
+      ]
+    },
+    {
       "name": "Sylwester na Roztoczu",
       "date": ["2021-12-27", "2022-01-02"],
       "places": ["szczebrzeszyn", "zwierzyniec", "zamosc"]

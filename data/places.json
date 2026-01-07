@@ -603,8 +603,8 @@
       "country": "hiszpania",
       "galleries": [
         {
-          "link": "",
-          "tittle": ""
+          "link": "https://goo.gl/photos/Y6zyhszxifhFQ2oC8",
+          "tittle": "Ibiza, Eivissa"
         }
       ]
     },
@@ -4554,6 +4554,192 @@
       "lon": 23.252050242746435,
       "name": "Zamość",
       "country": "polska"
+    },
+    "dzarasz": {
+      "lat": 32.276317697643236,
+      "lon": 35.890162483625325,
+      "name": "Dżarasz",
+      "country": "jordania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/9WzLcXhv6QoeZrNF6",
+          "tittle": "Dżarasz, Jerash"
+        }
+      ]
+    },
+    "zamek_ajloun": {
+      "lat": 32.325366442999005,
+      "lon": 35.72757648636653,
+      "name": "Zamek Ajloun",
+      "country": "jordania"
+    },
+    "madaba": {
+      "lat": 31.7180262807246,
+      "lon": 35.79633312935062,
+      "name": "Madaba",
+      "country": "jordania"
+    },
+    "al_karak": {
+      "lat": 31.184143621358903,
+      "lon": 35.7051584823394,
+      "name": "Al-Karak",
+      "country": "jordania"
+    },
+    "wadi_numeira": {
+      "lat": 31.13086607984542,
+      "lon": 35.5329608942147,
+      "name": "Wadi Numeira",
+      "country": "jordania"
+    },
+    "morze_martwe": {
+      "lat": 31.451067150959556,
+      "lon": 35.562190608844894,
+      "name": "Morze Martwe",
+      "country": "jordania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/PhmnmDWM3bcdUzVE9",
+          "tittle": "Morze Martwe, Dead Sea"
+        }
+      ]
+    },
+    "amman": {
+      "lat": 31.953594537953027,
+      "lon": 35.93490589659312,
+      "name": "Amman",
+      "country": "jordania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/jdk1tVBaG5Aa7nAy6",
+          "tittle": "Amman"
+        }
+      ]
+    },
+    "petra": {
+      "lat": 30.32882284244985,
+      "lon": 35.44518690162573,
+      "name": "Petra",
+      "country": "jordania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/XUUz2SpsegdYW83MA",
+          "tittle": "Petra"
+        }
+      ]
+    },
+    "wadi_rum": {
+      "lat": 29.705634468921488,
+      "lon": 35.332172741183186,
+      "name": "Pustynia Wadi Rum",
+      "country": "jordania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/qmH1dET3HdALfDVTA",
+          "tittle": "Wadi Rum"
+        }
+      ]
+    },
+    "akaba": {
+      "lat": 29.53203135454051,
+      "lon": 35.00011803882769,
+      "name": "Akaba",
+      "country": "jordania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/D6jbqn2cCGsITftr1",
+          "tittle": "Akaba, Aqaba"
+        }
+      ]
+    },
+    "sierpc": {
+      "lat": 52.862977745578846,
+      "lon": 19.632848168543884,
+      "name": "Sierpc (Skansen)",
+      "country": "polska"
+    },
+    "aarhus": {
+      "lat": 56.1554440025639,
+      "lon": 10.206951432503077,
+      "name": "Aarhus",
+      "country": "dania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/oyDyN2j5Lj6ptJbk9",
+          "tittle": "Aarhus"
+        }
+      ]
+    },
+    "port_sant_miquel": {
+      "lat": 39.07906250265081,
+      "lon": 1.4404018553981037,
+      "name": "Port de Sant Miquel",
+      "country": "hiszpania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/oRLPHQDtDYRwofHK8",
+          "tittle": "Port de Sant Miquel"
+        }
+      ]
+    },
+    "santa_maria": {
+      "lat": 16.59764891147543,
+      "lon": -22.907675657194137,
+      "name": "Santa Maria",
+      "country": "cabo-verde",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/kMHG6H9cY7qEcC2P9",
+          "tittle": "Sal"
+        }
+      ]
+    },
+    "murdeira": {
+      "lat": 16.678619552424106,
+      "lon": -22.93537583826715,
+      "name": "Murdeira",
+      "country": "cabo-verde",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/kMHG6H9cY7qEcC2P9",
+          "tittle": "Sal"
+        }
+      ]
+    },
+    "tarrafal": {
+      "lat": 15.282295968636435,
+      "lon": -23.752472972371965,
+      "name": "Tarrafal",
+      "country": "cabo-verde",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/CfKSemPhAxA5vV439",
+          "tittle": "Santiago, São Tiago"
+        }
+      ]
+    },
+    "cidade_velha": {
+      "lat": 14.914840721574748,
+      "lon": -23.605188133864367,
+      "name": "Cidade Velha",
+      "country": "cabo-verde",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/CfKSemPhAxA5vV439",
+          "tittle": "Santiago, São Tiago"
+        }
+      ]
+    },
+    "praia": {
+      "lat": 14.918509088000206,
+      "lon": -23.507915018426406,
+      "name": "Praia",
+      "country": "cabo-verde",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/CfKSemPhAxA5vV439",
+          "tittle": "Santiago, São Tiago"
+        }
+      ]
     }
   }
 }

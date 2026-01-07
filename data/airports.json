@@ -1029,6 +1029,42 @@
       "lon": 12.611990996626147,
       "name": "Rimini, RMI, Włochy",
       "country": "wlochy"
+    },
+    "amm": {
+      "lat": 31.72257653119914,
+      "lon": 35.98720018774772,
+      "name": "Amman, AMM, Jordania",
+      "country": "jordania"
+    },
+    "aar": {
+      "lat": 56.307394838260485,
+      "lon": 10.627872916574715,
+      "name": "Aarhus, AAR, Dania",
+      "country": "dania"
+    },
+    "bru": {
+      "lat": 50.89732154790502,
+      "lon": 4.485217265169046,
+      "name": "Bruksela, BRU, Belgia",
+      "country": "belgia"
+    },
+    "sid": {
+      "lat": 16.73481971109624,
+      "lon": -22.944089059594653,
+      "name": "Espagros, SID, Wyspy Zielonego Przylądka",
+      "country": "cabo-verde"
+    },
+    "rai": {
+      "lat": 14.945176571961216,
+      "lon": -23.486792495220108,
+      "name": "Praia, RAI, Wyspy Zielonego Przylądka",
+      "country": "cabo-verde"
+    },
+    "lhr": {
+      "lat": 51.47152219101502,
+      "lon": -0.45320976195200724,
+      "name": "Londyn Heathrow, LHR, Wielka Brytania",
+      "country": "wielka-brytania"
     }
   }
 }

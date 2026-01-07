@@ -517,6 +517,26 @@
     },
     "andora": {
       "name": "Andora"
+    },
+    "jordania": {
+      "name": "Jordania",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/z6uHeKcrLrRc8gdu2",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
+    },
+    "cabo-verde": {
+      "name": "Wyspy Zielonego Przylądka",
+      "galleries": [
+        {
+          "link": "https://photos.app.goo.gl/FvEMrdpT2ym2w6qS7",
+          "source": "Google Photos",
+          "targetBlank": true
+        }
+      ]
     }
   }
 }
