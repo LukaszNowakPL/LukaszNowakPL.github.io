@@ -1,6 +1,68 @@
 {
   "trips": [
     {
+      "name": "Konferencyjnie w Kolonii i zakupy płytowe",
+      "date": ["2025-11-17", "2025-11-22"],
+      "places": ["dortmund", "essen", "duisburg", "kolonia"]
+    },
+    {
+      "name": "Konferencyjnie w Wiśle",
+      "date": ["2025-11-04", "2025-11-07"],
+      "places": ["wisla"]
+    },
+    {
+      "name": "Jesienny sezon wyjazdowo-konferencyjny",
+      "date": ["2025-09-25", "2025-10-09"],
+      "places": ["heraklion", "xixona", "alicante", "sant_joan_alacant", "madryt"],
+      "routes": [
+        { "dep": "wro", "arr": "fra", "airline": "en", "type": "emb190" },
+        { "dep": "fra", "arr": "her", "airline": "a3", "type": "a320" },
+        { "dep": "her", "arr": "ema", "airline": "by", "type": "b737" },
+        { "dep": "ema", "arr": "alc", "airline": "ls", "type": "b737" },
+        { "dep": "mad", "arr": "muc", "airline": "lh", "type": "a321" },
+        { "dep": "muc", "arr": "ams", "airline": "lh", "type": "a319" },
+        { "dep": "ams", "arr": "wro", "airline": "kl", "type": "emb190" }
+      ]
+    },
+    {
+      "name": "Konferencja i szybkie zwiedzanie Luksemburga",
+      "date": ["2025-06-18", "2025-06-22"],
+      "places": ["luksemburg", "nommerlayen"],
+      "routes": [
+        { "dep": "wro", "arr": "fra", "airline": "en", "type": "emb190" },
+        { "dep": "fra", "arr": "lux", "airline": "en", "type": "emb190" },
+        { "dep": "lux", "arr": "fra", "airline": "en", "type": "emb190" },
+        { "dep": "fra", "arr": "wro", "airline": "en", "type": "emb190" }
+      ]
+    },
+    {
+      "name": "Grecka eskapada",
+      "date": ["2025-05-27", "2025-06-05"],
+      "places": ["corfu", "ioannina", "ateny", "lefkadia", "chalkida"],
+      "routes": [
+        { "dep": "wro", "arr": "muc", "airline": "lh", "type": "cr9" },
+        { "dep": "muc", "arr": "cfu", "airline": "4y", "type": "a320" },
+        { "dep": "ioa", "arr": "ath", "airline": "oa", "type": "at7" },
+        { "dep": "ath", "arr": "muc", "airline": "lh", "type": "a321" },
+        { "dep": "muc", "arr": "krk", "airline": "lh", "type": "a319" }
+      ]
+    },
+    {
+      "name": "Konferencja A11y Club Summit i zakupy płytowe",
+      "date": ["2025-05-21", "2025-05-25"],
+      "places": ["hamburg", "wurzburg"]
+    },
+    {
+      "name": "Pracowe warsztaty w centrali",
+      "date": ["2025-04-07", "2025-04-11"],
+      "places": ["bristol"],
+      "routes": [
+        { "dep": "wro", "arr": "brs", "airline": "fr", "type": "b737" },
+        { "dep": "brs", "arr": "ams", "airline": "t3", "type": "emb190" },
+        { "dep": "ams", "arr": "wro", "airline": "kl", "type": "emb190" }
+      ]
+    },
+    {
       "name": "Hiszpania konferencyjno-zwariowana 2",
       "date": ["2024-11-18", "2024-11-30"],
       "places": ["ronda", "algeciras", "gibraltar", "marbella", "malaga"],

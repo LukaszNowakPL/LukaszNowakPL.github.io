@@ -537,6 +537,9 @@
           "targetBlank": true
         }
       ]
+    },
+    "luksemburg": {
+      "name": "Luksemburg"
     }
   }
 }

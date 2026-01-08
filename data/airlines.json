@@ -131,6 +131,24 @@
     },
     "2l": {
       "name": "Helvetic Airways"
+    },
+    "t3": {
+      "name": "Eastern Airways"
+    },
+    "4y": {
+      "name": "Discover Airlines"
+    },
+    "oa": {
+      "name": "Olympic Air"
+    },
+    "a3": {
+      "name": "Aegean Airlines"
+    },
+    "by": {
+      "name": "TUI Airways"
+    },
+    "ls": {
+      "name": "Jet2.com"
     }
   }
 }

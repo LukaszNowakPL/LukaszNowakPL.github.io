@@ -4908,6 +4908,90 @@
       "lon": -4.884775014503701,
       "name": "Marbella",
       "country": "hiszpania"
+    },
+    "hamburg": {
+      "lat": 53.547835627195674,
+      "lon": 9.983047486949488,
+      "name": "Hamburg",
+      "country": "niemcy"
+    },
+    "wurzburg": {
+      "lat": 49.79496495412869,
+      "lon": 9.935056889365868,
+      "name": "Würzburg",
+      "country": "niemcy"
+    },
+    "corfu": {
+      "lat": 39.62549403907563,
+      "lon": 19.92237327483839,
+      "name": "Corfu",
+      "country": "grecja"
+    },
+    "ioannina": {
+      "lat": 39.6708091357822,
+      "lon": 20.858615242705756,
+      "name": "Ioannina",
+      "country": "grecja"
+    },
+    "lefkadia": {
+      "lat": 38.4110397162335,
+      "lon": 23.674627068760028,
+      "name": "Lefkadia / Lefkandi",
+      "country": "grecja"
+    },
+    "chalkida": {
+      "lat": 38.46289105955052,
+      "lon": 23.58914537456057,
+      "name": "Chalkida / Chalcis",
+      "country": "grecja"
+    },
+    "luksemburg": {
+      "lat": 49.60897251465367,
+      "lon": 6.132877253354982,
+      "name": "Luksemburg",
+      "country": "luksemburg"
+    },
+    "nommerlayen": {
+      "lat": 49.77943336069784,
+      "lon": 6.161729271714078,
+      "name": "Nommerlayen",
+      "country": "luksemburg"
+    },
+    "haraklion": {
+      "lat": 35.33818011326194,
+      "lon": 25.131371050322027,
+      "name": "Heraklion",
+      "country": "grecja"
+    },
+    "xixona": {
+      "lat": 38.541020337532764,
+      "lon": -0.5062852611258428,
+      "name": "Xixona",
+      "country": "hiszpania"
+    },
+    "sant_joan_alacant": {
+      "lat": 38.402107373918284,
+      "lon": -0.4358264684733847,
+      "name": "Sant Joan d'Alacant",
+      "country": "hiszpania"
+    },
+    "wisla": {
+      "lat": 49.65817671966007,
+      "lon": 18.85569030318779,
+      "name": "Wisła",
+      "country": "polska"
+    },
+    "essen": {
+      "lat": 51.4519056685651,
+      "lon": 7.01399699175069,
+      "name": "Essen",
+      "country": "niemcy"
+    },
+    "duisburg": {
+      "lat": 51.43395703994523,
+      "lon": 6.761466037992363,
+      "name": "Duisburg",
+      "country": "niemcy"
     }
   }
 }

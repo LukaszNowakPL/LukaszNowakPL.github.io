@@ -596,13 +596,13 @@
     "tps": {
       "lat": 37.908798,
       "lon": 12.492287,
-      "name": "Trapani, TPS, Włochy",
+      "name": "Trapani, TPS, Włochy (Sycylia)",
       "country": "wlochy"
     },
     "cta": {
       "lat": 37.466623,
       "lon": 15.064766,
-      "name": "Katania, CTA, Włochy",
+      "name": "Katania, CTA, Włochy (Sycylia)",
       "country": "wlochy"
     },
     "rze": {
@@ -1051,13 +1051,13 @@
     "sid": {
       "lat": 16.73481971109624,
       "lon": -22.944089059594653,
-      "name": "Espagros, SID, Wyspy Zielonego Przylądka",
+      "name": "Espagros, SID, Wyspy Zielonego Przylądka (Sal)",
       "country": "cabo-verde"
     },
     "rai": {
       "lat": 14.945176571961216,
       "lon": -23.486792495220108,
-      "name": "Praia, RAI, Wyspy Zielonego Przylądka",
+      "name": "Praia, RAI, Wyspy Zielonego Przylądka (Santiago)",
       "country": "cabo-verde"
     },
     "lhr": {
@@ -1081,7 +1081,7 @@
     "olb": {
       "lat": 40.90244297897581,
       "lon": 9.515650422871557,
-      "name": "Olbia, OLB, Włochy",
+      "name": "Olbia, OLB, Włochy (Sardynia)",
       "country": "wlochy"
     },
     "grx": {
@@ -1113,6 +1113,36 @@
       "lon": 10.905985612190173,
       "name": "Werona, VRN, Włochy",
       "country": "wlochy"
+    },
+    "cfu": {
+      "lat": 39.60728239971231,
+      "lon": 19.914538909817857,
+      "name": "Corfu, CFU, Grecja (Korfu)",
+      "country": "grecja"
+    },
+    "ioa": {
+      "lat": 39.692478107717506,
+      "lon": 20.82300747681195,
+      "name": "Ioannina, IOA, Grecja",
+      "country": "grecja"
+    },
+    "lux": {
+      "lat": 49.63482139052099,
+      "lon": 6.216458566375695,
+      "name": "Luksemburg, LUX",
+      "country": "luksemburg"
+    },
+    "her": {
+      "lat": 35.33710410884819,
+      "lon": 25.17395205565743,
+      "name": "Heraklion, HER, Grecja (Kreta)",
+      "country": "grecja"
+    },
+    "ema": {
+      "lat": 52.82680669345564,
+      "lon": -1.3292524650154087,
+      "name": "East Midlands, EMA, Wielka Brytania",
+      "country": "wielka-brytania"
     }
   }
 }
