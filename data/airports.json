@@ -1101,6 +1101,18 @@
       "lon": -4.491858354090089,
       "name": "Málaga, AGP, Hiszpania",
       "country": "hiszpania"
+    },
+    "cph": {
+      "lat": 55.628878160149014,
+      "lon": 12.64929272287144,
+      "name": "Kopenhaga, CPH, Dania",
+      "country": "dania"
+    },
+    "vrn": {
+      "lat": 45.402369121703394,
+      "lon": 10.905985612190173,
+      "name": "Werona, VRN, Włochy",
+      "country": "wlochy"
     }
   }
 }

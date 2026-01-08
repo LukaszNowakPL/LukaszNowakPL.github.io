@@ -4824,6 +4824,90 @@
       "lon": -4.419411987505328,
       "name": "Málaga",
       "country": "hiszpania"
+    },
+    "valldemossa": {
+      "lat": 39.70958410135622,
+      "lon": 2.622703384573433,
+      "name": "Valldemossa",
+      "country": "hiszpania"
+    },
+    "kopenhaga": {
+      "lat": 55.675584623005285,
+      "lon": 12.573297130767877,
+      "name": "Kopenhaga",
+      "country": "dania"
+    },
+    "malmo": {
+      "lat": 55.605977528971145,
+      "lon": 12.998697603846416,
+      "name": "Malmö",
+      "country": "szwecja"
+    },
+    "bruksela": {
+      "lat": 50.846734027346,
+      "lon": 4.352438654880199,
+      "name": "Bruksela",
+      "country": "belgia"
+    },
+    "baarle_hertog": {
+      "lat": 51.44191917427784,
+      "lon": 4.931681040734823,
+      "name": "Baarle Hertog",
+      "country": "belgia"
+    },
+    "baarle_nassau": {
+      "lat": 51.445171207011434,
+      "lon": 4.929107353681655,
+      "name": "Baarle Nassau",
+      "country": "holandia"
+    },
+    "rotterdam": {
+      "lat": 51.92520584210292,
+      "lon": 4.469605066868813,
+      "name": "Rotterdam",
+      "country": "holandia"
+    },
+    "leiden": {
+      "lat": 52.15813886986804,
+      "lon": 4.486736887659426,
+      "name": "Leiden",
+      "country": "holandia"
+    },
+    "gouda": {
+      "lat": 52.011391476389335,
+      "lon": 4.710503921175484,
+      "name": "Gouda",
+      "country": "holandia"
+    },
+    "werona": {
+      "lat": 45.43910227146534,
+      "lon": 10.994397393827256,
+      "name": "Werona",
+      "country": "wlochy"
+    },
+    "ronda": {
+      "lat": 36.74611870586767,
+      "lon": -5.1612123549891615,
+      "name": "Ronda",
+      "country": "hiszpania"
+    },
+    "algeciras": {
+      "lat": 36.14095946383349,
+      "lon": -5.458549481924476,
+      "name": "Algeciras",
+      "country": "hiszpania"
+    },
+    "gibraltar": {
+      "lat": 36.14153852691696,
+      "lon": -5.355653118626219,
+      "name": "Gibraltar",
+      "country": "wielka-brytania"
+    },
+    "marbella": {
+      "lat": 36.510230870120544,
+      "lon": -4.884775014503701,
+      "name": "Marbella",
+      "country": "hiszpania"
     }
   }
 }

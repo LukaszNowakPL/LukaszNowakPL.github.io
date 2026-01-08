@@ -1,6 +1,70 @@
 {
   "trips": [
     {
+      "name": "Hiszpania konferencyjno-zwariowana 2",
+      "date": ["2024-11-18", "2024-11-30"],
+      "places": ["ronda", "algeciras", "gibraltar", "marbella", "malaga"],
+      "routes": [
+        { "dep": "wro", "arr": "agp", "airline": "w6", "type": "a321" },
+        { "dep": "agp", "arr": "wro", "airline": "fr", "type": "b737" }
+      ]
+    },
+    {
+      "name": "React JS Day w Weronie",
+      "date": ["2024-10-22", "2024-10-26"],
+      "places": ["frankfurt", "werona"],
+      "routes": [
+        { "dep": "wro", "arr": "fra", "airline": "en", "type": "emb190" },
+        { "dep": "fra", "arr": "vrn", "airline": "en", "type": "emb190" },
+        { "dep": "vrn", "arr": "fra", "airline": "en", "type": "emb190" },
+        { "dep": "fra", "arr": "wro", "airline": "en", "type": "emb190" }
+      ]
+    },
+    {
+      "name": "React Alicante po raz czwarty",
+      "date": ["2024-09-18", "2024-09-23"],
+      "places": ["alicante"],
+      "routes": [
+        { "dep": "wro", "arr": "zrh", "airline": "2l", "type": "emb190" },
+        { "dep": "zrh", "arr": "alc", "airline": "lx", "type": "a220" },
+        { "dep": "alc", "arr": "muc", "airline": "lh", "type": "a320" },
+        { "dep": "muc", "arr": "wro", "airline": "lh", "type": "cr9" }
+      ]
+    },
+    {
+      "name": "Na zakupach płytowych w Berlinie",
+      "date": ["2024-08-28", "2024-09-01"],
+      "places": ["berlin"]
+    },
+    {
+      "name": "Belgia i Holandia z młodzieżą",
+      "date": ["2024-08-02", "2024-08-08"],
+      "places": ["bruksela", "baarle_hertog", "baarle_nassau", "rotterdam", "leiden", "gouda", "amsterdam"],
+      "routes": [
+        { "dep": "wro", "arr": "ams", "airline": "kl", "type": "emb190" },
+        { "dep": "ams", "arr": "bru", "airline": "kl", "type": "emb190" },
+        { "dep": "ams", "arr": "wro", "airline": "kl", "type": "emb190" }
+      ]
+    },
+    {
+      "name": "Na zakupach płytowych ze skandynawską psychodelią",
+      "date": ["2024-06-03", "2024-06-07"],
+      "places": ["kopenhaga", "malmo"],
+      "routes": [
+        { "dep": "wro", "arr": "cph", "airline": "dy", "type": "b737" },
+        { "dep": "cph", "arr": "wro", "airline": "dy", "type": "b737" }
+      ]
+    },
+    {
+      "name": "Majorka na przyspieszenie wiosny",
+      "date": ["2024-04-05", "2024-04-10"],
+      "places": ["palma_de_mallorca", "valldemossa"],
+      "routes": [
+        { "dep": "wro", "arr": "pmi", "airline": "fr", "type": "b737" },
+        { "dep": "pmi", "arr": "wro", "airline": "fr", "type": "b737" }
+      ]
+    },
+    {
       "name": "Konferencja React Day i zakupy płytowe",
       "date": ["2023-12-07", "2023-12-09"],
       "places": ["berlin"]
@@ -204,7 +268,7 @@
       "routes": [
         { "dep": "waw", "arr": "muc", "airline": "lh", "type": "a320" },
         { "dep": "muc", "arr": "bcn", "airline": "lh", "type": "a320" },
-        { "dep": "bcn", "arr": "fra", "airline": "en", "type": "a330" },
+        { "dep": "bcn", "arr": "fra", "airline": "ew", "type": "a330" },
         { "dep": "fra", "arr": "waw", "airline": "lh", "type": "a320" }
       ],
       "galleries": [

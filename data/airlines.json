@@ -111,7 +111,7 @@
     "fo": {
       "name": "Fly Bondi"
     },
-    "en": {
+    "ew": {
       "name": "Eurowings"
     },
     "3b": {
@@ -125,6 +125,12 @@
     },
     "yw": {
       "name": "Air Nostrum"
+    },
+    "en": {
+      "name": "Air Dolomiti"
+    },
+    "2l": {
+      "name": "Helvetic Airways"
     }
   }
 }
