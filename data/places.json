@@ -4957,7 +4957,7 @@
       "name": "Nommerlayen",
       "country": "luksemburg"
     },
-    "haraklion": {
+    "heraklion": {
       "lat": 35.33818011326194,
       "lon": 25.131371050322027,
       "name": "Heraklion",
@@ -4992,6 +4992,12 @@
       "lon": 6.761466037992363,
       "name": "Duisburg",
       "country": "niemcy"
+    },
+    "zurych": {
+      "lat": 47.37681278891015,
+      "lon": 8.540921904948897,
+      "name": "Zurych",
+      "country": "szwajcaria"
     }
   }
 }
