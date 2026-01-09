@@ -1,16 +1,6 @@
 {
   "trips": [
     {
-      "name": "Konferencyjnie w Kolonii i zakupy płytowe",
-      "date": ["2025-11-17", "2025-11-22"],
-      "places": ["dortmund", "essen", "duisburg", "kolonia"]
-    },
-    {
-      "name": "Konferencyjnie w Wiśle",
-      "date": ["2025-11-04", "2025-11-07"],
-      "places": ["wisla"]
-    },
-    {
       "name": "Jesienny sezon wyjazdowo-konferencyjny",
       "date": ["2025-09-25", "2025-10-09"],
       "places": ["heraklion", "xixona", "alicante", "sant_joan_alacant", "madryt"],
@@ -48,21 +38,6 @@
       ]
     },
     {
-      "name": "Konferencja A11y Club Summit i zakupy płytowe",
-      "date": ["2025-05-21", "2025-05-25"],
-      "places": ["hamburg", "wurzburg"]
-    },
-    {
-      "name": "Pracowe warsztaty w centrali",
-      "date": ["2025-04-07", "2025-04-11"],
-      "places": ["bristol"],
-      "routes": [
-        { "dep": "wro", "arr": "brs", "airline": "fr", "type": "b737" },
-        { "dep": "brs", "arr": "ams", "airline": "t3", "type": "emb190" },
-        { "dep": "ams", "arr": "wro", "airline": "kl", "type": "emb190" }
-      ]
-    },
-    {
       "name": "Hiszpania konferencyjno-zwariowana 2",
       "date": ["2024-11-18", "2024-11-30"],
       "places": ["ronda", "algeciras", "gibraltar", "marbella", "malaga"],
@@ -83,22 +58,6 @@
       ]
     },
     {
-      "name": "React Alicante po raz czwarty",
-      "date": ["2024-09-18", "2024-09-23"],
-      "places": ["alicante"],
-      "routes": [
-        { "dep": "wro", "arr": "zrh", "airline": "2l", "type": "emb190" },
-        { "dep": "zrh", "arr": "alc", "airline": "lx", "type": "a220" },
-        { "dep": "alc", "arr": "muc", "airline": "lh", "type": "a320" },
-        { "dep": "muc", "arr": "wro", "airline": "lh", "type": "cr9" }
-      ]
-    },
-    {
-      "name": "Na zakupach płytowych w Berlinie",
-      "date": ["2024-08-28", "2024-09-01"],
-      "places": ["berlin"]
-    },
-    {
       "name": "Belgia i Holandia z młodzieżą",
       "date": ["2024-08-02", "2024-08-08"],
       "places": ["bruksela", "baarle_hertog", "baarle_nassau", "rotterdam", "leiden", "gouda", "amsterdam"],
@@ -109,15 +68,6 @@
       ]
     },
     {
-      "name": "Na zakupach płytowych ze skandynawską psychodelią",
-      "date": ["2024-06-03", "2024-06-07"],
-      "places": ["kopenhaga", "malmo"],
-      "routes": [
-        { "dep": "wro", "arr": "cph", "airline": "dy", "type": "b737" },
-        { "dep": "cph", "arr": "wro", "airline": "dy", "type": "b737" }
-      ]
-    },
-    {
       "name": "Majorka na przyspieszenie wiosny",
       "date": ["2024-04-05", "2024-04-10"],
       "places": ["palma_de_mallorca", "valldemossa"],
@@ -125,11 +75,6 @@
         { "dep": "wro", "arr": "pmi", "airline": "fr", "type": "b737" },
         { "dep": "pmi", "arr": "wro", "airline": "fr", "type": "b737" }
       ]
-    },
-    {
-      "name": "Konferencja React Day i zakupy płytowe",
-      "date": ["2023-12-07", "2023-12-09"],
-      "places": ["berlin"]
     },
     {
       "name": "Hiszpania konferencyjno-zwariowana",
@@ -143,24 +88,6 @@
         { "dep": "mln", "arr": "agp", "airline": "yw", "type": "at7" },
         { "dep": "agp", "arr": "zrh", "airline": "lx", "type": "a321" },
         { "dep": "zrh", "arr": "waw", "airline": "lx", "type": "a220" }
-      ]
-    },
-    {
-      "name": "React Alicante 2023",
-      "date": ["2023-09-28", "2023-10-03"],
-      "places": ["alicante", "villajoyosa"],
-      "routes": [
-        { "dep": "waw", "arr": "alc", "airline": "w6", "type": "a321" },
-        { "dep": "alc", "arr": "waw", "airline": "w6", "type": "a321" }
-      ]
-    },
-    {
-      "name": "Szybka delegacja",
-      "date": ["2023-09-05", "2023-09-07"],
-      "places": ["bristol"],
-      "routes": [
-        { "dep": "waw", "arr": "lhr", "airline": "ba", "type": "a320" },
-        { "dep": "lhr", "arr": "waw", "airline": "ba", "type": "a320" }
       ]
     },
     {
@@ -234,15 +161,6 @@
       ]
     },
     {
-      "name": "Zmniejszenie szoku termicznego - szybka delegacja",
-      "date": ["2022-11-22", "2022-11-25"],
-      "places": ["bristol"],
-      "routes": [
-        { "dep": "waw", "arr": "lhr", "airline": "lo", "type": "b737" },
-        { "dep": "lhr", "arr": "waw", "airline": "lo", "type": "b737" }
-      ]
-    },
-    {
       "name": "Pomiędzy kontynentami",
       "date": ["2022-11-03", "2022-11-19"],
       "places": ["santa_maria", "tarrafal", "cidade_velha", "praia", "murdeira"],
@@ -308,11 +226,6 @@
           "source": "Google Photos"
         }
       ]
-    },
-    {
-      "name": "Sylwester na Roztoczu",
-      "date": ["2021-12-27", "2022-01-02"],
-      "places": ["szczebrzeszyn", "zwierzyniec", "zamosc"]
     },
     {
       "name": "Rimini kulinarnie",
@@ -3549,31 +3462,133 @@
       "hidden": true,
       "name": "kontener",
       "date": ["2025-01-01", "2025-01-01"],
-      "places": ["warszawa", "polkowice"]
+      "places": ["polkowice", "bristol","hamburg", "wurzburg", "wisla", "dortmund", "essen", "duisburg", "kolonia", "warszawa"],
+      "routes": [
+        { "dep": "wro", "arr": "brs", "airline": "fr", "type": "b737" },
+        { "dep": "brs", "arr": "ams", "airline": "t3", "type": "emb190" },
+        { "dep": "ams", "arr": "wro", "airline": "kl", "type": "emb190" },
+        {
+          "notka": "Przez opóźnienie na przylocie z Aten spóźniłem się na powrót do Wrocławia. Linia załatwiała serię przesiadek.",
+          "dep": "muc",
+          "arr": "wro",
+          "airline": "lh",
+          "type": "cr9",
+          "isCanceled": true
+        },
+        {
+          "notka": "Pierwszą opcją zastępczą był MUC-FRA późno następnego dnia, aby po kolejnej nocce lecieć FRA-WRO. Taką dostałem zmianę automatyczną, ale ostatecznie z niej zrezygnowałem.",
+          "dep": "muc",
+          "arr": "fra",
+          "airline": "lh",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "notka": "Drugi odcinek automatycznego rebookingu, który udało mi się zmienić.",
+          "dep": "fra",
+          "arr": "wro",
+          "airline": "en",
+          "type": "emb190",
+          "isCanceled": true
+        },
+        {
+          "notka": "Z powodu opóźnienia na odcinku z Madrytu i braku obsługi pod naszym rękawem, nie zdążyłem na odcinek do Wrocławia. Linia automatycznie zorganizowała rebooking przez Amsterdam, chociaż na wieczornym powrocie do Wrocławia było kilka miejsc. Skorzystałem jednak z opcji Amsterdamu.",
+          "dep": "muc",
+          "arr": "wro",
+          "airline": "lh",
+          "type": "cr9",
+          "isCanceled": true
+        }
+      ]
     },
     {
       "hidden": true,
       "name": "kontener",
       "date": ["2024-01-01", "2024-01-01"],
-      "places": ["warszawa", "polkowice"]
+      "places": ["warszawa", "polkowice", "kopenhaga", "malmo", "berlin", "alicante"],
+      "routes": [
+        { "dep": "wro", "arr": "cph", "airline": "dy", "type": "b737" },
+        { "dep": "cph", "arr": "wro", "airline": "dy", "type": "b737" },
+        {
+          "notka": "Ryanair w ostatniej chwili zrobił podmiankę na mniejszą maszynę i odmówił nam wejścia z powodu braku miejsca na pokładzie.",
+          "dep": "wro",
+          "arr": "trf",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        {
+          "dep": "trf",
+          "arr": "wro",
+          "airline": "fr",
+          "type": "b737",
+          "isCanceled": true
+        },
+        { "dep": "wro", "arr": "zrh", "airline": "2l", "type": "emb190" },
+        { "dep": "zrh", "arr": "alc", "airline": "lx", "type": "a220" },
+        { "dep": "alc", "arr": "muc", "airline": "lh", "type": "a320" },
+        { "dep": "muc", "arr": "wro", "airline": "lh", "type": "cr9" }
+      ]
     },
     {
       "hidden": true,
       "name": "kontener",
       "date": ["2023-01-01", "2023-01-01"],
-      "places": ["wroclaw", "rzeszow", "krakow", "rymanow"]
+      "places": ["wroclaw", "rzeszow", "krakow", "rymanow", "pisz", "bristol", "alicante", "villajoyosa", "berlin"],
+      "routes": [
+        {
+          "notka": "Drugą opcją było złapanie porannego lotu FRA-FCO. Nie zdążyliśmy na lot z powodu kolejek przy security. Zaoferowano nam kolejny rejs tamtego dnia, na który już się dostaliśmy.",
+          "dep": "fra",
+          "arr": "fco",
+          "airline": "lh",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "notka": "Pierwsza opcja zastępcza to był lot FRA-MUC, nocka na lotnisku aby złapać ten poranny MUC-FCO. Nie udało nam się dolecieć do Monachium i linia oferowała dalsze opcje zasstępcze.",
+          "dep": "muc",
+          "arr": "fra",
+          "airline": "lh",
+          "type": "a320",
+          "isCanceled": true
+        },
+        {
+          "notka": "Pierwsza opcja zastępcza to był lot FRA-MUC, nocka na lotnisku aby łapać poranny MUC-FCO. Ten lot też został odwołany z powodu ulewy, chociaż maszyna i załoga były gotowe do lotu.",
+          "dep": "fra",
+          "arr": "muc",
+          "airline": "lh",
+          "type": "a319",
+          "isCanceled": true
+        },
+        {
+          "notka": "Oryginalny lot do Rzymu został skasowany z powodu ulewy nad Frankfurtem. Nasz samolot na pusto przeleciał z Marsylii do Frankfurtu i oferowano nam kilka opcji przesiadki.",
+          "dep": "fra",
+          "arr": "fco",
+          "airline": "lh",
+          "type": "a320",
+          "isCanceled": true
+        },
+        { "dep": "waw", "arr": "lhr", "airline": "ba", "type": "a320" },
+        { "dep": "lhr", "arr": "waw", "airline": "ba", "type": "a320" },
+        { "dep": "waw", "arr": "alc", "airline": "w6", "type": "a321" },
+        { "dep": "alc", "arr": "waw", "airline": "w6", "type": "a321" }
+      ]
     },
     {
       "hidden": true,
       "name": "kontener",
       "date": ["2022-01-01", "2022-01-01"],
-      "places": ["wroclaw", "rzeszow", "pisz", "sierpc", "rymanow"]
+      "places": ["wroclaw", "rzeszow", "sierpc", "rymanow", "bristol"],
+      "routes": [
+        { "dep": "waw", "arr": "lhr", "airline": "lo", "type": "b737" },
+        { "dep": "lhr", "arr": "waw", "airline": "lo", "type": "b737" }
+      ]
     },
     {
       "hidden": true,
       "name": "kontener",
       "date": ["2021-01-01", "2021-01-01"],
-      "places": ["wroclaw", "stronie_slaskie", "rzeszow", "krynica", "gdansk", "rymanow"]
+      "places": ["wroclaw", "stronie_slaskie", "rzeszow", "krynica", "gdansk", "rymanow", "szczebrzeszyn", "zwierzyniec", "zamosc"]
     },
     {
       "hidden": true,
