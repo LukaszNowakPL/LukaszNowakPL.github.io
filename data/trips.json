@@ -3612,16 +3612,16 @@
         },
         {
           "notka": "Z powodu niepokojów społecznych w Boliwii linia miała problemy ze skompletowaniem załóg na część swoich lotów. Nasz zaplanowany odcinek Cochabamba - Sucre został skasowany, ale przebookowano nas też na kolejny rejs na tej samej trasie.",
-          "dep": "CBB",
-          "arr": "SRE",
+          "dep": "cbb",
+          "arr": "sre",
           "airline": "ob",
           "type": "b737",
           "isCanceled": true
         },
         {
           "notka": "Linia z powodów operacyjnych o kilkanaście godzin opóźniła start i zmieniła lotnisko wylotu na Ezeizę w Buenos Aires.",
-          "dep": "EPA",
-          "arr": "REL",
+          "dep": "epa",
+          "arr": "rel",
           "airline": "fo",
           "type": "b737",
           "isCanceled": true
