@@ -3456,7 +3456,26 @@
       "hidden": true,
       "name": "kontener na przyszłe",
       "date": ["2026-12-31", "2026-12-31"],
-      "places": ["zurych"]
+      "places": ["zurych"],
+      "routes": [
+        { "dep": "wro", "arr": "fra", "airline": "en", "type": "emb190" },
+        { "dep": "fra", "arr": "zrh", "airline": "en", "type": "emb190" },
+        { "dep": "zrh", "arr": "wro", "airline": "2l", "type": "emb190" }
+      ]
+    },
+    {
+      "hidden": true,
+      "name": "kontener",
+      "date": ["2026-01-01", "2026-01-01"],
+      "places": ["eastbourne", "hastings", "brighton", "portsmouth", "bristol"],
+      "routes": [
+        { "dep": "wro", "arr": "lgw", "airline": "w6", "type": "a321" },
+        { "dep": "lgw", "arr": "wro", "airline": "w6", "type": "a321" },
+        { "dep": "wro", "arr": "ams", "airline": "kl", "type": "emb190" },
+        { "dep": "ams", "arr": "brs", "airline": "kl", "type": "b737" },
+        { "dep": "brs", "arr": "ams", "airline": "kl", "type": "emb175" },
+        { "dep": "ams", "arr": "wro", "airline": "kl", "type": "emb175" }
+      ]
     },
     {
       "hidden": true,

@@ -4993,6 +4993,24 @@
       "name": "Duisburg",
       "country": "niemcy"
     },
+    "eastbourne": {
+      "lat": 50.767971446769685,
+      "lon": 0.28995950135844295,
+      "name": "Eastbourne",
+      "country": "wielka-brytania"
+    },
+    "hastings": {
+      "lat": 50.854500962858154,
+      "lon": 0.5790068473658924,
+      "name": "Hastings",
+      "country": "wielka-brytania"
+    },
+    "portsmouth": {
+      "lat": 50.77914141145038,
+      "lon": -1.079149074159798,
+      "name": "Portsmouth",
+      "country": "wielka-brytania"
+    },
     "zurych": {
       "lat": 47.37681278891015,
       "lon": 8.540921904948897,
