@@ -5016,6 +5016,66 @@
       "lon": 8.540921904948897,
       "name": "Zurych",
       "country": "szwajcaria"
+    },
+    "vaduz": {
+      "lat": 47.13973880361786,
+      "lon": 9.522612636564816,
+      "name": "Vaduz",
+      "country": "liechtenstein"
+    },
+    "sankt_gallen": {
+      "lat": 47.42355440395086,
+      "lon": 9.377268467972145,
+      "name": "St. Gallen",
+      "country": "szwajcaria"
+    },
+    "appenzell": {
+      "lat": 47.33148040199515,
+      "lon": 9.407635460105698,
+      "name": "Appenzell",
+      "country": "szwajcaria"
+    },
+    "winterthur": {
+      "lat": 47.49992395047152,
+      "lon": 8.723560199218605,
+      "name": "Winterthur",
+      "country": "szwajcaria"
+    },
+    "grzybowo": {
+      "lat": 54.169170460478384,
+      "lon": 15.499939151098253,
+      "name": "Grzybowo",
+      "country": "polska"
+    },
+    "jedlina_zdroj": {
+      "lat": 50.71969827136511,
+      "lon": 16.345271286603126,
+      "name": "Jedlina Zdrój",
+      "country": "polska"
+    },
+    "mullerthal": {
+      "lat": 49.791240914616104,
+      "lon": 6.311691238953645,
+      "name": "Mullerthal Trail",
+      "country": "luksemburg"
+    },
+    "nancy": {
+      "lat": 48.69348152220987,
+      "lon": 6.183158166910725,
+      "name": "Nancy",
+      "country": "francja"
+    },
+    "metz": {
+      "lat": 49.11788596574193,
+      "lon": 6.1759695416986,
+      "name": "Metz",
+      "country": "francja"
+    },
+    "belgrad": {
+      "lat": 44.81268366825658,
+      "lon": 20.461400041455345,
+      "name": "Belgrad",
+      "country": "serbia"
     }
   }
 }
