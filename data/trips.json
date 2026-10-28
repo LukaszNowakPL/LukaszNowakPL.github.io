@@ -3508,7 +3508,7 @@
       "routes": [
         { "dep": "wro", "arr": "waw", "airline": "lo", "type": "e190" },
         { "dep": "waw", "arr": "beg", "airline": "lo", "type": "e190" },
-        { "dep": "bed", "arr": "waw", "airline": "lo", "type": "e190" },
+        { "dep": "beg", "arr": "waw", "airline": "lo", "type": "e190" },
         { "dep": "waw", "arr": "wro", "airline": "lo", "type": "e175" }
       ]
     },
