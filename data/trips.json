@@ -1,6 +1,33 @@
 {
   "trips": [
     {
+      "name": "Urodzinowy prezent",
+      "date": ["2026-10-17", "2026-10-19"],
+      "places": ["uppsala", "sztokholm"],
+      "routes": [
+        { "dep": "wro", "arr": "waw", "airline": "lo", "type": "emb190" },
+        { "dep": "waw", "arr": "arn", "airline": "lo", "type": "emb190" },
+        { "dep": "arn", "arr": "waw", "airline": "lo", "type": "b737" },
+        { "dep": "waw", "arr": "wro", "airline": "lo", "type": "emb190" }
+      ]
+    },
+    {
+      "name": "React Alicante, El Hierro i Teneryfa północna",
+      "date": ["2026-09-23", "2026-10-07"],
+      "places": ["alicante", "la_frontera", "santa_cruz_de_tenerife", "gory_anaga"],
+      "routes": [
+        { "dep": "wro", "arr": "fra", "airline": "en", "type": "emb190" },
+        { "dep": "fra", "arr": "alc", "airline": "lh", "type": "a321" },
+        { "dep": "alc", "arr": "mad", "airline": "ux", "type": "b737" },
+        { "dep": "mad", "arr": "lpa", "airline": "nt", "type": "emb190" },
+        { "dep": "lpa", "arr": "vde", "airline": "nt", "type": "at7" },
+        { "dep": "vde", "arr": "tfn", "airline": "nt", "type": "at7" },
+        { "dep": "tfn", "arr": "mad", "airline": "ux", "type": "b787" },
+        { "dep": "mad", "arr": "muc", "airline": "lh", "type": "a319" },
+        { "dep": "muc", "arr": "wro", "airline": "lh", "type": "a319" }
+      ]
+    },
+    {
       "name": "Powrót do Luksemburga i okoliczna Francja",
       "date": ["2026-06-17", "2026-06-23"],
       "places": ["luksemburg", "mullerthal", "nancy", "metz"],
@@ -3477,21 +3504,34 @@
       "hidden": true,
       "name": "kontener na przyszłe",
       "date": ["2026-12-31", "2026-12-31"],
-      "places": ["alicante", "belgrad"],
-      "routes": []
+      "places": ["belgrad"],
+      "routes": [
+        { "dep": "wro", "arr": "waw", "airline": "lo", "type": "e190" },
+        { "dep": "waw", "arr": "beg", "airline": "lo", "type": "e190" },
+        { "dep": "bed", "arr": "waw", "airline": "lo", "type": "e190" },
+        { "dep": "waw", "arr": "wro", "airline": "lo", "type": "e175" }
+      ]
     },
     {
       "hidden": true,
       "name": "kontener",
       "date": ["2026-01-01", "2026-01-01"],
-      "places": ["eastbourne", "hastings", "brighton", "portsmouth", "bristol", "grzybowo", "jedlina_zdroj", "warszawa"],
+      "places": ["eastbourne", "hastings", "brighton", "portsmouth", "bristol", "polkowice", "grzybowo", "jedlina_zdroj", "warszawa", "szklarska_poreba", "leszno", "brenno", "wielkopolski_park_narodowy"],
       "routes": [
         { "dep": "wro", "arr": "lgw", "airline": "w6", "type": "a321" },
         { "dep": "lgw", "arr": "wro", "airline": "w6", "type": "a321" },
         { "dep": "wro", "arr": "ams", "airline": "kl", "type": "emb190" },
         { "dep": "ams", "arr": "brs", "airline": "kl", "type": "b737" },
         { "dep": "brs", "arr": "ams", "airline": "kl", "type": "emb175" },
-        { "dep": "ams", "arr": "wro", "airline": "kl", "type": "emb175" }
+        { "dep": "ams", "arr": "wro", "airline": "kl", "type": "emb175" },
+        {
+          "notka": "Na lotnisku okazało się że rejs jest odwołany. Linia załatwiła przesiadkę na Binter odlatujący jakieś 15 minut wcześniej.",
+          "dep": "vde",
+          "arr": "tfn",
+          "airline": "pm",
+          "type": "at7",
+          "isCanceled": true
+        }
       ]
     },
     {

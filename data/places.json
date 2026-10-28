@@ -5071,6 +5071,48 @@
       "name": "Metz",
       "country": "francja"
     },
+    "brenno": {
+      "lat": 51.93817352996616,
+      "lon": 16.215959068645308,
+      "name": "Brenno",
+      "country": "polska"
+    },
+    "la_frontera": {
+      "lat": 27.754191606834198,
+      "lon": -18.011114574621338,
+      "name": "La Frontera",
+      "country": "hiszpania"
+    },
+    "gory_anaga": {
+      "lat": 28.53185208926685,
+      "lon": -16.280564705082732,
+      "name": "Góry Anaga",
+      "country": "hiszpania"
+    },
+    "wielkopolski_park_narodowy": {
+      "lat": 52.25735858182624,
+      "lon": 16.8084985895091,
+      "name": "Wielkopolski Park Narodowy",
+      "country": "polska"
+    },
+    "uppsala": {
+      "lat": 59.858411394050975,
+      "lon": 17.638771973361127,
+      "name": "Uppsala",
+      "country": "szwecja"
+    },
+    "sztokholm": {
+      "lat": 59.33022099097041,
+      "lon": 18.057902455008364,
+      "name": "Sztokholm",
+      "country": "szwecja"
+    },
+    "leszno": {
+      "lat": 51.84343822665904,
+      "lon": 16.574324921513483,
+      "name": "Leszno",
+      "country": "polska"
+    },
     "belgrad": {
       "lat": 44.81268366825658,
       "lon": 20.461400041455345,

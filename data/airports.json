@@ -1143,6 +1143,24 @@
       "lon": -1.3292524650154087,
       "name": "East Midlands, EMA, Wielka Brytania",
       "country": "wielka-brytania"
+    },
+    "lpa": {
+      "lat": 27.929228734485942,
+      "lon": -15.387236832970286,
+      "name": "Las Palmas, LPA, Hiszpania (Gran Canaria)",
+      "country": "hiszpania"
+    },
+    "vde": {
+      "lat": 27.814047997529293,
+      "lon": -17.884975732974752,
+      "name": "Valverde, VDE, Hiszpania (El Hierro)",
+      "country": "hiszpania"
+    },
+    "arn": {
+      "lat": 59.64942387418022,
+      "lon": 17.934194225164642,
+      "name": "Sztokholm Arlanda, ARN, Szwecja",
+      "country": "hiszpania"
     }
   }
 }

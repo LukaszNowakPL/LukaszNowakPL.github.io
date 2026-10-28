@@ -149,6 +149,15 @@
     },
     "ls": {
       "name": "Jet2.com"
+    },
+    "ux": {
+      "name": "Air Europa"
+    },
+    "nt": {
+      "name": "Binter Canarias"
+    },
+    "pm": {
+      "name": "Canary FLy"
     }
   }
 }
